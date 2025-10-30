@@ -1,0 +1,58 @@
+[
+  {
+    "criteria": "To what extent do the recommended measures reflect collaborative thinking and aim to create added value for all stakeholders (e.g., customers, employees, suppliers)?",
+    "score1_description": "Measures are one-sided and fail to consider the interests or benefits of other stakeholders. They do not foster trust or collaboration.",
+    "score2_description": "Measures show limited consideration for mutual benefit. While they may offer value to some, they overlook key stakeholder relationships or trust-building aspects.",
+    "score3_description": "Measures generally aim to benefit multiple stakeholders and show some collaborative intent, but may lack depth in addressing relational dynamics or trust.",
+    "score4_description": "Measures consistently reflect collaborative thinking and strive to create added value for all relevant parties. They support trust and relationship-building, though minor gaps may remain.",
+    "score5_description": "Measures exemplify deep collaborative thinking, clearly aiming to generate mutual value and strengthen trust-based relationships across all stakeholder groups."
+  },
+  {
+    "criteria": "To what extent are the recommended measures communicated with precision and transparency, especially when they are based on decisions made by the model?",
+    "score1_description": "Measures are vague or ambiguous. The underlying decisions are not communicated, leaving stakeholders uncertain or confused.",
+    "score2_description": "Measures show some clarity, but the rationale behind decisions is only partially communicated or lacks transparency.",
+    "score3_description": "Measures are generally clear and understandable. The decision-making process is somewhat transparent, though key details may be missing.",
+    "score4_description": "Measures are communicated with clarity and include transparent reasoning. Minor gaps in precision or completeness may still occur.",
+    "score5_description": "Measures are communicated with high precision and full transparency. The rationale behind decisions is clearly articulated, fostering understanding and certainty among stakeholders."
+  },
+  {
+    "criteria": "To what extent do the recommended measures reflect a holistic and comprehensive approach that applies relevant expertise to address the customer's needs?",
+    "score1_description": "Measures are narrow, superficial, or incomplete. They fail to demonstrate relevant expertise or address the broader context of the customer's situation.",
+    "score2_description": "Measures show limited application of expertise and only partially address the customer's needs. The approach lacks depth or breadth.",
+    "score3_description": "Measures are generally well-informed and address the customer's situation with some comprehensiveness. However, certain aspects may be underdeveloped or overlooked.",
+    "score4_description": "Measures reflect a solid application of expertise and provide a well-rounded response to the customer's needs. Minor gaps in holistic coverage may remain.",
+    "score5_description": "Measures demonstrate deep expertise and a fully holistic approach. They comprehensively address the customer's needs, showing a clear understanding of context and interdependencies."
+  },
+  {
+    "criteria": "To what extent do the recommended measures reflect cross-functional thinking and contribute to the overall benefit of the organization?",
+    "score1_description": "Measures are isolated and show no consideration for impacts beyond a single department or function. Organisational benefit is not addressed.",
+    "score2_description": "Measures show limited cross-functional awareness and may benefit one area while neglecting broader organisational implications.",
+    "score3_description": "Measures reflect some cross-functional thinking and aim to support organisational benefit, though connections across departments may be underdeveloped.",
+    "score4_description": "Measures demonstrate clear cross-functional awareness and are designed to benefit the organization as a whole. Minor gaps in integration may remain.",
+    "score5_description": "Measures exemplify entrepreneurial thinking across departments, clearly contributing to the overall benefit of the organization through integrated, strategic recommendations."
+  },
+  {
+    "criteria": "To what extent do the recommended measures reflect timely recognition of customer needs and emerging trends?",
+    "score1_description": "Measures show no awareness of customer needs or relevant trends. They appear outdated or disconnected from current developments.",
+    "score2_description": "Measures reflect limited recognition of customer needs or trends. Insights may be present but are not timely or well-integrated.",
+    "score3_description": "Measures demonstrate some awareness of customer needs and trends, though the recognition may be partial or not fully up to date.",
+    "score4_description": "Measures reflect timely and relevant recognition of customer needs and trends. Minor gaps in trend integration or customer insight may remain.",
+    "score5_description": "Measures show a strong and timely understanding of customer needs and emerging trends. They are forward-looking and well-aligned with current developments."
+  },
+  {
+    "criteria": "To what extent do the recommended measures actively promote demand and contribute to the growth of product and service sales?",
+    "score1_description": "Measures do not address sales growth or demand generation. They lack relevance to business development.",
+    "score2_description": "Measures show limited potential to increase demand or sales. Strategies may be weak, generic, or disconnected from market dynamics.",
+    "score3_description": "Measures include some relevant strategies to promote demand and sales, but they may lack depth, innovation, or alignment with business goals.",
+    "score4_description": "Measures actively promote demand and offer solid strategies for increasing sales. Minor gaps in market fit or execution detail may remain.",
+    "score5_description": "Measures strongly support demand generation and sales growth through well-targeted, innovative strategies that align with business objectives and market opportunities."
+  },
+  {
+    "criteria": "To what extent do the recommended measures reflect strategic foresight by considering different scenarios, opportunities, and risks?",
+    "score1_description": "Measures are reactive or short-sighted. They do not consider alternative scenarios, potential risks, or long-term opportunities.",
+    "score2_description": "Measures show limited strategic thinking. Some risks or opportunities may be acknowledged, but scenario consideration is minimal or underdeveloped.",
+    "score3_description": "Measures reflect some strategic foresight and include basic scenario thinking. Risks and opportunities are partially addressed.",
+    "score4_description": "Measures demonstrate strategic awareness, considering multiple scenarios and assessing relevant risks and opportunities. Minor gaps in depth or integration may remain.",
+    "score5_description": "Measures show strong strategic foresight, thoroughly evaluating different scenarios, risks, and opportunities. They reflect a proactive and well-considered approach to long-term impact."
+  }
+]

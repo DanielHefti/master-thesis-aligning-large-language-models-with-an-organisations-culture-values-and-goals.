@@ -1,0 +1,10 @@
+pandas
+openpyxl
+requests
+prometheus-eval
+transformers
+scipy
+matplotlib
+scikit-learn
+litellm
+numpy

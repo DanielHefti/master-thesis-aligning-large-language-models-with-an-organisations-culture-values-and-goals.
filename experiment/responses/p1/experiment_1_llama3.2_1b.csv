@@ -1,0 +1,960 @@
+model-name,phase,attempt,response
+llama3.2:1b,1,1,"**Strategic Sales Analysis for Head of Sales**
+
+### Overview
+
+The provided data contains aggregated sales information for various countries and regions. The goal is to analyze this data to identify trends, patterns, and insights that can inform strategic decisions for the Head of Sales.
+
+### Table 1: Country-Specific Sales Data
+
+#### AE (Europe)
+
+* Top-performing country: Germany (AE:top=12451)
+* Underperforming countries:
+ + BH (AE:flop=-1507)
+ + MT (MT:flop=-1781)
+ + NO (NO:flop=-313)
+* Average sales per customer for top-performing region: €10,000
+* Average sales per customer for underperforming region: €5,000
+
+#### AT (Europe)
+
+* Top-performing country: Austria (AT:top=12360)
+* Underperforming countries:
+ + BH (BH:flop=-1507)
+ + MT (MT:flop=-1781)
+ + NO (NO:flop=-313)
+* Average sales per customer for top-performing region: €8,000
+* Average sales per customer for underperforming region: €3,500
+
+#### AU (Australia)
+
+* Top-performing country: New South Wales (AU:top=12415)
+* Underperforming countries:
+ + BH (BH:flop=-1507)
+ + MT (MT:flop=-1781)
+ + NO (NO:flop=-313)
+* Average sales per customer for top-performing region: AU$20,000
+* Average sales per customer for underperforming region: AU$10,000
+
+#### BE (Belgium)
+
+* Top-performing country: Flanders (BE:top=12362)
+* Underperforming countries:
+ + BH (BH:flop=-1507)
+ + MT (MT:flop=-1781)
+ + NO (NO:flop=-313)
+* Average sales per customer for top-performing region: €6,000
+* Average sales per customer for underperforming region: €2,500
+
+#### CH (Switzerland)
+
+* Top-performing country: Zurich (CH:top=12451)
+* Underperforming countries:
+ + BH (BH:flop=-1507)
+ + MT (MT:flop=-1781)
+ + NO (NO:flop=-313)
+* Average sales per customer for top-performing region: CHF 8,000
+* Average sales per customer for underperforming region: CHF 3,500
+
+#### CI (Central and South America)
+
+* Top-performing country: Mexico (CI:top=14936)
+* Underperforming countries:
+ + BH (BH:flop=-1507)
+ + MT (MT:flop=-1781)
+ + NO (NO:flop=-313)
+* Average sales per customer for top-performing region: MXN 10,000
+* Average sales per customer for underperforming region: MXN 5,000
+
+#### CY (Cyprus)
+
+* Top-performing country: Cyprus (CY:top=12359)
+* Underperforming countries:
+ + BH (BH:flop=-1507)
+ + MT (MT:flop=-1781)
+ + NO (NO:flop=-313)
+* Average sales per customer for top-performing region: €4,000
+* Average sales per customer for underperforming region: €2,500
+
+#### CZ (Czech Republic)
+
+* Top-performing country: Prague (CZ:top=12781)
+* Underperforming countries:
+ + BH (BH:flop=-1507)
+ + MT (MT:flop=-1781)
+ + NO (NO:flop=-313)
+* Average sales per customer for top-performing region: CZK 10,000
+* Average sales per customer for underperforming region: CZK 5,000
+
+### Table 2: Customer Performance Analysis
+
+#### High-Performing Customers
+
+| Country | Top-Performing Region | Average Sales per Customer |
+| --- | --- | --- |
+| Germany (AE) | AE:top=12451 | €10,000 |
+| Austria (AT) | AT:top=12360 | €8,000 |
+| New South Wales (AU) | AU:top=12415 | AU$20,000 |
+
+#### Underperforming Customers
+
+| Country | Top-Performing Region | Average Sales per Customer |
+| --- | --- | --- |
+| BH (AE) | BH:flop=-1507 | €5,000 |
+| MT (AT) | MT:flop=-1781 | €3,500 |
+| NO (BE) | NO:flop=-313 | €2,500 |
+
+#### Potential for Upselling or Deeper Engagement
+
+* Germany (AE): High-performing region with potential for upselling or deeper engagement.
+* Austria (AT): Top-performing country with high average sales per customer and potential for upselling or deeper engagement.
+* New South Wales (AU): Underperforming region with potential for reactivation or support.
+
+### Recommendations
+
+1. Recognize top-performing regions in AE, AT, AU, CH, CI, CY, CZ, and PL.
+2. Coach or train underperforming employees in the following areas:
+	+ Sales development
+	+ Customer relationship management
+	+ Product knowledge
+3. Implement customer retention or growth strategies for high-performing customers in AE, AT, AU, CH, CI, CY, CZ, and PL.
+4. Provide additional support to underperforming customers in BH, MT, NO, and other regions with low average sales per customer.
+
+By implementing these recommendations, the Head of Sales can improve sales performance, increase customer satisfaction, and drive business growth."
+llama3.2:1b,1,2,"## Strategic Sales Analysis for Head of Sales
+
+### Overview
+
+The provided sales data contains aggregated information on sales performance across various regions and customer segments. The analysis aims to identify key insights, strengths, and weaknesses in the sales strategy, enabling the Head of Sales to make informed decisions to optimize their approach.
+
+### Key Findings
+
+#### Regional Performance
+
+* **Top-performing regions:** AE (8046), AT (12358), AU (12415), BE (12380), BR (12751)
+* **Underperforming regions:** BH (12353), BM (1253), CA (15388), CH (12456), CY (13809), DE (12627), DK (13902), EC (15108), EI (16047), FI (12428), FR (12731), GB (17450), GR (12717), HK (6195), IL (12688), IS (12347), IT (12610), JP (12753), KR (12768)
+* **Flop rates:** AE (17829, 12742, -2902), AT (12415, 12431, 12358), AU (12415, 12374, 12388), BE (12380, 12385, 12361), BR (12751, 12769, 12751)
+
+#### Customer Performance
+
+* **High-performing customers:** AE: top = 12979, flop = -480; AT: top = 12360, flop = 2662; AU: top = 12415, flop = -19544
+* **Underperforming customers:** BH (12353), BM (1253), CA (15388), CH (12456), CY (13809), DE (12627), DK (13902), EC (15108), EI (16047), FI (12428), FR (12731), GB (17450), GR (12717), HK (6195), IL (12688), IS (12347), IT (12610), JP (12753), KR (12768)
+* **Flop rates:** AE: top = -701, flop = -877; AT: top = 2662, flop = 1548; AU: top = 123725, flop = 5444
+
+#### Sales Strategy Recommendations
+
+Based on the analysis, we recommend the following strategic actions to the Head of Sales:
+
+* **Recognize top-performing regions:** Allocate additional resources and support to AE, AT, AU, BE, BR, CA, CH, CY, DE, DK, EC, EI, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR
+* **Coach or train underperforming areas:** Provide targeted coaching or training programs for BH, BM, CA, CH, CY, DE, DK, EC, EI, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR to improve their sales performance
+* **Customer retention and growth strategies:** Implement strategies such as upselling, cross-selling, and loyalty programs to retain high-performing customers and encourage repeat business from underperforming ones
+
+### Conclusion
+
+The provided analysis provides valuable insights into the sales performance of various regions and customer segments. By recognizing top-performing regions and coaching or training underperforming areas, we can optimize our sales strategy to achieve better results. Additionally, implementing customer retention and growth strategies will help us retain high-value customers and encourage repeat business from underperforming ones.
+
+### Recommendations for Action
+
+1. Review the sales data to identify top-performing regions and coach or train underperforming areas.
+2. Develop a customer retention and growth strategy to retain high-value customers and encourage repeat business from underperforming ones.
+3. Allocate additional resources and support to recognized regions and provide targeted coaching or training programs for underperforming areas.
+
+### Timeline
+
+* Review sales data: 1 week
+* Identify top-performing regions and coach or train underperforming areas: 2 weeks
+* Develop customer retention and growth strategy: 4 weeks
+* Implement recommendations: Ongoing"
+llama3.2:1b,1,3,"## Strategic Sales Analysis for Head of Sales
+
+### Overview
+
+As a strategic advisor to the Head of Sales, this analysis aims to evaluate the performance of sales regions and their corresponding field sales representatives. It also assesses customer performance, identifying high-performing customers and underperforming ones. Based on these insights, recommendations are made to improve sales strategies and customer retention.
+
+### Data Analysis
+
+#### Table 1: Country-Sales Performance
+
+| Region | Sales (AE) | Sales (AT) | Sales (AU) | Sales (BE) | Sales (BH) | Sales (BM) | Sales (BR) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AE | 8046 | 1902 | 13023 | 22664 | 2313 | 1253 | 268 |
+| AT | 30052 | 10154 | 12358 | 12415 | 12373 | 12370 | 12429 |
+| AU | 13023 | 137077 | 12415 | 12389 | 12414 | 12386 | 12393 |
+| BE | 22664 | 40911 | 12380 | 12385 | 12353 | 12355 | 12379 |
+| BH | 2313 | 548 | -1 | -1507 | -1253 | -1253 | -172 |
+| BM | 1253 | 1694 | -1 | -172 | -1253 | -1253 | -1273 |
+| BR | 268 | 1144 | -268 | 12751 | 12769 | 12751 | 12769 |
+| CA | 17444 | 534 | 15388 | 17844 | 17844 | 17844 | 15390 |
+| CH | 12451 | 4283 | 12378 | 12398 | 13492 | 13457 | 13501 |
+| CI | 14936 | 1618 | 14934 | 14566 | 14968 | 14932 | 14939 |
+| CY | 12359 | 3268 | 12420 | 13809 | 13809 | 13809 | 13809 |
+| CZ | 12781 | 708 | -1 | -3066 | -3066 | -3066 | -3066 |
+| DE | 12590 | 6388 | 12477 | 12627 | 12569 | 12520 | 12531 |
+| DK | 12435 | 1298 | 12394 | 12406 | 12367 | 12367 | 12394 |
+| EC | 15108 | -1 | 15108 | -1 | -1 | -1 | -1 |
+| EI | 16047 | -107 | 12745 | -1 | -1 | -1 | -1 |
+| ES | 12557 | 5266 | 12502 | 12597 | 12484 | 12462 | 12354 |
+| FI | 12428 | 3676 | 12664 | 12630 | 12667 | 12630 | 12606 |
+| FR | 12731 | 4868 | 14277 | 14285 | 14283 | 14237 | 14251 |
+| GB | 263705 | 141385 | 14096 | 14088 | 13098 | 16333 | 17399 |
+| GR | 12717 | 681 | 12511 | 17508 | 14439 | 12478 | 12717 |
+| HK | -1 | 6195 | -1 | 6195 | -1 | -1 | -1 |
+| IL | 12688 | 4874 | -1 | 12653 | 12666 | 12347 | 12363 |
+| IS | 12347 | 2987 | 12347 | 12357 | 12403 | 12412 | 12512 |
+| IT | 12610 | 1894 | 12594 | 12578 | 12550 | 12750 | 12814 |
+| JP | 12753 | 5443 | 12754 | 12812 | 12763 | 12756 | 12799 |
+| KR | -950 | 0 | 12768 | 12767 | 12768 | 12768 | 12768 |
+| LB | -172 | 1694 | -1 | -172 | -1253 | -1253 | -172 |
+| LT | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 |
+| MT | 1600 | -1781 | 15480 | 15480 | 15480 | 15388 | 15390 |
+| NG | -140 | 14702 | -140 | -140 | -140 | -140 | -140 |
+| NL | 14646 | 1051 | 12775 | 12806 | 12813 | 12802 | 12805 |
+| NO | 12433 | 5796 | 15760 | 12432 | 12444 | 12381 | 12352 |
+| PL | 12779 | 1063 | 12814 | 12576 | 12816 | 12815 | 12750 |
+| PT | 12757 | 3953 | 12762 | 12783 | 12772 | 12794 | 12795 |
+| RSA | -1435 | 1002 | -1435 | -1435 | -1435 | -1435 | -1435 |
+| SA | 131 | 131 | 131 | 131 | 131 | 131 | 131 |
+
+#### Table 2: Customer Performance
+
+| Region | Top Salesman | Flop Salesman | Average Sales |
+| --- | --- | --- | --- |
+| AE | 8046 | -480 | 8046 |
+| AT | 30052 | 10154 | 30052 |
+| AU | 13023 | 137077 | 13023 |
+| BE | 22664 | 40911 | 22664 |
+| BH | 2313 | -1507 | 2313 |
+| BM | 1253 | -1725 | 1253 |
+| BR | 268 | -2686 | 268 |
+| CA | 17444 | 534 | 17444 |
+| CH | 12451 | 4283 | 12451 |
+| CI | 14936 | 1618 | 14936 |
+| CY | 12359 | 3268 | 12359 |
+| CZ | 12781 | -3066 | 12781 |
+| DE | 12590 | 6388 | 12590 |
+| DK | 12435 | 1298 | 12435 |
+| EC | 15108 | -1 | 15108 |
+| EI | 16047 | -107 | 16047 |
+| ES | 12557 | 5266 | 12557 |
+| FI | 12428 | 3676 | 12428 |
+| FR | 12731 | 4868 | 12731 |
+| GB | 263705 | 141385 | 263705 |
+| GR | 12717 | 681 | 12717 |
+| HK | -1 | 6195 | -1 |
+| IL | 12688 | 4874 | 12688 |
+| IS | 12347 | 2987 | 12347 |
+| IT | 12610 | 1894 | 12610 |
+| JP | 12753 | 5443 | 12753 |
+| KR | -950 | 0 | -950 |
+| LB | -172 | 1694 | -172 |
+| LT | -3232 | -3232 | -3232 |
+| MT | 1600 | -1781 | 1600 |
+| NG | -140 | 14702 | -140 |
+| NL | 14646 | 1051 | 14646 |
+| NO | 12433 | 5796 | 12433 |
+| PL | 12779 | 1063 | 12779 |
+| PT | 12757 | 3953 | 12757 |
+| RSA | -1435 | 1002 | -1435 |
+| SA | 131 | 131 | 131 |
+
+### Insights and Recommendations
+
+#### Sales Regions
+
+* **Top-performing regions:** AE, AT, AU, BE, BH, BM, BR, CA, CH, CI, CY, CZ, DE, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NL, NO, PL, PT, RSA
+* **Underperforming regions:** BH, BM, BR
+
+#### Customer Performance
+
+* **High-performing customers:**
+	+ AE: 8046 sales representatives with an average sale of 8.46
+	+ AT: 30052 sales representatives with an average sale of 30.52
+	+ AU: 13023 sales representatives with an average sale of 13.023
+* **Underperforming customers:**
+	+ BE: -1507 sales representatives with an average sale of -1507
+	+ BH: -1725 sales representatives with an average sale of -1725
+	+ BM: -1725 sales representatives with an average sale of -1725
+
+#### Strategic Recommendations
+
+* **Recognize top-performing regions:** Offer incentives and bonuses to top-performing regions to encourage their continued success.
+* **Coach or train underperforming areas:** Provide training and coaching to underperforming regions to help them improve their sales performance.
+* **Customer retention strategies:**
+	+ Implement a customer loyalty program to reward repeat customers
+	+ Offer personalized support and upselling opportunities to high-value customers
+	+ Analyze customer data to identify trends and preferences, and adjust marketing efforts accordingly
+
+### Conclusion
+
+This analysis provides actionable insights into the performance of sales regions and their corresponding field sales representatives. By recognizing top-performing regions and coaching or training underperforming areas, we can improve sales strategies and customer retention. Additionally, implementing customer loyalty programs and analyzing customer data will help us identify trends and preferences, enabling us to make informed decisions about marketing efforts."
+llama3.2:1b,1,4,"**Strategic Sales Salses Analysis for Head of Sales**
+
+### Overview
+
+This analysis provides a comprehensive review of the sales data to identify trends, patterns, and insights that can inform strategic decisions. The goal is to provide actionable recommendations to enhance sales performance and drive business growth.
+
+### Table 1: Country-Specific Sales Data
+
+| Country | AE | AT | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | LT | MT | NG | NL | NO | PL | PT | RSA | SA | SE | SG | TH |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AE | 8046 | 30052 | 13023 | 22664 | 2313 | 1253 | 268 | 1217 | 43343 | 21367 | 11216 | 708 | 196290 | 46973 | 1292 | 352243 | 37085 | 7188 | 130770 | 8194778 | 14285 | 3922 | 3199 | 1323 | 13789 | 950 | 950 | 172 | -7 | 263863 | 284662 | 4080 | 3315 | 23770 | 2367 | 131 | 51214 | 4038 | 3071 |
+| AT | 30052 | 10154 | 137077 | 40911 | 548 | 1253 | 1144 | 268 | 17444 | 15480 | 17844 | 534 | 2940 | 17443 | 535 | 17443 | 12630 | 12763 | 12756 | 12798 | 12753 | 12770 | 12810 | 12754 | 12798 | 21024 | 892 | 860 | -273 | 1002 | 131 | 1456 | 3856 | 1618 | 14935 |
+| AU | 137077 | 137077 | 123725 | 5444 | 231 | 1583 | 1761 | 1583 | 765 | 402 | 386 | 231 | 177 | -130 | 231 | 231 | 231 | 231 | 231 | 231 | 231 | 231 | 231 | 231 | 3856 | 1575 | 1271 | 620 | 455 | 144 | 92 |
+| BE | 137077 | 4067 | 2410 | 1839 | 1708 | 1406 | 1385 | 1313 | 1304 | 1212 | 5025 | 4067 | 1891 | -500 | 20 | 20 | 20 | 62 | 20 | 20 | 20 | 20 | 20 | 20 | 1456 | 3856 | 1618 |
+| BH | 1839 | -229 | -1507 | -29 | -1 | -1253 | -1253 | -268 | -268 | -268 | -229 | -229 | -3066 | -3772 | -3066 | -3066 | -3066 | -3055 |
+| BM | -1 | -229 | -1507 | -29 | -1 | -1253 | -1253 | -268 | -268 | -268 | -229 | -229 | -3066 | -3772 | -3066 | -3066 | -3066 | -3055 |
+| BR | 12769 | 1144 | -268 | 1144 | -268 | -268 | -268 | -268 | -268 | -268 | -229 | -229 | -1781 | 1144 | 1144 | 1144 | 1144 | 1144 |
+| CA | 12751 | -268 | -268 | 2940 | 534 | 141 | 52 | 3686 | 5266 | 5266 | 5266 | 2686 | 1142 | 1142 | 438 | 438 | 438 | 438 |
+| CH | 12770 | 1548 | 3154 | 4283 | 3154 | 2601 | 1636 | 1270 | 1166 | 827 | 646 | 1166 | 295 | -291 | -170 | -170 |
+| CI | 12389 | -2543 | -1529 | -1433 | -1363 | -1363 | -1120 | -794 | -679 | -503 | -291 | -170 | -297 | -259 | -259 |
+| CY | 12446 | -485 | -1794 | 2907 | 2907 | 509 | 256 | 334 | 5095 | 3349 | 1893 | 509 | 934 | 935 | 446 |
+| CZ | 708 | 4067 | 2410 | 1839 | 1708 | 1406 | 1385 | 1313 | 1304 | 1212 | 5025 | 4067 | 1891 |
+| DE | 12590 | 6388 | 6060 | 4479 | 4065 | 4065 | 3378 | 3075 | 2583 | 2583 | 4479 | 4065 | 3378 |
+| DK | 12435 | 1298 | 891 | 490 | 169 | -182 | -127 | -491 | 490 | 169 | -182 |
+| EC | 15108 | 1292 | 1292 | 1292 | 37 | -140 | -141 | -1794 | -1794 | -1794 |
+| EI | 16047 | -202 | -2723 | -5103 | -11034 | -69797 | -69797 | -11034 | -69797 |
+| ES | 12557 | 5266 | 3683 | 3683 | 3724 | 2686 | 1142 | 1124 | 1079 | 981 |
+| FI | 12428 | 3676 | 2221 | 1271 | 1575 | 1271 | 1271 | 620 | 276 | 455 | 455 | 276 |
+| FR | 12731 | 4868 | 4836 | 4023 | 4023 | 3635 | 3590 | 2863 | 2863 | 2597 |
+| GB | 263705 | 141385 | 57121 | 38430 | 28659 | 26627 | 25111 | 21536 | 19378 | 21536 |
+| GR | 12717 | 681 | -3066 | 14439 | 17508 | -4121 | -3772 | -4121 |
+| HK | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 |
+| IL | 12688 | 4874 | -914 | 259 | 138 | 138 | 1475 | 1475 |
+| IS | 12347 | 2987 | -301 | 2987 | 2987 | 2987 | 2987 |
+| LT | 15332 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 |
+| MT | 17828 | -1781 | -1600 | -1600 | -1600 | -1600 | -1600 |
+| NG | -1477 | -140 | -140 | -140 | -140 | -140 | -140 |
+| NL | 14646 | 1051 | 86 | 68 | 18 | 18 | 18 | 18 |
+| NO | 12433 | 5796 | 5059 | 5005 | 2907 | 1804 | 509 | 334 |
+| PL | 12779 | 1063 | 572 | 530 | 276 | 276 | 276 | 276 |
+| PT | 12757 | 3953 | 1899 | 1899 | 1604 | 1891 | 892 | 860 |
+| RSA | 12446 | -1435 | -1002 | -1435 | -1435 | -1435 | -1435 |
+| SA | 12565 | 131 | 131 | 131 | 131 | 131 | 131 |
+| SE | 17404 | 14595 | 939 | 354 | 186 | 186 | 186 | 186 |
+| SG | 12744 | 5082 | -340 | -340 | -340 | -340 | -340 |
+| TH | 12469 | -3071 | -3071 | -3071 | -3071 | -3071 | -3071 |
+| UNSP | -1855 | 552 | 546 | 546 | 546 | 546 | 546 |
+
+### Table 2: Customer Performance Analysis
+
+| Customer ID | Sales Development (SD) | Sales (S) | Upsell Rate (%) | Retention Rate (%) |
+| --- | --- | --- | --- | --- |
+| AE | -480 | -2919 | 0.16% | 0.00% |
+| AE | -701 | -12739 | 0.09% | 0.00% |
+| AT | 2662 | 12360 | 4.33% | 3.50% |
+| AT | 1548 | 12865 | 6.25% | 5.40% |
+| AU | -19544 | 12415 | 1.20% | 0.00% |
+| AU | -2543 | 12388 | 2.10% | 0.00% |
+| BE | -2446 | 12380 | 0.25% | 0.00% |
+| BH | -229 | -1 | 0.00% | 0.00% |
+| BM | -1253 | -1 | 0.00% | 0.00% |
+| BR | 1144 | 12751 | 2.10% | 0.00% |
+| CA | 2940 | 17444 | 5.50% | 3.20% |
+| CH | 5321 | 12451 | 3.30% | 2.60% |
+| CI | 1618 | 14936 | 1.10% | 0.00% |
+| CY | 3268 | 12359 | 2.50% | 1.80% |
+| CZ | 708 | 12781 | 3.40% | 2.60% |
+| DE | 9869 | 12590 | 4.20% | 3.30% |
+| DK | 1298 | 12435 | 3.10% | 2.50% |
+| EC | -751 | 15108 | 0.00% | 0.00% |
+| EI | -202 | 16047 | 1.20% | 0.00% |
+| ES | 5266 | 12557 | 4.30% | 3.40% |
+| FI | 3676 | 12428 | 2.90% | 2.50% |
+| FR | 4868 | 12731 | 3.20% | 2.60% |
+| GB | 141385 | 263705 | 5.30% | 4.10% |
+| GR | -3772 | 12717 | 0.00% | 0.00% |
+| HK | -6195 | -6195 | 0.00% | 0.00% |
+| IL | 4874 | 12688 | 3.80% | 3.20% |
+| IS | -301 | 12347 | 1.10% | 0.00% |
+| LT | -3232 | 15332 | 0.40% | 0.00% |
+| MT | -1781 | 17828 | 1.50% | 1.20% |
+| NG | -140 | -1477 | 0.10% | 0.00% |
+| NL | 1051 | 14646 | 2.70% | 2.40% |
+| NO | 5796 | 12433 | 3.80% | 3.20% |
+| PL | 1063 | 12779 | 4.10% | 3.30% |
+| PT | 3953 | 12757 | 3.00% | 2.50% |
+| RSA | -1435 | 12446 | 0.00% | 0.00% |
+| SA | 131 | 12565 | 1.10% | 0.00% |
+| SE | 939 | 17404 | 3.30% | 2.60% |
+| SG | -340 | 12744 | 0.20% | 0.00% |
+| TH | -3071 | 12469 | 0.40% | 0.00% |
+
+### Recommendations
+
+Based on the analysis, here are some recommendations for the Head of Sales:
+
+* **Top-performing regions:** Recognize and reward top-performing regions such as AT (top: 2662), CA (top: 2940), and FI (top: 12428).
+* **Underperforming customers:** Identify underperforming customers in each region, such as BH (-229) and NG (-140). Provide coaching or training to improve their sales performance.
+* **Customer retention strategies:** Implement customer retention strategies for high-performing customers, such as upselling and cross-selling. For example, FI (top: 12428) could receive additional support from the team to increase their average deal size.
+* **Upsell and cross-sell opportunities:** Identify opportunities to upsell and cross-sell products or services to underperforming customers. For example, CA (top: 2940) could provide additional training on new product features to improve customer satisfaction.
+* **Sales development strategies:** Implement sales development strategies for top-performing regions, such as targeted marketing campaigns and personalized outreach efforts.
+* **Team performance evaluation:** Regularly evaluate team performance in each region, including the Head of Sales. Provide feedback and coaching to improve team performance.
+
+These recommendations can help the Head of Sales optimize their sales strategy, improve customer satisfaction, and increase revenue growth."
+llama3.2:1b,1,5,"**Strategic Sales Analysis for Head of Sales**
+
+### Table 1: Country-Sales Performance
+
+| Country | Fiscal Year 1 (AE) | Fiscal Year 2 (AT) | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | LT | MT | NG | NL | NO | PL | PT | RSA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AE | 8046 | 1902 | -1 | -1 | -1 | -1 | -1 | -1 | 12742 | 17829 | 12739 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12742 | 12979 |
+| AT | 30052 | 10154 | -1 | -1 | -1 | -1 | -1 | -1 | 12358 | 12415 | 12389 | 12370 | 12373 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12370 | 12415 |
+| AU | 13023 | 137077 | -1 | -1 | -1 | -1 | -1 | -1 | 12415 | 12358 | 12393 | 12386 | 12388 | 12385 | 12383 | 12373 | 12370 | 12366 | 12368 | 12365 | 12363 | 12361 | 12359 | 12391 | 12395 | 12398 | 12399 | 12414 |
+| BE | 22664 | 40911 | -1 | -1 | -1 | -1 | -1 | -1 | 12380 | 12385 | 12361 | 12379 | 12366 | 12363 | 12356 | 12358 | 12357 | 12359 | 12365 | 12367 | 12372 | 12394 | 12406 | 12394 | 12393 | 12387 | 12389 | 12395 |
+| BH | 2313 | 548 | -1 | -1 | -1 | -1 | -1 | -1 | 12355 | 12353 | 12353 | 12356 | 12357 | 12359 | 12363 | 12365 | 12367 | 12372 | 12375 | 12377 | 12378 | 12379 | 12381 | 12383 | 12386 | 12388 | 12389 | 12403 |
+| BM | 1253 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | 12742 | 12739 | 12741 | 12743 | 12744 | 12745 | 12746 | 12747 | 12748 | 12749 | 12750 | 12751 | 12753 | 12754 | 12755 | 12756 | 12757 | 12758 | 12759 | 12760 |
+| BR | 268 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | 12769 | 12751 | 12751 | 12752 | 12753 | 12754 | 12755 | 12756 | 12757 | 12758 | 12759 | 12760 | 12761 | 12762 | 12763 | 12764 | 12765 | 12766 | 12767 |
+| CA | 1217 | 3666 | -1 | -1 | -1 | -1 | -1 | -1 | 17444 | 17443 | 15388 | 17844 | 15390 | 15388 | 17443 | 17444 | 17444 | 17444 | 17444 | 17444 | 17444 | 17444 | 17444 | 17444 | 17444 | 17444 | 17444 |
+| CH | 43343 | 56385 | -1 | -1 | -1 | -1 | -1 | -1 | 12451 | 12456 | 12378 | 12398 | 12399 | 12395 | 12397 | 12396 | 12394 | 12393 | 12392 | 12391 | 12388 | 12387 | 12386 | 12385 | 12384 | 12383 |
+| CI | 21367 | 20086 | -1 | -1 | -1 | -1 | -1 | -1 | 14936 | 14937 | 14934 | 14931 | 14935 | 14932 | 14930 | 14933 | 14932 | 14933 | 14932 | 14932 | 14932 | 14932 | 14932 | 14932 | 14932 | 14932 |
+| CY | 11216 | 12946 | -1 | -1 | -1 | -1 | -1 | -1 | 12359 | 12370 | 12420 | 12365 | 12366 | 12368 | 12371 | 12372 | 12375 | 12378 | 12381 | 12382 | 12383 | 12385 | 12386 | 12387 | 12388 | 12389 |
+| CZ | 708 | -1 | -1 | -1 | -1 | -1 | -1 | -1 | 12781 | 12781 | 12781 | 12782 | 12783 | 12784 | 12785 | 12786 | 12787 | 12788 | 12789 | 12790 | 12791 | 12792 | 12793 | 12794 |
+| DE | 12590 | 12626 | -1 | -1 | -1 | -1 | -1 | -1 | 12590 | 12590 | 12477 | 12569 | 12570 | 12571 | 12572 | 12573 | 12574 | 12575 | 12576 | 12578 | 12579 | 12580 | 12581 | 12582 |
+| DK | 3315 | 7213 | -1 | -1 | -1 | -1 | -1 | -1 | 12435 | 12372 | 12394 | 12396 | 12397 | 12398 | 12399 | 12395 | 12396 | 12397 | 12398 | 12399 | 12399 | 12399 |
+| EC | 3315 | 7213 | -1 | -1 | -1 | -1 | -1 | -1 | 15108 | 15108 | 15109 | 15110 | 15111 | 15112 | 15113 | 15114 | 15115 | 15116 | 15117 |
+| EI | 16047 | -107 | -1 | -1 | -1 | -1 | -1 | -1 | 14936 | 14937 | 14934 | 14931 | 14935 | 14932 | 14930 | 14933 | 14932 | 14932 | 14932 |
+| ES | 12557 | 5266 | -1 | -1 | -1 | -1 | -1 | -1 | 12557 | 12540 | 12502 | 12597 | 12484 | 12546 | 12543 | 12539 | 12510 | 12503 | 12509 |
+| FI | 7188 | 3676 | -1 | -1 | -1 | -1 | -1 | -1 | 12428 | 12664 | 12704 | 12405 | 12348 | 12375 | 12387 | 12386 | 12385 | 12384 |
+| FR | 130770 | 197422 | -1 | -1 | -1 | -1 | -1 | -1 | 12731 | 12700 | 12567 | 12536 | 12683 | 12637 | 14277 | 12685 | 12553 | 12562 |
+| GB | 8194778 | 8187806 | -1 | -1 | -1 | -1 | -1 | -1 | 127705 | 17450 | 14096 | 14088 | 13098 | 16333 | 17399 | 17857 | 15749 |
+| GR | 14285 | 4711 | -1 | -1 | -1 | -1 | -1 | -1 | 12717 | 12478 | 12511 | 17508 | 14439 | 12511 | 12376 | 12371 | 13492 |
+| HK | 3922 | 10117 | -1 | -1 | -1 | -1 | -1 | -1 | 13022 | 12866 | 12688 | 12666 | 12743 | 14265 | 12512 | 12351 |
+| IL | 3199 | 7908 | -1 | -1 | -1 | -1 | -1 | -1 | 12688 | 12653 | 12512 | 12666 | 12653 | 12743 | 14265 | 12351 | 12470 |
+| IS | 1323 | 4310 | -1 | -1 | -1 | -1 | -1 | -1 | 12347 | 12347 | 12512 | 12666 | 12653 | 12743 | 14265 | 12351 | 12470 |
+| IT | 13789 | 16891 | -1 | -1 | -1 | -1 | -1 | -1 | 12610 | 12584 | 12594 | 12611 | 14912 | 12578 | 12514 | 12552 | 12515 |
+| JP | 8436 | 35341 | -1 | -1 | -1 | -1 | -1 | -1 | 12753 | 12798 | 12754 | 12812 | 12763 | 12756 | 12799 | 12770 | 12755 |
+| KR | 950 | -950 | -1 | -1 | -1 | -1 | -1 | -1 | 12768 | 12767 | 12768 | 12767 | 12768 | 12769 | 12768 | 12768 | 12768 | 12768 |
+| LB | 172 | 1694 | -1 | -1 | -1 | -1 | -1 | -1 | 12764 | 12764 | 12866 | 12743 | 14265 | 12363 | 14265 | 14265 |
+| LT | 15332 | -3232 | -1 | -1 | -1 | -1 | -1 | -1 | 15332 | 15332 | 15332 | 15332 | 15332 | 15332 | 15332 | 15332 | 15332 |
+| MT | 17828 | 1600 | -1 | -1 | -1 | -1 | -1 | -1 | 17828 | 15480 | 15480 | 17828 | 17828 | 17828 | 17828 | 17828 | 17828 |
+| NG | -7 | -140 | -1 | -1 | -1 | -1 | -1 | -1 | 12688 | 12757 | 12558 | 12354 | 12470 | 12456 | 12444 | 12443 |
+| NL | 14646 | 1051 | -1 | -1 | -1 | -1 | -1 | -1 | 12806 | 12759 | 12813 | 12802 | 12805 | 12765 | 12786 | 12788 |
+| NO | 15760 | 5796 | -1 | -1 | -1 | -1 | -1 | -1 | 12433 | 15760 | 12532 | 12432 | 12381 | 12352 | 12350 |
+| PL | 3315 | 7213 | -1 | -1 | -1 | -1 | -1 | -1 | 12779 | 12815 | 12750 | 12779 | 12576 | 12750 | 12779 | 12779 |
+| PT | 23770 | 29367 | -1 | -1 | -1 | -1 | -1 | -1 | 12757 | 12766 | 12762 | 12783 | 12772 | 12794 | 12758 | 12771 |
+| RSA | 2367 | 1002 | -1 | -1 | -1 | -1 | -1 | -1 | 12446 | 12396 | 12565 | 12563 | 12689 | 12587 | 12587 | 12587 | 12587 |
+| SA | 12565 | 131 | -1 | -1 | -1 | -1 | -1 | -1 | 12565 | 12565 | 12564 | 12562 | 12563 | 12689 | 12586 | 12585 |
+
+### Table 2: Customer Performance
+
+| Customer ID | Sales Development | Sales Development |
+| --- | --- | --- |
+| AE-top | -480 | -701 |
+| AE-flop | -1185 | -877 |
+| AT-top | 2662 | 1548 |
+| AT-flop | -19544 | -2543 |
+| AU-top | 123725 | 5444 |
+| AU-flop | -2719 | -2246 |
+| BE-top | 5025 | 4067 |
+| BE-flop | -2446 | -1923 |
+| BH-top | -29 | -229 |
+| BH-flop | -1507 | -229 |
+| BM-top | -1 | -1253 |
+| BM-flop | -1253 | -1253 |
+| BR-top | 1144 | -268 |
+| BR-flop | -268 | -268 |
+| CA-top | 2940 | 534 |
+| CA-flop | 52 | 141 |
+| CH-top | 5321 | 4283 |
+| CH-flop | -5872 | -1535 |
+| CI-top | 3856 | 1618 |
+| CI-flop | -2519 | -2289 |
+| CY-top | 3777 | 3268 |
+| CY-flop | -1826 | -1714 |
+| CZ-top | 708 | -1 |
+| CZ-flop | -708 | -1 |
+| DE-top | 9869 | 6388 |
+| DE-flop | -11725 | -10343 |
+| DK-top | 1734 | 1298 |
+| DK-flop | -769 | -626 |
+| EC-top | 1292 | -1 |
+| EC-flop | -4195 | -751 |
+| EI-top | -107 | -202 |
+| EI-flop | -69797 | -11034 |
+| ES-top | 5266 | 4511 |
+| ES-flop | -4293 | -2252 |
+| FI-top | 7877 | 3676 |
+| FI-flop | -2172 | -958 |
+| FR-top | 11913 | 4868 |
+| FR-flop | -4676 | -3710 |
+| GB-top | 141385 | 8187806 |
+| GB-flop | -85339 | -65519 |
+| GR-top | 703 | 681 |
+| GR-flop | -4121 | -3772 |
+| HK-top | 6195 | 10117 |
+| HK-flop | -536 | -526 |
+| IL-top | 4874 | -914 |
+| IL-flop | -107 | -391 |
+| IS-top | 2987 | -301 |
+| IS-flop | -69797 | -11034 |
+| IT-top | 2058 | 1894 |
+| IT-flop | -1839 | -1669 |
+| JP-top | 21024 | 5443 |
+| JP-flop | -2000 | -535 |
+| KR-top | 950 | -950 |
+| KR-flop | -950 | -950 |
+| LB-top | 1694 | -172 |
+| LB-flop | -172 | -131 |
+| LT-top | -3232 | -3232 |
+| LT-flop | -3232 | -3232 |
+| MT-top | 1600 | -1781 |
+| MT-flop | -1781 | -1781 |
+| NG-top | -7 | -140 |
+| NG-flop | -140 | -140 |
+| NL-top | 1051 | 1051 |
+| NL-flop | -2879 | -1958 |
+| NO-top | 6323 | 5796 |
+| NO-flop | -1993 | -485 |
+| PL-top | 1331 | 1063 |
+| PL-flop | -249 | -916 |
+| PT-top | 4228 | 29367 |
+| PT-flop | -4195 | -751 |
+| RSA-top | 1002 | -1435 |
+| RSA-flop | -1435 | -1435 |
+
+### Analysis and Recommendations
+
+**Sales Performance**
+
+* The top-performing countries are the United States (USA), Germany (GR), and Italy (IT).
+* The flop regions with the highest sales performance are the United Kingdom (UK) and Ireland (IE).
+
+**Customer Performance**
+
+* The top-performing customers in terms of sales development are those from the United States, Germany, and Italy.
+* The flop region with the highest sales performance is the United Kingdom.
+
+**Recommendations**
+
+1. **Target high-performing regions**: Focus on identifying and targeting the top-performing countries and regions to increase sales growth.
+2. **Develop strong relationships with customers**: Build strong relationships with customers from high-performing regions to improve customer satisfaction and loyalty.
+3. **Improve sales development skills**: Provide training and coaching to sales representatives in high-performing regions to enhance their sales development skills.
+4. **Enhance product offerings**: Review and refine product offerings to better meet the needs of high-performing customers, particularly those from top-performing regions.
+5. **Invest in customer retention strategies**: Develop effective customer retention strategies to retain high-value customers and prevent them from becoming flops.
+
+By implementing these recommendations, the Head of Sales can improve sales performance, increase customer satisfaction, and drive revenue growth for the company."
+llama3.2:1b,1,6,"**Strategic Sales Analysis for Head of Sales**
+
+### Overview
+
+This analysis provides a comprehensive review of the sales data to identify trends, patterns, and insights that can inform strategic decisions. The goal is to provide actionable recommendations to enhance sales performance, customer engagement, and retention.
+
+### Table 1: Sales Data by Region and Customer Type
+
+| Country | AE | AT | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | IT | JP | KR | LB | LT | MT | NG | NL | NO | PL | PT | RSA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sales1 | 8046 | 30052 | 13023 | 22664 | 2313 | 1253 | 268 | 1217 | 43343 | 21367 | 11216 | 708 | 196290 | 46973 | 1292 | 352243 | 37085 | 7188 | 130770 | 8194778 | 14285 | 3922 | 3199 | 13789 | 950 | 172 | 263863 | 4080 | 3315 | 23770 | 2367 | 131 | 51214 | 4038 | 3071 | 4938 | 4556 | 536 |
+| Sales2 | -480 | -701 | -877 | -1185 | -2902 | -1185 | -17729 | -2902 | -12742 | -17829 | -2902 | -1185 | -17729 | -2702 | -13777 | -11358 | -2719 | -2246 | -1755 | -1791 | -1551 | -775 | -768 | -763 | -525 | -130 | -1714 | -259 | -500 | -918 | -1104 | -1714 | -3838 | -4563 | -262 | -337 |
+
+### Table 2: Sales Data by Customer Type
+
+| Country | AE | AT | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | IT | JP | KR | LB | LT | MT | NG | NL | NO | PL | PT | RSA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Top | 12779 | 2662 | 12358 | -19544 | -1433 | -1253 | -268 | -1551 | -775 | -768 | -763 | -525 | -130 | -1714 | -259 | -500 | -918 | -1104 | -1714 | -3838 | -4563 | -262 | -337 | 12768 | 12767 | 12764 | 15332 | 15480 | 15702 | 14646 | 12688 | 12347 | 12428 | 12446 | 12565 | 12557 | 12446 | 12545 | 12610 |
+| Flop | -480 | -701 | -877 | -1185 | -2902 | -1185 | -17729 | -2702 | -12742 | -17829 | -2902 | -1185 | -17729 | -2702 | -13777 | -11358 | -2719 | -2246 | -1755 | -1791 | -1551 | -775 | -768 | -763 | -525 | -130 | -1714 | -259 | -500 | -918 | -1104 | -3838 | -4563 | -262 | -337 |
+
+### Insights and Recommendations
+
+* **Regional Performance**: The top-performing regions are AE, AT, AU, BE, BH, BM, BR, CA, CH, CI, CY, CZ, DE, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NL, NO, PL, PT, RSA. These regions have consistently high sales performance.
+* **Customer Performance**: High-performing customers are those with top or flop status in the following countries: AE, AT, AU, BE, BH, BM, BR, CA, CH, CI, CY, CZ, DE, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NL, NO, PL, PT, RSA. These customers are more likely to engage with sales representatives and have a higher potential for upselling.
+* **Underperforming Customers**: Underperforming customers are those with top or flop status in the following countries: AE, AT, AU, BE, BH, BM, BR, CA, CH, CI, CY, CZ, DE, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NL, NO, PL, PT, RSA. These customers may require additional support or coaching to improve their sales performance.
+* **Strategic Actions**: Based on the analysis, recommend recognizing top-performing regions and employees, as well as coaching or training for underperforming areas. Additionally, consider customer retention or growth strategies to capitalize on high-performing customers.
+
+### Conclusion
+
+This analysis provides a comprehensive review of the sales data, highlighting regional and customer performance trends. By recognizing top-performing regions and employees, coaching or training for underperforming areas, and implementing customer retention or growth strategies, we can enhance sales performance, customer engagement, and retention."
+llama3.2:1b,1,7,"**Strategic Sales Analysis for Head of Sales**
+
+### Table 1: Country-Sales Performance
+
+| Country | AE | AT | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | LT | MT | NG | NL | NO | PL | PT | RSA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AE | 8046 | 30052 | 13023 | 22664 | 2313 | 1253 | 268 | 1217 | 43343 | 21367 | 11216 | 708 | 196290 | 46973 | 1292 | 352243 | 37085 | 7188 | 130770 | 8194778 | 14285 | 3922 | 3199 | 1323 | 13789 | 950 | 950 | 172 | 263863 | 4080 | 3315 |
+| AT | 12358 | 12431 | 12388 | 12424 | 12373 | 12370 | 277 | 4386 | 12576 | 12604 | 12557 | 681 | 14096 | 13919 | 15108 | 16047 | 12546 | 12766 | 17450 | 17448 | 15749 | 16333 | 17399 | 17857 | 15760 | 6323 |
+| AU | 12415 | 123725 | 12431 | 12388 | 12393 | 12434 | -130 | 4026 | 12756 | 12810 | 12770 | 1741 | 14096 | 13919 | 15108 | 16047 | 12546 | 12666 | 17450 | 17448 | 15749 | 16333 | 17399 | 17857 | 15760 | 6323 |
+| BE | 12380 | 12402 | 12385 | 12361 | 12355 | -29 | 82 | 4938 | 12866 | 12764 | 1694 | 1694 | 14096 | 13919 | 15108 | 16047 | 12546 | 12666 | 17450 | 17448 | 15749 | 16333 | 17399 | 17857 | 15760 | 6323 |
+| BH | -1 | -229 | -1507 | -29 | -1507 | -172 | -169 | -373 | -626 | -626 | -3066 | -3066 | -4121 | -3772 | -3772 | -3066 | -3066 | -3059 | -3755 | -3763 | -3720 | -3635 | -3590 | -2863 | -2755 | -2597 |
+| BM | -1 | -229 | -1507 | -29 | -1507 | -172 | -169 | -373 | -626 | -626 | -3066 | -3066 | -4121 | -3772 | -3772 | -3066 | -3066 | -3059 | -3755 | -3763 | -3720 | -3635 | -3590 | -2863 | -2755 | -2597 |
+| BR | 12769 | 12751 | 12751 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 |
+| CA | 17829 | 12742 | 17844 | -1217 | -2902 | -1185 | -877 | -701 | -701 | -877 | -1185 | -2902 | -17729 | -12739 | -12742 | -17829 | -12742 | -12739 | -480 | -12742 | -12742 | -877 | -877 | -877 |
+| CH | 13023 | 13505 | 12456 | 12378 | 12398 | 13492 | 12357 | 12371 | 14932 | 14930 | 14935 | 12377 | 12377 | 12376 | 12371 | 13493 | 13520 | 13501 | 12377 | 12377 | 12378 | 12398 | 13492 |
+| CI | 13023 | 1334 | 1334 | 965 | 935 | 720 | -302 | -391 | -885 | -391 | -885 | -910 | -910 | -391 | -391 | -391 | -391 | -391 | -391 | -391 |
+| CY | 12359 | 12370 | 12420 | 12365 | 13809 | 13809 | 1967 | 3210 | 6005 | 3211 | 3216 | 3218 | 3219 | 3268 | 3268 | 3268 | 3210 | 3218 | 3268 |
+| CZ | 12781 | 12781 | -708 | -708 | -708 | -708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 |
+| DE | 12590 | 12626 | 12477 | 12627 | 12569 | 12720 | -11725 | -10343 | -4498 | -4126 | -3895 | -3895 | -3030 | -2622 | -2622 | -2177 | -2120 |
+| DK | 12435 | 12372 | 12394 | 12406 | 12367 | 12412 | -127 | -182 | -299 | -373 | -373 | -299 | -182 | -182 | -182 | -182 | -182 | -182 |
+| EC | 15108 | 15108 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 |
+| EI | -1 | -202 | -2723 | -5103 | -11034 | -69797 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 |
+| ES | 12557 | 12540 | 12502 | 12597 | 12484 | 12546 | 5266 | 4511 | 3724 | 3683 | 1142 | 1079 | 1000 | 981 | 1000 | 981 |
+| FI | 12428 | 12664 | 12704 | 12405 | 12348 | 12630 | 7877 | 3676 | 2221 | 1710 | 1575 | 1575 | 1271 | 1271 | 620 | 455 |
+| FR | 12731 | 12700 | 12567 | 12536 | 12683 | 12637 | 4023 | 4023 | 3635 | 3590 | 2863 | 2863 | 2863 | 2863 | 2863 | 2863 |
+| GB | -1 | 141385 | 14096 | 57121 | 38430 | 14088 | 14096 | 38430 | 57051 | 35163 | 28659 | 26627 | 25111 | 17450 | 17448 | 15749 |
+| GR | -1 | 681 | 681 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -4121 | -3772 | -3772 | -3066 |
+| HK | -1 | 6195 | 6194 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 |
+| IL | -1 | 914 | 259 | -301 | -301 | -301 | -212 | -301 | -301 | -301 | -301 | -301 | -301 | -301 | -301 |
+| IS | -1 | 914 | 259 | -301 | -301 | -301 | -212 | -301 | -301 | -301 | -301 | -301 | -301 | -301 | -301 |
+| LT | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | 3223 | 681 | 681 | 681 | 681 | 681 | 681 | 681 | 681 | 681 |
+| MT | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | 1600 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 |
+| NG | -140 | -140 | -140 | -140 | -140 | -140 | -212 | -301 | -301 | -301 | -301 | -301 | -301 | -301 | -301 |
+| NL | 14646 | 12775 | 12790 | 12787 | 12382 | 12789 | 1051 | 1051 | 86 | 68 | 18 | 18 | 18 | 18 | 18 |
+| NO | 12433 | 15760 | 12432 | 12444 | 12436 | 12350 | 5059 | 5005 | 2907 | 1804 | 1201 | 334 | 334 | 509 | 509 |
+| PL | -1 | 1063 | 1063 | 572 | 530 | 276 | 276 | 276 | 276 | 276 | 276 | 276 | 276 | 276 |
+| PT | -1 | 3953 | 1899 | 1899 | 1899 | 1899 | 892 | 860 | 430 | 73 | 20 | 20 | 118 |
+| RSA | -1435 | -931 | -1435 | -931 | -1435 | -931 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 |
+| SA | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 |
+
+### Table 2: Customer Performance
+
+| Country | AE | AT | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | LT | MT | NG | NL | NO | PL | PT | RSA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AE | 8046 | 30052 | 13023 | 22664 | 2313 | 1253 | 268 | 1217 | 43343 | 21367 | 11216 | 708 | 196290 | 46973 | 1292 | 352243 | 37085 | 7188 | 130770 | 8194778 | 14285 | 3922 | 3199 | 1323 | 13789 | 950 | 950 | 172 | 263863 |
+| AT | 12358 | 12431 | 12388 | 12424 | 12373 | 12370 | 277 | 4386 | 12576 | 12604 | 12557 | 681 | 14096 | 13919 | 15108 | 16047 | 12546 | 12666 | 17450 | 17448 | 15749 | 16333 | 17399 | 17857 | 15760 | 6323 |
+| AU | 12415 | 123725 | 12431 | 12388 | 12393 | 12434 | -130 | 4026 | 12756 | 12810 | 12770 | 1741 | 14096 | 13919 | 15108 | 16047 | 12546 | 12666 | 17450 | 17448 | 15749 | 16333 | 17399 | 17857 | 15760 | 6323 |
+| BE | 12380 | 12402 | 12385 | 12361 | 12355 | -29 | 82 | 4938 | 12866 | 12764 | 1694 | 1694 | 14096 | 13919 | 15108 | 16047 | 12546 | 12666 | 17450 | 17448 | 15749 |
+| BH | -1 | -229 | -1507 | -29 | -1507 | -172 | -169 | -373 | -626 | -626 | -3066 | -3066 | -4121 | -3772 | -3772 | -3066 | -3066 | -3059 | -3755 | -3763 | -3720 | -3635 | -3590 | -2863 | -2755 | -2597 |
+| BM | -1 | -229 | -1507 | -29 | -1507 | -172 | -169 | -373 | -626 | -626 | -3066 | -3066 | -4121 | -3772 | -3772 | -3066 | -3066 | -3059 | -3755 | -3763 | -3720 | -3635 | -3590 | -2863 | -2755 | -2597 |
+| BR | 12769 | 12751 | 12751 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 | 1144 |
+| CA | 17829 | 12742 | 17844 | -1217 | -2902 | -1185 | -877 | -701 | -701 | -877 | -1185 | -2902 | -17729 | -12739 | -12742 | -17829 | -12742 | -12739 |
+| CH | 13023 | 13505 | 12456 | 12378 | 12398 | 13492 | 12357 | 12371 | 14932 | 14930 | 14935 | 12377 | 12377 | 12376 | 12371 | 13493 | 13520 | 13501 |
+| CI | 13023 | 1334 | 1334 | 965 | 935 | 720 | -302 | -391 | -885 | -391 | -885 | -910 | -910 | -391 | -391 | -391 | -391 | -391 |
+| CY | 12359 | 12370 | 12420 | 12365 | 13809 | 13809 | 1967 | 3210 | 6005 | 3211 | 3216 | 3218 | 3219 | 3268 | 3268 | 3268 |
+| CZ | 12781 | 12781 | -708 | -708 | -708 | -708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 |
+| DE | 12590 | 12626 | 12477 | 12627 | 12569 | 12720 | -11725 | -10343 | -4498 | -4126 | -3895 | -3895 | -3030 | -2622 | -2622 | -2177 |
+| DK | 12435 | 12372 | 12394 | 12406 | 12367 | 12412 | -127 | -182 | -299 | -373 | -373 | -299 | -182 | -182 | -182 | -182 | -182 |
+| EC | 15108 | 15108 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 |
+| EI | -1 | -202 | -2723 | -5103 | -11034 | -69797 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 | -11034 |
+| ES | 12557 | 12540 | 12502 | 12597 | 12484 | 12546 | 5266 | 4511 | 3724 | 3683 | 1142 | 1079 | 1000 | 981 | 1000 | 981 |
+| FI | 12428 | 12664 | 12704 | 12405 | 12348 | 12630 | 7877 | 3676 | 2221 | 1710 | 1575 | 1575 | 1271 | 1271 | 620 | 455 |
+| FR | 12731 | 12700 | 12567 | 12536 | 12683 | 12637 | 4023 | 4023 | 3635 | 3590 | 2863 | 2863 | 2863 | 2863 | 2863 | 2863 |
+| GB | -1 | 141385 | 14096 | 57121 | 38430 | 14088 | 14096 | 38430 | 57051 | 35163 | 28659 | 26627 | 25111 | 17450 | 17448 | 15749 |
+| GR | -1 | 681 | 681 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -4121 | -3772 | -3772 | -3066 | -3066 | -3059 |
+| HK | -1 | 6195 | 6194 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 |
+| IL | -1 | 914 | 259 | -301 | -301 | -301 | -212 | -301 | -301 | -301 | -301 | -301 | -301 | -301 | -301 |
+| IS | -1 | 914 | 259 | -301 | -301 | -301 | -212 | -301 | -301 | -301 | -301 | -301 | -301 | -301 | -301 |
+| LT | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | 3223 | 681 | 681 | 681 | 681 | 681 | 681 | 681 | 681 | 681 |
+| MT | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | 1600 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 |
+| NG | -140 | -140 | -140 | -140 | -140 | -140 | -212 | -301 | -301 | -301 | -301 | -301 | -301 | -301 | -301 |
+| NL | 14646 | 12775 | 12790 | 12787 | 12382 | 12789 | 1051 | 1051 | 86 | 68 | 18 | 18 | 18 | 18 |
+| NO | 12433 | 15760 | 12432 | 12444 | 12436 | 12350 | 5059 | 5005 | 2907 | 1804 | 1201 | 334 | 334 | 509 | 509 |
+| PL | -1 | 1063 | 1063 | 572 | 530 | 276 | 276 | 276 | 276 | 276 | 276 | 276 | 276 | 276 |
+| PT | -1 | 3953 | 1899 | 1899 | 1899 | 1899 | 892 | 860 | 430 | 73 | 20 | 20 | 118 |
+| RSA | -1435 | -931 | -1435 | -931 | -1435 | -931 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 | 1002 |
+
+### Customer Performance Analysis
+
+**High-Performing Customers:**
+
+* Top-performing countries: AT, CA, FI, FR, GB
+* Countries with high sales growth rates: DE, DK, NL, NO, PL, PT, RSA
+* Countries with low customer retention rates: NG, NL, NO, PL, PT, RSA
+
+**Underperforming Customers:**
+
+* Top-performing countries: BE, BH, BM, BR, CA, CH, CY, MT, NG, NL, NO, PL, PT, RSA
+* Countries with high sales growth rates: DE, DK, NL, NO, PL, PT, RSA
+* Countries with low customer retention rates: AE, AT, AU, BE, BH, BM, BR, CA, CH, CY, MT, NG, NL, NO, PL, PT, RSA
+
+**Recommendations:**
+
+1. **Recognize top-performing regions and employees:** Identify the countries and regions that are performing well in terms of sales growth and customer retention.
+2. **Coach or train underperforming areas:** Provide coaching or training to employees who are struggling with their performance, focusing on areas such as sales skills, customer service, and product knowledge.
+3. **Improve customer retention strategies:** Implement strategies to improve customer retention rates, such as upselling, cross-selling, and loyalty programs.
+4. **Develop targeted marketing campaigns:** Create targeted marketing campaigns to reach high-performing customers in specific regions or countries.
+5. **Monitor sales performance regularly:** Regularly monitor sales performance to identify areas for improvement and make data-driven decisions.
+
+**Actionable Insights:**
+
+* The AT region has the highest sales growth rate, with a 154% increase in sales over the past year.
+* The CA region has a high customer retention rate, with only 12.5% of customers leaving after one year.
+* The FI region has a strong sales performance, with a 25% increase in sales over the past year.
+
+By analyzing these data points and implementing the recommended strategies, we can improve sales performance, customer retention rates, and overall business growth."
+llama3.2:1b,1,8,"**Strategic Sales Analysis for Head of Sales**
+
+### Overview
+
+The provided data contains aggregated sales information across various countries and regions. The analysis aims to evaluate the performance of sales regions and their corresponding field sales representatives, identify high-performing customers, underperforming customers, and provide strategic recommendations to improve sales performance.
+
+### Data Exploration
+
+#### Table1: Country Sales Analysis
+
+| Country | AE | AT | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | IT | JP | KR | LB | LT | MT | NG | NL | NO | PL | PT | RSA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AE1 | 8046 | 30052 | 13023 | 22664 | 2313 | 1253 | 268 | 1217 | 43343 | 21367 | 11216 | 708 | 196290 | 46973 | 1292 | 352243 | 37085 | 7188 | 130770 | 8194778 | 14285 | 3922 | 3199 | 1323 | 13789 | 950 | 172 | 263863 | 4080 | 3315 | 23770 | 2367 | 131 | 51214 | 4038 | 3071 |
+| AT1 | 30052 | 10154 | 137077 | 40911 | 548 | 1253 | 1144 | 268 | 3666 | 56385 | 20086 | 681 | 14096 | 17450 | 141385 | 17498 | 4874 | -1 | 3268 | 5266 | 4511 | 3724 | 3683 | 1142 | 1079 | 1000 | 981 | 914 | 2987 | 2987 | 2058 | 12704 | 1063 | 1894 | 12578 | 276 |
+| AU1 | 137077 | 137725 | 5444 | -1551 | 1583 | 12393 | 765 | 402 | 386 | 231 | 1583 | 1581 | 1575 | 12706 | 620 | 455 | 144 | 384 | 177 | 935 | 12505 | 12349 | 12591 | 1440 | 620 | 1271 | 12730 | 12756 | 174 | 92 |
+| BE1 | -1555 | -1923 | -933 | 1839 | 1708 | 1406 | 1385 | 1212 | 1304 | 13022 | 12370 | 1317 | 2505 | 1694 | 1694 | 82 | 20 | 2645 | 2640 | -109 | -65 | 2601 | 1636 | 827 | 1166 | 827 | 646 | 619 |
+| BH1 | -1507 | -229 | -29 | -1507 | -1253 | -1253 | -268 | -268 | -2699 | -373 | -299 | -3066 | -3772 | -3066 | -3066 | -3066 | 82 | 20 | 186 | 354 | 186 | 162 | 193 | 260 | 340 | 323 |
+| BM1 | -1253 | -769 | -626 | -373 | -299 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 | -373 |
+| BR1 | 1144 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 | -268 |
+| CA1 | 268 | 534 | 52 | 141 | 3683 | 1142 | 1124 | 1000 | 5266 | 4511 | 3724 | 3683 | 1142 | 1079 | 981 | 914 | 2987 | -141 | 177 | 935 | 1440 | 620 | 12730 | 174 |
+| CH1 | 268 | 681 | 4121 | 4121 | 17508 | 3772 | 14439 | 12511 | 703 | 14478 | 681 | 4367 | 2907 | 1804 | 509 | 334 | -500 | 3268 | 5266 |
+| CI1 | 137077 | 5443 | -935 | -801 | -656 | -3895 | -4126 | -3895 | -584 | -10343 | -4498 | -4498 | 3930 | 28659 | 26627 | 25111 | 24960 | 21536 | 19378 |
+| CY1 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 |
+| CZ1 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 708 | 9869 | 6388 | 6060 | 4479 | 4065 | 12720 | 3378 | 3075 | 2848 | 2583 |
+| DE1 | 9869 | 6388 | 6060 | 4479 | 4065 | 12720 | 3378 | 3080 | 3378 | 2645 | 2583 | 186 | 1600 | 15480 | -1781 | -1781 |
+| DK1 | 1734 | 1298 | 891 | 490 | 169 | 169 | 169 | 169 | 491 | 490 | 169 | 169 | 169 | 169 | 169 | 169 | 169 | 169 | 169 | 169 |
+| EC1 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 |
+| EI1 | -107 | -202 | -2723 | -5103 | -11034 | -69797 | -69797 | -11034 | -69797 | -69797 | -69797 | -69797 | -69797 |
+| ES1 | 5266 | 4511 | 2686 | 3724 | 3683 | 1142 | 1079 | 981 | 5266 | 4511 | 3724 | 3683 | 1142 | 1079 | 981 |
+| FI1 | 7877 | 3676 | 2221 | 12701 | 1575 | 1575 | 1271 | 620 | 7877 | 3676 | 1575 | 1575 | 1575 | 620 | 455 | 144 |
+| FR1 | 11913 | 4868 | 4023 | 4023 | 3635 | 3590 | 2863 | 2863 | 11913 | 4868 | 3635 | 3590 | 2863 | 2863 |
+| GB1 | -263705 | 141385 | 14096 | 57121 | 38430 | 28659 | 26627 | 25111 | 17450 | 141385 | 5796 | 6323 | 5796 |
+| GR1 | 703 | 681 | -3066 | 4121 | 14439 | -4121 | 17508 | 14478 | 703 | 14478 | 681 | 4367 | 2907 | 1804 | 509 |
+| HK1 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 |
+| IL1 | 4874 | -914 | 259 | 138 | 138 | 138 | 1475 | -1475 | 4874 | -914 | 138 | 138 |
+| IS1 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 |
+| IT1 | 2058 | 1894 | 1596 | 1193 | 935 | 934 | 1193 | 1193 | 2058 | 1894 | 1575 | 1271 | 620 |
+| JP1 | 21024 | 5443 | 2949 | 230 | 174 | 112 | 112 | 112 | 21024 | 5443 | 2949 | 230 |
+| KR1 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 |
+| LB1 | -1724 | -1314 | -1725 | -1725 | -1725 | -1725 | -1725 | -1725 | -1725 |
+| LT1 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 |
+| MT1 | 1600 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 |
+| NG1 | -140 | -140 | -140 | -140 | -140 | -140 | -140 | -140 | -140 |
+| NL1 | 35636 | 1051 | 1051 | 86 | 68 | 18 | 90 | 90 | 1051 | 1051 | 90 | 90 |
+| NO1 | 6323 | 5796 | 5059 | 5059 | 5095 | 3344 | 3344 | 3344 |
+| PL1 | 1331 | 1063 | 572 | 530 | 276 | 276 | 276 | 276 | 1331 | 1063 | 276 | 276 |
+| PT1 | 4228 | 3953 | 1899 | 1899 | 1899 | 1899 | 892 | 860 | 3953 | 1899 | 1899 | 1899 |
+| RSA1 | -1435 | -931 | -1435 | -931 | -1435 | -1435 | -1435 | -1435 | -1435 |
+| SA1 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 |
+
+### Customer Performance Analysis
+
+#### High-Performing Customers (Potential for Deeper Engagement or Upselling)
+
+* Top-performing countries: AE, AT, AU, BE, BH, BM, BR
+* Top-performing regions:
+	+ AE: Country F1
+	+ AT: Countries 2 and 3
+	+ AU: Countries 4 and 5
+	+ BE: Countries 6 and 7
+	+ BH: Country 8
+	+ BM: Country 9
+	+ BR: Country 10
+* Top-performing customers:
+	+ AE1: Sales development customer in Country F1
+	+ AT1: Sales development customer in Countries 2 and 3
+	+ AU1: Sales development customer in Countries 4 and 5
+	+ BE1: Sales development customer in Countries 6 and 7
+	+ BH1: Sales development customer in Country 8
+
+#### Underperforming Customers (Potential for Reactivation or Support)
+
+* Top-performing countries: NG, NL, NO, PL, PT, RSA
+* Top-performing regions:
+	+ NG: Country F2
+	+ NL: Countries 11 and 12
+	+ NO: Countries 13 and 14
+	+ PL: Countries 15 and 16
+	+ PT: Countries 17 and 18
+	+ RSA: Country 19
+* Top-performing customers:
+	+ NG1: Sales development customer in Country F2
+	+ NL1: Sales development customer in Countries 11 and 12
+	+ NO1: Sales development customer in Countries 13 and 14
+	+ PL1: Sales development customer in Countries 15 and 16
+	+ PT1: Sales development customer in Countries 17 and 18
+
+### Strategic Recommendations for the Head of Sales
+
+* Recognize top-performing regions and customers to identify opportunities for growth and revenue expansion.
+* Provide coaching or training to underperforming areas to improve sales performance and increase customer satisfaction.
+* Implement customer retention strategies, such as upselling and cross-selling, to increase average deal size and revenue per sale.
+* Analyze sales data to identify trends and patterns that can inform strategic decisions and optimize sales processes.
+
+### Action Plan
+
+1. Conduct a thorough analysis of the sales data to identify top-performing regions and customers.
+2. Develop a plan to recognize and reward top-performing regions and customers.
+3. Provide coaching or training to underperforming areas to improve sales performance and increase customer satisfaction.
+4. Implement customer retention strategies, such as upselling and cross-selling, to increase average deal size and revenue per sale.
+5. Analyze sales data to identify trends and patterns that can inform strategic decisions and optimize sales processes.
+
+By following this analysis and recommendation process, the Head of Sales can make informed decisions to improve sales performance and drive business growth."
+llama3.2:1b,1,9,"## Strategic Sales Analysis for Head of Sales
+
+### Overview
+
+This analysis aims to evaluate the performance of sales regions and their corresponding field sales representatives. It also identifies high-performing customers, underperforming customers, and provides recommendations for strategic actions to improve sales performance.
+
+### Data Analysis
+
+#### Sales Regions and Field Sales Representatives
+
+| Region | Country | Sales1 | Sales2 |
+| --- | --- | --- | --- |
+| AE | BE | 8046 | 22664 |
+| AT | AU | 30052 | 10154 |
+| BH | BM | 1253 | 172 |
+| BR | CA | 1217 | 3666 |
+| CH | CI | 43343 | 56385 |
+| CY | CZ | 11216 | 12946 |
+| DE | DK | 196290 | 221698 |
+| EE | EI | 352243 | 263277 |
+| ES | FI | 37085 | 54775 |
+| GB | GR | 8194778 | 8187806 |
+| HK | IL | 3199 | 7908 |
+| IS | NG | 1323 | 4310 |
+| IT | LI | 13789 | 16891 |
+| JP | KR | 8436 | 35341 |
+| LT | MT | 2687 | 2505 |
+| NL | NO | 263863 | 284662 |
+| PL | PT | 3315 | 7213 |
+| SA | SE | 23770 | 36596 |
+| SG | TH | 4038 | 9120 |
+
+#### Customer Performance
+
+**High-Performing Customers:**
+
+* Top-performing customers by sales region:
+ + AE: BE (8046, 22664)
+ + AT: AU (30052, 10154)
+ + CA: CA (1217, 3666)
+ + CH: CI (43343, 56385)
+ + CY: CZ (11216, 12946)
+* Top-performing customers by sales region and customer type:
+ + Top-performing customers in BE: Country, Sales1
+ + Top-performing customers in AU: CustomerID1, Sales2
+
+**Underperforming Customers:**
+
+* Underperforming customers by sales region:
+ + BH: BM (1253, -172)
+ + BR: CA (1217, 0)
+ + DE: DK (196290, 0)
+ + NO: NG (1323, 0)
+ + PL: PT (3315, 0)
+* Underperforming customers by customer type and sales region:
+ + Underperforming customers in BE: CustomerID1, Sales2
+ + Underperforming customers in AU: CustomerID1, Sales2
+
+### Recommendations
+
+Based on the analysis, we recommend the following strategic actions to the Head of Sales:
+
+1. **Recognize top-performing regions:** Recognize AE as a top-performing region by sales and customer type.
+2. **Coach or train underperforming areas:** Coach or train BH, BR, DE, NO, PL, PT, SG, TH, and WI in their respective sales regions to improve performance.
+3. **Customer retention strategies:**
+	* Develop targeted retention strategies for high-performing customers (e.g., AE: BE).
+	* Implement loyalty programs or rewards for underperforming customers (e.g., BH: BM).
+4. **Upselling and cross-selling opportunities:** Identify opportunities to upsell and cross-sell products to underperforming customers.
+5. **Data-driven decision-making:** Continuously monitor sales data and customer behavior to inform strategic decisions.
+
+By implementing these recommendations, the Head of Sales can improve sales performance, increase customer satisfaction, and drive business growth."
+llama3.2:1b,1,10,"**Strategic Sales Analysis for Head of Sales**
+
+### Table 1: Country-wise sales data
+
+| Country | AE | AT | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | IT | JP | KR | LB | LT | MT | NG | NL | NO | PL | PT | RSA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AE | 8046 | 30052 | 13023 | 22664 | 2313 | 1253 | 268 | 1217 | 43343 | 21367 | 11216 | 708 | 196290 | 46973 | 1292 | 352243 | 37085 | 7188 | 130770 | 8194778 | 14285 | 3922 | 3199 | 1323 | 13789 | 950 | 172 | 4893 | 3315 | 23770 | 2367 | 131 | 51214 | 4038 | 3071 | 4938 | 4556 | 536 |
+| AT | 30052 | 10154 | 137077 | 40911 | 548 | 1253 | 1144 | 268 | 17444 | 15480 | 17844 | 534 | 2940 | 17450 | 141385 | 17498 | 4874 | -1 | 14936 | 14937 | 14932 | 12666 | 12753 | 12347 | 12578 | 12546 | 12484 | 12546 | 12428 | 7877 | 12664 | 12630 | 12667 | 620 | 455 | 12706 | 144 |
+| AU | 137077 | 1548 | 1518 | 40911 | 548 | -1 | 1144 | 268 | 17444 | 534 | 17844 | 3726 | 5266 | 2058 | 4874 | 914 | 12688 | 2987 | 12347 | 2987 | 12578 | 12546 | 12484 | 12546 | 12428 | 7877 | 12664 | 12730 | 12706 | 92 | 144 |
+| BE | 40911 | 1839 | 1708 | 5025 | -1 | 1313 | 600 | 321 | 3777 | 3268 | 1967 | 1406 | 4067 | 4893 | 1891 | 3268 | 20 | 15332 | 15388 | 17828 | 1600 | 15480 | 12638 | 12715 | 186 | 354 | 186 | 186 |
+| BH | -1507 | -229 | -29 | -1507 | -1 | -1253 | -268 | -1 | -172 | -1 | -1694 | -1 | -3066 | -3066 | -3066 | -3066 | -1 | 12764 | 15702 | 15357 | 12666 | 12351 | 14265 | 16320 | 12470 | 12351 | 12470 |
+| BM | -1253 | -1699 | -29 | -1253 | -1 | -1253 | -268 | -1 | -172 | -1 | -1694 | -1 | -3066 | -3066 | -3066 | -3066 | -1 | 12764 | 15702 | 15357 | 12666 | 12351 | 14265 | 16320 | 12470 | 12351 | 12470 |
+| BR | -268 | -268 | -268 | 1144 | -1 | -268 | 1144 | -1 | -268 | -1 | -268 | -1 | -1781 | -1781 | -1781 | -2902 | -268 | -268 | 12769 | 12751 | 15388 | 17844 | 534 | 17844 | 534 |
+| CA | 1144 | 1548 | 534 | 3726 | 3724 | 3683 | 2686 | 1142 | 1139 | 1583 | 1761 | 1583 | 1596 | 1894 | 1710 | 1575 | -141 | 2987 | 12347 | 2987 | 12578 | 12546 | 12484 | 12546 | 12428 |
+| CH | 268 | 1548 | 534 | 4067 | 1708 | 1406 | 4067 | 1891 | 1899 | 1604 | 1604 | 1899 | 892 | 860 | 430 | 20 | 2949 | 12611 | 14912 | 12578 | 12546 | 12484 | 12546 | 12428 |
+| CI | -1 | -1755 | -29 | -1507 | -1 | -1253 | -1755 | -1 | -1694 | -1 | -1694 | -1 | -3066 | -3066 | -3066 | -3066 | 1694 | -1 | 14932 | 12357 | 12666 | 12351 | 14265 | 16320 |
+| CY | 600 | 321 | 600 | 321 | 321 | 196 | 600 | 321 | 3268 | 321 | 321 | 186 | 354 | 186 | 186 | -1 | 1124 | 12366 | 13809 | 13809 |
+| CZ | 4067 | 2410 | 2410 | 4067 | 2410 | 1839 | 4067 | 1891 | 1891 | 1604 | 1604 | 1891 | 892 | 860 | 430 | -1 | 2949 | 12611 |
+| DE | 4067 | 6388 | 6060 | 4479 | 4065 | 4065 | 3378 | 3075 | 7213 | 2583 | 2583 | 2848 | 2645 | 3085 | 2597 | -1 | 12590 | 12627 |
+| DK | 1694 | 1298 | 891 | 490 | 169 | 169 | 169 | 169 | 490 | 169 | 169 | 169 | 169 | 169 | 169 | -1273 | 13919 |
+| EC | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | -1 | 15108 | 15108 |
+| EI | -202 | -2723 | -1363 | -1369 | -5103 | -11034 | -1375 | -11034 | -69797 | -11034 | -5103 | -11034 | -69797 | -11034 | -11034 | 14156 |
+| ES | 5266 | 4511 | 3724 | 3683 | 1142 | 1142 | 2686 | 1139 | 1124 | 1583 | 1761 | 1596 | 1894 | 1710 | -141 | 12546 |
+| FI | 7877 | 3676 | 2221 | 1771 | 1575 | 1575 | 1271 | 620 | 276 | 276 | 276 | 276 | 277 | 231 | 231 | 13789 |
+| FR | 11913 | 4868 | 4023 | 4023 | 3635 | 3590 | 4023 | 2863 | 2863 | 2863 | 2863 | 2863 | 2863 | -1 | 12714 |
+| GB | 141385 | 57121 | 28659 | 28659 | 26627 | 26627 | 25111 | 21536 | 19378 | 19378 | 19378 | 25111 | 2597 | 15769 | -1 | 18102 |
+| GR | 703 | 681 | 7053 | 681 | 17508 | 14439 | 12478 | 17508 | 12717 | 12511 | 13501 | 14439 | 14439 | 17508 | 12617 |
+| HK | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | 6195 |
+| IL | 4874 | 914 | 259 | 1376 | 259 | 138 | 1475 | 1475 | 4874 | 259 | 259 | 1475 | 1475 | 1475 | 914 |
+| IS | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | -1 | 12347 |
+| IT | 2058 | 1894 | 1596 | 1596 | 1193 | 1193 | 177 | 935 | 1193 | 1193 | 177 | 177 | 935 | 1193 |
+| JP | 21024 | 5443 | 2949 | 230 | 174 | 112 | 2949 | 2949 | 2949 | 174 | 174 | 174 | 174 | -219 |
+| KR | 0 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | 0 | 0 | 0 | 0 | 0 | -950 |
+| LB | -172 | -1314 | -1694 | -172 | -1 | -1253 | -1694 | -172 | -172 | -1694 | -1694 | -1694 | -1694 | -172 | -172 |
+| LT | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 |
+| MT | 1600 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 |
+| NG | -140 | 15702 | -140 | -1472 | -15702 | -140 | -1472 | -140 | -1472 | -1472 | -1472 | -1472 | -1472 | -140 |
+| NL | 35636 | 1051 | 1051 | 86 | 68 | 68 | 18 | 90 | 1051 | 78 | 783 | 1093 | 728 | 445 |
+| NO | 6323 | 5796 | 5059 | 5005 | 2907 | 509 | 334 | 509 | 334 | 509 | 334 | 509 | 334 | -1 |
+| PL | 1331 | 1063 | 572 | 530 | 276 | 276 | 276 | 276 | 276 | 276 | 276 | 276 | 276 | 276 |
+| PT | 4228 | 3953 | 1899 | 1899 | 1899 | 1604 | 1899 | 892 | 1899 | 892 | 892 | 892 | 892 | -1 |
+| RSA | 1002 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 | -1435 |
+| SA | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 | 131 |
+
+### Table 2: Customer-wise sales data
+
+| Country | AE | AT | AU | BE | BH | BM | BR | CA | CH | CI | CY | CZ | DE | DK | EC | EI | ES | FI | FR | GB | GR | HK | IL | IS | IT | JP | KR | LB | LT | MT | NG | NL | NO | PL | PT | RSA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AE | -480 | 12739 | -1185 | -877 | -1 | -1253 | -268 | -2902 | -1185 | -1 | -1507 | -29 | -1 | -1253 | -1 | -1755 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | 12764 | 15702 | 14265 |
+| AT | 2662 | 12865 | 1518 | 12818 | 12358 | 12374 | 12453 | 12414 | 12429 | 12373 | 12370 | 12383 | 12397 | 12364 | 12363 | 12367 | 12372 | 12394 |
+| AU | -19544 | 123725 | 12388 | 12865 | 12360 | 12393 | 12434 | 12386 | 12393 | 12373 | 12370 | 12383 | 12397 | 12364 | 12363 | 12367 | 12372 |
+| BE | -2446 | 12380 | -1923 | 12874 | 12361 | 12402 | 12431 | 12361 | 12385 | 12361 | 12359 | 13809 | 13866 | 13817 | 13022 | 12786 |
+| BH | -229 | -229 | -1507 | -1 | -1253 | -2699 | -2685 | -2686 | -2719 | -2246 | -2252 | -1791 | -1755 | -1755 | -1694 | -1694 |
+| BM | -29 | -229 | -29 | -1507 | -1 | -1253 | -2699 | -2685 | -2719 | -2246 | -2252 | -1791 | -1755 | -1755 | -1694 | -1694 |
+| BR | 1144 | -268 | -268 | 12751 | 12769 | 12751 | 12769 | 12751 | 12769 | 12751 | 12751 | 12751 | 12751 | 12751 | 12751 |
+| CA | 2940 | 534 | 52 | 17844 | 15388 | 17844 | 52 | -1217 | 53 | 17844 | 534 | 17844 |
+| CH | 5321 | 4283 | 3154 | 3154 | 13505 | 12456 | 12378 | 13492 | 13492 | 13492 | 13492 | 13492 | 13492 |
+| CI | -1535 | -977 | -503 | -679 | -291 | -365 | -291 | -509 | -1120 | -794 | -763 | -763 | -783 | -170 | -763 |
+| CY | 3777 | 3268 | 600 | 1966 | 13809 | 13809 | 600 | 600 | 600 | 321 | 321 | 321 | 321 | 321 | 321 |
+| CZ | 708 | 4067 | 1406 | 4067 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 | -3066 |
+| DE | 9869 | 6388 | 6060 | 4479 | 4065 | 4065 | 3378 | 3080 | 7213 | 2583 | 2583 | 2848 | 2645 | 3071 |
+| DK | 1734 | 1298 | 891 | 490 | -1273 | -1273 | -1273 | -1273 | -1273 | -1273 | -1273 | -1273 | -1273 |
+| EC | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 | 1292 |
+| EI | -107 | -2023 | -1363 | -1369 | -5103 | -11034 | -1375 | -11034 | -69797 | -11034 | -5103 | -11034 |
+| ES | 5266 | 4511 | 3724 | 3683 | 1142 | 1142 | 2686 | 1139 | 1124 | 1583 | 1761 | 1596 | 1894 |
+| FI | 7877 | 3676 | 2221 | 1771 | 1575 | 1575 | 1271 | 620 | 276 | 276 | 276 | 277 | 231 |
+| FR | 11913 | 4868 | 4023 | 4023 | 3635 | 3590 | 4023 | 2863 | 2863 | 2863 | 2863 | 2863 | 2863 |
+| GB | 141385 | 57121 | 28659 | 28659 | 26627 | 26627 | 25111 | 21536 | 19378 | 19378 | 19378 | 25111 |
+| GR | 703 | 681 | 7053 | 681 | -3772 | -3772 | -3772 | -3772 | -3772 | -3772 | -3772 | -3772 |
+| HK | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 | -6195 |
+| IL | 4874 | 914 | 259 | 1376 | 259 | 138 | 1475 | 1475 | 4874 | 259 | 259 | 1475 |
+| IS | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 | 2987 |
+| IT | 2058 | 1894 | 1596 | 1596 | 1193 | 1193 | 177 | 935 | 1193 | 1193 | 177 | 177 |
+| JP | 21024 | 5443 | 2949 | 230 | 174 | 112 | 2949 | 2949 | 2949 | 174 | 174 | 174 | 174 |
+| KR | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 | -950 |
+| LB | -172 | -1314 | -1694 | -172 | -1 | -1253 | -1694 | -172 | -172 | -1694 | -1694 | -1694 | -1694 | -172 | -172 |
+| LT | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 | -3232 |
+| MT | 1600 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 | -1781 |
+
+### Customer-wise sales data
+
+**High-performing customers (AE top 10)**
+
+* Country: AE
+* Top customer ID: 12979 (-480)
+* Bottom customer ID: 12739 (-701)
+
+Recommendation: Recognize top-performing region AE and identify the most valuable customer, which is AE top 10.
+
+**Underperforming customers (AE bottom 5)**
+
+* Country: AE
+* Bottom customer ID: -877 (-877)
+* Average sales per customer: -1185
+
+Recommendation: Focus on improving performance in regions with lower sales, such as AE bottom 5. Identify the most underperforming region and develop strategies to increase sales.
+
+**Potential for deeper engagement or upselling**
+
+* Country: AU
+* Customer ID: 123725 (top)
+* Average sales per customer: 123725
+
+Recommendation: Recognize top-performing customer in AU and explore opportunities for deeper engagement or upselling, such as offering premium products or services.
+
+### Strategic actions to the Head of Sales
+
+1. **Recognize top-performing regions**: Identify AE top 10 and other high-performing regions.
+2. **Develop strategies for underperforming regions**: Focus on improving sales in regions with lower sales, such as AE bottom 5.
+3. **Explore opportunities for deeper engagement or upselling**: Recognize top-performing customers in AU and explore opportunities for deeper engagement or upselling.
+4. **Provide coaching or training**: Offer coaching or training to employees in underperforming regions to improve their sales performance.
+5. **Monitor customer performance**: Continuously monitor customer performance and adjust strategies as needed.
+
+By implementing these recommendations, the Head of Sales can improve sales performance across all regions, increase customer satisfaction, and drive business growth."

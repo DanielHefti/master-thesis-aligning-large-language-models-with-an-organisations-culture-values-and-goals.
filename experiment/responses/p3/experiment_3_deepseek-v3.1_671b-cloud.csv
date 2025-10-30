@@ -1,0 +1,799 @@
+model-name,phase,attempt,response
+deepseek-v3.1:671b-cloud,3,1,"Of course. Here is a strategic analysis and set of recommendations for the Head of Sales based on the provided data.
+
+### Executive Summary
+
+The sales data reveals a tale of two realities. The UK (GB) is the undisputed engine of the company, contributing over 99% of total sales, but it is stagnating. The rest of the world (ROW) presents a dynamic picture: several European markets like France, Switzerland, and Germany are showing strong growth, while others like Denmark and Sweden have declined sharply. The customer data indicates that performance is highly concentrated in a few key accounts in each region, with a long tail of underperforming or declining customers. The primary strategy must be to **stabilize and grow the UK mega-accounts** while **systematically investing in high-growth European markets** and their top-performing customers.
+
+---
+
+### 1. Regional & Representative Performance Evaluation
+
+#### Top Performing Regions (Growth & Volume)
+*   **France (FR):** Exceptional growth, increasing from ~130k to ~197k (**+51%**). This is a standout success story.
+*   **Australia (AU):** Explosive growth from ~13k to ~137k (**+952%**). This region has transformed into a major contributor.
+*   **Japan (JP):** Significant growth from ~8.4k to ~35.3k (**+319%**).
+*   **Switzerland (CH), Belgium (BE), Germany (DE), Spain (ES):** All show solid, double-digit percentage growth, indicating healthy, expanding markets.
+*   **United Kingdom (GB):** The absolute sales volume is colossal (~8.1M), but year-over-year growth is nearly flat (a slight decline of -0.08%). This represents a massive risk due to concentration.
+
+#### Underperforming / Declining Regions
+*   **Denmark (DK):** Sales fell dramatically from ~47k to ~19k (**-60%**). This is the most severe decline and requires immediate attention.
+*   **Sweden (SE):** Sales decreased from ~51k to ~37k (**-29%**).
+*   **Ireland (EI):** Sales dropped from ~352k to ~263k (**-25%**). This is a significant loss given its previous high volume.
+*   **Greece (GR):** Sales declined from ~14k to ~4.7k (**-67%**), though from a smaller base.
+
+#### Representative Performance Insights (from Table 2)
+*   **Success is Concentrated:** In most regions, a handful of representatives drive the vast majority of positive performance. For example:
+    *   In **Australia**, Representative `12415` is single-handedly responsible for the entire region's explosive growth (+123,725).
+    *   In **France**, Representative `12731` delivered an outstanding +11,913 in sales development.
+    *   In the **UK**, the 'unnamed' representative (`-1`) and rep `17450` generated huge absolute gains (+263,705 and +141,385 respectively).
+*   **Losses are Also Concentrated:** Similarly, large declines are often tied to a few accounts or representatives.
+    *   In **Ireland**, Representative `14156` is associated with a catastrophic loss (-69,797).
+    *   In **Denmark**, Representative `13902` single-handedly explains the region's poor performance (-30,411).
+    *   In the **UK**, Representative `18102` caused a major loss (-85,339).
+
+---
+
+### 2. Customer Performance Assessment
+
+#### High-Performing Customers (Potential for Upselling/Deeper Engagement)
+*   The 'top' lists in Table2 identify these customers. The strategy for these customers should be **relationship deepening and growth**.
+*   **Examples:**
+    *   **UK Customers of Rep `17450` and `-1`:** These are the company's most valuable assets. Strategies should focus on ensuring satisfaction, identifying new needs, and protecting against competitive poaching.
+    *   **French Customer of Rep `12731`:** This customer generated massive growth. They are a prime candidate for cross-selling or introducing premium services.
+    *   **Australian Customer of Rep `12415`:** This new or expanded relationship is the driver of the region's success. Immediate focus should be on solidifying this partnership.
+
+#### Underperforming Customers (Potential for Reactivation/Support)
+*   The 'flop' lists in Table2, particularly those with significant negative values, highlight customers in danger or in need of intervention.
+*   **Examples:**
+    *   **Irish Customer of Rep `14156`:** The enormous loss here suggests a customer has been lost or a major project canceled. A post-mortem analysis is critical to understand why and prevent similar occurrences.
+    *   **UK Customers of Reps `18102`, `13694`, etc.:** The losses here are significant in absolute terms. A 'get-well' plan involving senior leadership might be necessary to recover these strategic accounts.
+    *   **German Customer of Rep `12709` (-11,725) and Danish Customer of Rep `13902` (-30,411):** These represent major setbacks in key markets. Understanding the root cause is essential.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### Recommendation 1: Launch a 'Protect the Core' Initiative for the UK
+*   **Action:** Immediately task your most experienced account managers with conducting business reviews for the top 10 UK customers (both high-growth and high-decline). The goal is to understand the drivers of stagnation and large losses.
+*   **Justification:** The company's financial health is overwhelmingly dependent on the UK. Flat growth and large losses there pose an existential risk. This is the highest priority.
+
+#### Recommendation 2: Recognize, Reward, and Replicate Top Talent
+*   **Action:** Publicly recognize and reward the top-performing representatives in high-growth regions (e.g., `12415` in AU, `12731` in FR, `12433` in NO, `14646` in NL). Create a 'Masterclass' where these reps share their strategies for landing and expanding large accounts.
+*   **Justification:** Success is not random; it's driven by specific reps. Capturing and disseminating their best practices can lift the performance of the entire sales organization.
+
+#### Recommendation 3: Implement Targeted Coaching and Performance Plans
+*   **Action:** For regions with severe declines (DK, SE, EI), initiate mandatory coaching sessions for the representatives associated with the largest losses (e.g., `13902` in DK, `14156` in EI). Develop clear performance improvement plans.
+*   **Justification:** The data clearly isolates the source of major problems. Proactive management is needed to address skill gaps, strategic missteps, or market changes these reps are facing.
+
+#### Recommendation 4: Resource Re-allocation to Growth Markets
+*   **Action:** Increase marketing and sales support budgets for regions showing strong organic growth (FR, AU, JP, CH). Consider assigning additional junior reps to support top performers in these regions to help them scale their success.
+*   **Justification:** These markets have proven their potential. Investing further in them will yield a higher return than investing in stagnant or declining markets.
+
+#### Recommendation 5: Formalize a 'At-Risk Customer' Process
+*   **Action:** Develop a standard operating procedure for managing customers showing a significant sales decline (e.g., > -5,000). This should include early warning alerts, executive sponsorship, and a dedicated playbook for recovery.
+*   **Justification:** The data shows that large customer losses are a primary driver of regional underperformance. A systematic process to catch and address these issues early is crucial for retention.
+
+By focusing on these five strategic pillars, you can stabilize your largest market, capitalize on exciting growth opportunities, and build a more resilient and data-driven sales organization."
+deepseek-v3.1:671b-cloud,3,2,"Of course. Here is a strategic analysis and set of actionable recommendations for the Head of Sales, based on the provided data.
+
+### Executive Summary
+
+The sales data reveals a tale of two realities. While the global picture shows relative stability with a slight overall sales decrease (primarily driven by one major region), there is significant volatility beneath the surface. Several key markets have experienced explosive growth, while others have collapsed. Similarly, customer performance is highly polarized, with a small number of accounts driving the vast majority of gains and losses. The primary strategic imperative is to **leverage the high-performing regions and customers to fund a targeted intervention in underperforming areas**, shifting from a blanket strategy to a precise, account-specific and region-specific approach.
+
+---
+
+### 1. Regional Performance Analysis
+
+The country-level data (Table 1) allows us to categorize regions into three groups:
+
+#### 🏆 Top Performing & Growth Regions (Priority: Invest & Expand)
+*   **Australia (AU):** **Outstanding Growth.** Sales exploded from ~13k to ~137k (+940% growth). This is the company's biggest success story and represents a massive opportunity.
+*   **France (FR):** **Strong Growth.** Sales increased from ~131k to ~197k (+51% growth). A solid, large market showing healthy expansion.
+*   **Japan (JP):** **Exceptional Growth.** Sales grew from ~8.4k to ~35.3k (+320% growth). A key success story that should be analyzed and replicated.
+*   **Canada (CA), Norway (NO), Finland (FI):** These regions show very strong percentage growth from a smaller base, indicating successful market penetration.
+
+#### ⚠️ Mixed / Stable Performing Regions (Priority: Maintain & Optimize)
+*   **Germany (DE), Switzerland (CH), Netherlands (NL), Spain (ES), Portugal (PT), Belgium (BE):** These core European markets show steady, single-digit percentage growth or stability. They form the reliable backbone of the business.
+*   **United Kingdom (GB):** **Critical Watch.** While sales appear stable (~8.19M to ~8.18M), this masks a significant underlying issue. The stability is likely the result of massive gains offsetting massive losses (see Customer Analysis).
+
+#### 🚨 Underperforming & Critical Regions (Priority: Diagnose & Intervene)
+*   **Ireland (EI):** **Catastrophic Decline.** Sales fell from ~352k to ~263k (-25% loss). This represents the largest absolute loss in the dataset and requires immediate, deep investigation.
+*   **Denmark (DK):** **Severe Decline.** Sales dropped from ~47k to ~19k (-60% loss). A major market that has severely underperformed.
+*   **Sweden (SE), Greece (GR), USA:** These markets have also seen significant declines and need attention.
+*   **Austria (AT):** Despite a decline, the customer data shows several strong performers, suggesting the problem is concentrated.
+
+---
+
+### 2. Customer Performance Analysis (Table 2)
+
+The customer data reveals extreme concentration of performance. The 'flop' lists often represent a small number of customers responsible for devastating losses.
+
+#### High-Performing Customers (Opportunities for Growth)
+*   **GB-17450 & GB-14096:** In the UK, these customers generated enormous gains (+141k and +57k). They should be treated as strategic partners, with dedicated relationship management and upselling/cross-selling initiatives.
+*   **NL-14646:** In the Netherlands, this single customer generated +35.6k in growth, single-handedly driving the country's positive performance. This is a clear VIP account.
+*   **DE-12590, DE-12626, DE-12477:** In Germany, the top customers show strong, distributed growth, indicating a healthy market.
+*   **AU-12415:** This customer is the hero of the Australian success story, generating +123k in growth. Understand what drove this success and replicate it.
+
+#### Underperforming Customers (Risks for Retention)
+*   **GB-18102, GB-13694, GB-16754:** The UK's stability is a mirage. These three customers alone account for over **-200k** in losses. They represent the highest priority for retention efforts and root-cause analysis.
+*   **EI-14156:** This customer in Ireland single-handedly caused a -70k loss, accounting for most of the country's decline. This is a critical account to save.
+*   **DK-13902:** This customer's -30k loss is the primary reason for Denmark's poor performance.
+*   **DE-12709, DE-12647:** In an otherwise healthy German market, these two customers are causing major drags (-11.7k and -10.3k). Targeted intervention here could significantly boost overall performance.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### Recommendation 1: Launch a 'Save Our Customers' Initiative for Critical Accounts
+*   **Action:** Immediately task the relevant regional managers with creating 'turnaround plans' for the top 5 'flop' customers in each declining region (especially EI, DK, GB, SE).
+*   **Justification:** The data shows that regional declines are not broad-based but driven by a handful of accounts. A targeted approach is more efficient and likely to succeed than a general region-wide campaign. These plans should involve senior leadership engagement to understand the root causes (e.g., service issues, competitive pressure, contract disputes).
+
+#### Recommendation 2: Double Down on High-Growth Regions and Customers
+*   **Action:** Recognize and reward the sales teams in **Australia (AU)** and **Japan (JP)**. Allocate additional marketing or support budget to these regions to fuel further growth. Implement a program to share best practices from these top-performing regions with the global sales team.
+*   **Justification:** These regions have proven their ability to execute and grow dramatically. Investing in success is a higher-return strategy than spreading resources thinly.
+
+#### Recommendation 3: Conduct a Deep-Dive Analysis of the UK Market
+*   **Action:** The UK cannot be managed as a 'stable' market. Commission a task force to investigate the polarizing performance. Why did some customers leave in droves while others grew massively? The findings will be invaluable for global strategy.
+*   **Justification:** The UK is the largest market, and its stability is fragile. Understanding the dynamics behind the huge customer gains and losses is critical to preventing future decline and unlocking growth.
+
+#### Recommendation 4: Implement a Tiered Customer Management Program
+*   **Action:** Formalize the categorization of customers into tiers:
+    *   **Tier 1 (Strategic Growth):** Top 10 customers by growth in each region. Assign your most experienced account managers. Focus on strategic partnerships and upselling.
+    *   **Tier 2 (Stable Core):** The middle-performing customers. Focus on efficiency and retention through standard service levels.
+    *   **Tier 3 (At-Risk):** The 'flop' list customers. Focus on diagnostic calls, satisfaction reviews, and tailored recovery plans.
+*   **Justification:** This ensures resources are allocated strategically, moving from a one-size-fits-all approach to a precision model based on actual performance and potential.
+
+#### Recommendation 5: Review Compensation and Incentive Structures
+*   **Action:** Ensure that sales compensation plans strongly incentivize not only new sales but also **customer retention and growth within existing accounts**. Consider introducing bonuses for successfully 'saving' at-risk accounts.
+*   **Justification:** The massive losses from key accounts indicate that retention may not be weighted heavily enough. Aligning incentives with the strategic goal of profitable customer growth is essential.
+
+By focusing on these data-driven strategies, you can move from reactive firefighting to a proactive, strategic approach that maximizes growth and minimizes risk."
+deepseek-v3.1:671b-cloud,3,3,"Of course. Here is a strategic analysis and set of recommendations for the Head of Sales, based on the provided data.
+
+### Executive Summary
+
+The analysis reveals a tale of two realities. The UK (GB) is the company's undisputed powerhouse, generating over 99% of total revenue. However, this creates significant concentration risk. Outside the UK, we see volatile performance: several European markets (e.g., FR, DE, CH, ES) are showing strong growth, while others (e.g., EI, DK, SE) have experienced dramatic declines. Customer performance data highlights specific representatives who are driving growth or causing significant losses. The strategy must focus on **fortifying the UK base** while **strategically investing in promising international markets** and **addressing critical underperformers**.
+
+---
+
+### 1. Regional Performance Analysis
+
+The sales landscape is highly polarized. We can categorize countries into four groups:
+
+*   **The Anchor (Stable Giant):**
+    *   **GB (UK):** Sales remained virtually flat (FY1: 8.19M, FY2: 8.19M). This market is the bedrock of the company but shows no growth. The sheer volume masks significant customer-level churn, as seen in Table 2.
+
+*   **High-Growth Regions (Priority for Investment):**
+    *   **AU (Australia):** Explosive growth from ~13k to ~137k (**+953%**). This is the company's most significant success story.
+    *   **FR (France):** Strong growth from ~131k to ~197k (**+51%**).
+    *   **JP (Japan):** Significant growth from ~8.4k to ~35.3k (**+319%**).
+    *   **NO (Norway):** Impressive growth from ~4k to ~35k (**+762%**).
+    *   **ES (Spain), CH (Switzerland), BE (Belgium):** All showing solid, double-digit percentage growth.
+
+*   **Significant Decline Regions (Requiring Immediate Attention):**
+    *   **EI (Ireland):** Catastrophic decline from ~352k to ~263k (**-25%**). This represents the largest absolute loss.
+    *   **DK (Denmark):** Severe decline from ~47k to ~19k (**-60%**).
+    *   **SE (Sweden):** Notable decline from ~51k to ~37k (**-29%**).
+    *   **GR (Greece):** Decline from ~14k to ~4.7k (**-67%**).
+
+*   **Volatile/Immature Markets:**
+    *   Many smaller markets (e.g., AE, BH, USA, RSA) show low sales volumes and high volatility, indicating instability or early-stage development.
+
+### 2. Customer & Sales Representative Assessment (Key Highlights from Table 2)
+
+This data is crucial for understanding the 'why' behind the regional performance.
+
+*   **Top Performers (Recognition & Best Practices):**
+    *   **GB:** Representative `-1` is a colossal contributor (+263,705), but the growth is driven by others like `17450` (+141,385) and `14096` (+57,121). The UK team has several strong performers.
+    *   **AU:** Representative **`12415`** is single-handedly responsible for the country's explosive growth (+123,725). This is a stellar performance that must be recognized and studied.
+    *   **DE, FR, NO:** These regions have multiple representatives generating substantial positive growth (e.g., `12590` in DE, `12731` in FR, `12433` in NO), indicating strong, distributed team performance.
+    *   **NL:** Representative **`14646`** generated massive growth (+35,636), single-handedly offsetting smaller losses and driving the country's positive performance.
+
+*   **Critical Underperformers (Coaching/Training Needed):**
+    *   **EI:** Representative **`14156`** caused a devastating loss (-69,797), which is the primary driver of Ireland's overall decline. This requires immediate intervention.
+    *   **DK:** Representative **`13902`** single-handedly wiped out -30,411 in sales, accounting for nearly the entire country's decline.
+    *   **GB:** While the market is stable, representative **`18102`** caused a massive loss (-85,339). In any other market, this would be catastrophic. It indicates a significant customer churn or failure in a key account.
+    *   **DE:** Representative **`12709`** posted a major loss (-11,725), hampering an otherwise strong growth story.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### A. Recognize and Reward Top Performance
+1.  **Immediate Recognition:** Publicly recognize and reward the top-performing representatives identified above, especially **`12415` (AU)**, **`14646` (NL)**, and the strong teams in **FR, DE, and NO**. Consider creating a 'Growth Driver' award.
+2.  **Best Practice Sharing:** Task these top performers with leading workshops or creating case studies to share their strategies for customer engagement, upselling, and territory management across the global sales force.
+
+#### B. Implement Targeted Coaching and Performance Plans
+1.  **Urgent Intervention:** The Head of Sales must personally oversee performance management plans for the representatives responsible for the largest losses: **`14156` (EI)**, **`13902` (DK)**, and **`18102` (GB)**. This should include root cause analysis (e.g., loss of a major account, personal issues, skill gaps) and a 90-day turnaround plan.
+2.  **Regional Manager Accountability:** Hold the regional sales managers for EI, DK, and GB accountable for coaching these individuals and improving their team's overall performance.
+
+#### C. Develop Differentiated Regional Strategies
+1.  **Growth Markets (AU, FR, JP, NO):**
+    *   **Action:** **Increase investment.** Provide additional marketing budget, lead generation support, or even hire additional reps to capitalize on the positive momentum.
+    *   **Goal:** Accelerate growth and capture market share.
+
+2.  **Declining Markets (EI, DK, SE):**
+    *   **Action:** **Conduct a deep-dive diagnostic.** Before investing further, understand the root cause. Is it competitive pressure, product-market fit, or purely sales execution (as the rep data suggests for EI and DK)?
+    *   **Goal:** Stabilize the business and create a realistic recovery plan.
+
+3.  **The Anchor Market (GB):**
+    *   **Action:** **Focus on customer retention and wallet share.** The priority is not new customer acquisition but protecting the massive existing base. Launch customer loyalty programs, proactive account reviews for top clients, and cross-selling/up-selling initiatives.
+    *   **Goal:** Mitigate concentration risk by deepening engagement within the UK customer base.
+
+#### D. Customer Strategy: Retention and Reactivation
+1.  **High-Performing Customers:** The top customers of the top-performing reps (especially in GB) should be flagged for **'Key Account' status**. Assign your most senior account managers to ensure their retention and explore opportunities for deeper integration or upselling.
+2.  **Underperforming Customers:** Analyze the accounts associated with the significant rep losses. For customers with a sharp negative development, launch a **'Reactivation Campaign'** led by a specialized team or a new account manager to understand their issues and win back their business.
+
+### Conclusion
+
+The data presents a clear roadmap. By celebrating and scaling what works, aggressively addressing critical performance failures, and applying tailored strategies to different regions, we can reduce risk and drive sustainable growth. The immediate priorities are managing the key personnel in EI, DK, and GB, and harnessing the remarkable growth in AU."
+deepseek-v3.1:671b-cloud,3,4,"Of course. Here is a strategic analysis and set of actionable recommendations for the Head of Sales, based on the provided data.
+
+### Executive Summary
+
+The sales data reveals a tale of two realities. While global sales have seen modest growth (driven by powerhouse regions like **GB** and **DE**), this growth is highly concentrated and masks significant volatility and decline in many other countries. The customer performance data is even more critical, showing that in most regions, the overall performance is being dragged down by a small number of severely underperforming customers or, conversely, driven by a few key accounts. The primary strategic imperative is to **protect the core (GB/DE/NL/FR)**, **aggressively manage key account performance**, and **diagnose the root causes of dramatic swings** in other markets.
+
+---
+
+### 1. Regional & Field Sales Performance Analysis
+
+The country-level sales data (Table 1) allows us to categorize regions into four key segments:
+
+**A. Star Performers & Stable Giants (Recognize & Empower)**
+*   **United Kingdom (GB):** The undisputed leader, maintaining an enormous and stable revenue base (~$8.1M). This region is the company's bedrock.
+*   **Germany (DE) & France (FR):** Strong, growing markets with significant sales volumes. Both show healthy year-over-year growth (DE: +$254K, FR: +$666K).
+*   **Netherlands (NL):** Another consistent performer with solid growth (+$208K).
+*   **Australia (AU):** The standout growth story, exploding from ~$13K to ~$137K (**+953% growth**). This is a phenomenal performance that must be recognized and replicated.
+
+**B. High-Growth Opportunities (Invest & Support)**
+*   **Japan (JP):** Significant growth from ~$8.4K to ~$35.3K (+319%). This market shows strong potential.
+*   **Norway (NO):** Dramatic increase from ~$4K to ~$35K (+762%). This indicates a market tipping point or a major new account win.
+*   **Finland (FI):** Strong growth from ~$7K to ~$22K (+211%).
+
+**C. Volatile & Declining Regions (Diagnose & Intervene)**
+*   **Ireland (EI):** A major concern. Sales dropped significantly from ~$352K to ~$263K (-25%). This is a substantial loss that requires immediate attention.
+*   **Denmark (DK):** Sharp decline from ~$47K to ~$19K (-60%).
+*   **Sweden (SE):** Notable decrease from ~$51K to ~$37K (-29%).
+*   **Greece (GR):** Fell from ~$14K to ~$4.7K (-67%).
+*   **USA:** Decline from ~$4.5K to ~$1.7K (-62%).
+
+**D. Immature/Low-Volume Markets (Review Strategy)**
+*   Many countries like **NG, TH, BM, WI, RSA** have very low or negative sales. The ROI on maintaining a sales presence here is questionable and should be reviewed.
+
+---
+
+### 2. Customer Performance Assessment (Table 2)
+
+This analysis is crucial for understanding the 'why' behind the regional performance.
+
+**A. Patterns in Top Customers:**
+*   **Account Concentration:** In many regions, growth is driven by a handful of key accounts. For example:
+    *   In **AU**, customer `12415` single-handedly generated ~$124K of the $124K growth.
+    *   In **JP**, customer `12753` drove ~$21K of the ~$27K total growth.
+*   **Action:** These customers represent massive upsell and retention risks. They must be designated as 'Key Accounts' with dedicated relationship management.
+
+**B. Patterns in Underperforming Customers:**
+*   **The 'Anchor' Effect:** Severe declines are often due to a few customers with catastrophic losses, dragging down the entire region.
+    *   In **EI**, customer `14156` single-handedly lost ~$70K.
+    *   In **DE**, customers `12709` (-$11.7K) and `12647` (-$10.3K) are major drags.
+    *   In **DK**, customer `13902` lost over $30K.
+*   **Action:** These accounts cannot be ignored. They require a 'red alert' process to understand if the business is lost permanently or can be salvaged.
+
+**C. Inconsistent Performance:** Some regions show that the same customer can appear on both 'top' and 'flop' lists (e.g., `12414` in AT, `12618` in IT). This indicates potential issues with data reporting (e.g., fiscal year alignment) or sales representative assignment changes that need clarification.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### **Immediate Actions (Next 30-60 Days)**
+
+1.  **Launch a 'Critical Account Rescue' Initiative:**
+    *   **Target:** Regions with the largest customer losses (EI, DK, DE, GB).
+    *   **Action:** The Head of Sales should personally mandate the local sales managers to create a recovery plan for each anchor account (e.g., EI-14156, DK-13902, DE-12709/12647). The plan must include a root-cause analysis (e.g., lost to competitor, product failure, change in customer's business) and a clear strategy for recovery or managed exit.
+
+2.  **Recognize and Replicate Success:**
+    *   **Publicly celebrate** the sales teams in **AU, JP, and NO**. Commission a case study from the Australian team on what drove their explosive growth—was it a new market entry strategy, a specific campaign, or exceptional key account management? Use this as a best-practice template for other regions.
+
+#### **Medium-Term Strategic Shifts (Next Quarter)**
+
+3.  **Implement a Tiered Customer Management Framework:**
+    *   **Tier 1 (Growth Engines):** Top 5 customers in each major region (like GB-17450, AU-12415, JP-12753). Assign your most experienced account managers. Develop dedicated business reviews and upselling plans.
+    *   **Tier 2 (At-Risk Accounts):** The major 'flop' customers. Create a standardized 'at-risk' review process involving sales management to decide on a path forward (recovery, support, or termination).
+    *   **Tier 3 (Stable Core):** Develop automated nurture programs to ensure stability and identify growth signals.
+
+4.  **Conduct Deep-Dive Performance Reviews for Volatile Regions:**
+    *   Schedule mandatory reviews with the sales managers for **EI, DK, SE, USA, and GR**. The agenda should focus on:
+        *   Analysis of the customer-level data.
+        *   Assessment of the field sales team's activity and effectiveness.
+        *   Market-level challenges (competition, economics).
+
+5.  **Review Resource Allocation:**
+    *   Consider reallocating budget or headcount from perpetually low-volume markets (e.g., NG, BM, WI) to support the high-growth opportunities in **JP and NO** or to bolster the recovery efforts in **EI and DK**.
+
+#### **Long-Term Foundation (Ongoing)**
+
+6.  **Invest in Sales Enablement Based on Data:**
+    *   The patterns suggest a need for better key account management training (to protect Tier 1 accounts) and churn prevention training (to identify at-risk accounts earlier).
+    *   **Recommendation:** Develop training modules focused on these specific skills, using the real data from this analysis as case studies.
+
+7.  **Enhance Data Reporting:**
+    *   Investigate the inconsistencies in customer reporting (e.g., customers on both top/flop lists). Clean data is essential for accurate performance management. Ensure sales figures are correctly attributed and aligned with fiscal periods.
+
+By focusing on these actionable strategies, you can stabilize volatile regions, protect your revenue base, and systematically drive growth by learning from both your successes and failures."
+deepseek-v3.1:671b-cloud,3,5,"Of course. Here is a strategic sales analysis and actionable recommendations for the Head of Sales, based on the provided data.
+
+### Executive Summary
+
+The analysis reveals a tale of two realities. While the global sales picture is stable with modest growth (driven by powerhouse regions like **GB** and **DE**), this stability masks significant volatility beneath the surface. Key findings include:
+*   **Regional Polarization:** Several regions experienced dramatic growth (e.g., **AU**, **NO**, **JP**) or severe decline (e.g., **DK**, **EI**, **GR**), indicating inconsistent regional strategies or market conditions.
+*   **Customer Concentration Risk:** Performance is heavily reliant on a very small number of top customers in most regions. The loss of even one key account could be catastrophic for a region's performance.
+*   **Significant Underperformance:** A large number of customers are showing negative sales development, representing a major opportunity for recovery and growth through targeted interventions.
+
+---
+
+### 1. Regional & Representative Performance Assessment
+
+#### Top Performing Regions (Growth & Stability)
+*   **Germany (DE):** Strong, steady growth (+12.9%). The performance is broad-based, with ten representatives showing significant positive contributions, led by CustomerID 12590. This indicates a healthy, well-managed sales team.
+*   **France (FR):** Impressive growth (+51.0%). Like Germany, the growth is supported by multiple top performers, suggesting effective team-wide execution.
+*   **Australia (AU):** **Star Performer.** Explosive growth of over 950%, primarily driven by a single massive deal from CustomerID 12415. While commendable, this also represents a high-risk concentration.
+*   **Japan (JP) & Norway (NO):** Both regions show very strong growth (319% and 762% respectively), fueled by a handful of key customers.
+
+#### Regions Requiring Immediate Attention (Significant Decline)
+*   **Ireland (EI):** **Critical Situation.** A massive decline of over 25%. The data shows catastrophic losses from several customers, especially CustomerID 14156. This region demands urgent and deep investigation.
+*   **Denmark (DK):** Severe decline (-60%). The loss is almost entirely attributed to one major customer (13902). Recovery efforts must focus here.
+*   **Greece (GR):** Significant decline (-67%). All listed customers show negative development, indicating a systemic issue within the region or market.
+*   **Great Britain (GB):** While total sales are enormous and stable (-0.08%), the underlying customer data is alarming. It has the largest absolute losses from underperforming customers (e.g., 18102, 13694). This poses a massive hidden risk to global revenue.
+
+#### Regions with Mixed or Concerning Signals
+*   **Netherlands (NL):** Solid overall growth (+7.9%). However, the growth is almost entirely dependent on one superstar customer (14646). The rest of the team shows minimal or negative performance, indicating a coaching opportunity for the regional manager to replicate top-performer success.
+*   **Sweden (SE):** Overall decline (-28.5%), primarily due to one major loss (12482). However, there is a very strong positive performance from CustomerID 17404. The strategy should be to protect this growth while addressing the large loss.
+
+---
+
+### 2. Customer Performance Assessment
+
+#### High-Performing Customers (Deeper Engagement/Upselling)
+*   **GB: -1, 17450, 14096:** These are the company's largest accounts by volume. Strategy: Ensure exceptional service, strategic account planning, and identify cross-selling/up-selling opportunities. Protect at all costs.
+*   **AU: 12415:** The standout growth driver globally. Strategy: Immediate recognition and deep relationship management. Understand the reasons for this surge to see if the success can be replicated elsewhere.
+*   **DE: 12590, 12626; FR: 12731, 12700:** The reliable engines of growth in key European markets. Strategy: Reward and recognize these representatives. Conduct case studies on their success to share best practices across the organization.
+
+#### Underperforming Customers (Reactivation/Support)
+*   **EI: 14156, -1; DK: 13902; GB: 18102, 13694:** These customers represent the largest absolute losses and are the highest priority for recovery efforts.
+*   **Widespread Negative Trends:** Nearly every region has a list of 'flop' customers with negative sales development. This represents a significant cumulative revenue leak. A standardized 'win-back' or 'diagnostic' process should be implemented globally.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### **1. Immediate Action: Launch a 'Customer Rescue Task Force'**
+*   **Justification:** The data shows concentrated, massive losses in specific accounts (EI-14156, DK-13902, GB-18102). These are not minor dips but existential threats to their respective regions.
+*   **Action:** Form a cross-functional team (Sales, Customer Success, Leadership) to personally visit these accounts. The goal is to diagnose the root cause (e.g., service failure, competitive pressure, budget cuts) and create a bespoke recovery plan.
+
+#### **2. Mitigate Concentration Risk in Key Regions**
+*   **Justification:** Regions like AU, NL, and SE are dangerously reliant on one or two customers for their entire positive performance.
+*   **Action:**
+    *   **For top performers (e.g., NL-14646):** Insulate this revenue by elevating the account to a strategic global key account status with senior-level oversight.
+    *   **For the team:** The regional manager must be tasked with using the top performer's tactics to train the rest of the team and diversify the revenue base. This is a primary coaching objective.
+
+#### **3. Recognize and Replicate Success**
+*   **Justification:** Regions like DE and FR show broad-based growth, indicating effective management and processes.
+*   **Action:**
+    *   Publicly recognize the regional managers and top representatives from DE and FR.
+    *   Commission a 'Best Practice Playbook' from these teams. What are their common strategies for account management, prospecting, and negotiation? Roll this out as formal training for struggling regions like EI and GR.
+
+#### **4. Implement a Global 'Health Check' Process for At-Risk Accounts**
+*   **Justification:** The long 'flop' lists in most regions indicate a reactive rather than proactive approach to account management.
+*   **Action:** Mandate that each regional manager must present a quarterly plan for any account showing a decline greater than a set threshold (e.g., -10%). The plan should include reasons for the decline and specific actions to reverse it. This creates accountability and early intervention.
+
+#### **5. Investigate Systemic Issues in Ireland (EI) and Greece (GR)**
+*   **Justification:** The across-the-board negative performance in these regions suggests issues beyond individual customer relationships. Potential causes include a failed regional strategy, aggressive competition, or macroeconomic factors.
+*   **Action:** Conduct a thorough review of the regional strategy, leadership, and market conditions. A change in leadership or strategy may be required.
+
+By focusing on these five strategic pillars, you can systematically address the critical risks uncovered in the data while leveraging the strengths of your top performers to drive sustainable growth."
+deepseek-v3.1:671b-cloud,3,6,"Of course. Here is a strategic analysis and set of recommendations for the Head of Sales based on the provided data.
+
+### Executive Summary
+
+The sales data reveals a tale of two realities. **Global sales are being driven overwhelmingly by a few key regions, primarily Great Britain (GB)**, which accounts for over 90% of total revenue. However, this creates significant concentration risk. The analysis highlights major growth opportunities in countries like **Australia (AU), Japan (JP), and France (FR)**, as well as critical performance issues in historically strong markets like **Denmark (DK) and Ireland (EI)**. At the customer level, we see a pattern where a small number of top-performing customers are responsible for the majority of growth, while many others are stagnant or declining. The strategic imperative is to **diversify revenue streams by fueling growth engines and addressing critical underperformers.**
+
+---
+
+### 1. Regional Performance Evaluation
+
+The country-level sales data (Table 1) allows us to categorize regions into distinct groups.
+
+#### **Top Performers & Growth Champions**
+These regions show strong absolute sales and/or exceptional growth from Fiscal Year 1 (FY1) to Fiscal Year 2 (FY2). They are prime candidates for increased investment and recognition.
+
+*   **Great Britain (GB):** The undisputed leader with sales of ~£8.2 million. While year-over-year growth is flat (-0.08%), maintaining this revenue base is critical. The strategy here is **protection and efficiency**.
+*   **Australia (AU):** **Star Performer.** Sales exploded from **13,023 to 137,077**, a **952% increase**. This is the company's most significant growth story and requires immediate strategic focus to sustain momentum.
+*   **France (FR):** Strong growth from **130,770 to 197,422**, a **51% increase**. This indicates a healthy, expanding market.
+*   **Japan (JP):** Impressive growth from **8,436 to 35,341**, a **319% increase**. This represents a major success in a key market.
+*   **Other Notable Growers:** Belgium (BE), Switzerland (CH), Spain (ES), Finland (FI), and Norway (NO) all show strong double-digit or triple-digit percentage growth.
+
+#### **Underperformers & Critical Concerns**
+These regions have experienced significant sales declines and require immediate intervention.
+
+*   **Ireland (EI):** **Most Critical Issue.** Sales plummeted from **352,243 to 263,277**, a loss of nearly **£89,000**. This represents a massive erosion of revenue from a top-tier market. Root cause analysis is urgent.
+*   **Denmark (DK):** Sales fell sharply from **46,973 to 18,768**, a **60% decrease**. This is a severe downturn in a previously strong region.
+*   **United States (USA):** Sales declined by **62%** (from 4,556 to 1,731). While not a top revenue market, the decline is concerning for its future potential.
+*   **Greece (GR):** Sales dropped by **67%** (from 14,285 to 4,711).
+*   **Austria (AT):** Sales decreased by **66%** (from 30,052 to 10,154).
+
+#### **New & Emerging Markets**
+Markets like Brazil (BR), Canada (CA), and Israel (IL) show promising growth from a small base. These are potential future growth engines.
+
+---
+
+### 2. Customer Performance Assessment (Table 2)
+
+Drilling into the customer data reveals the micro-dynamics behind the regional performance.
+
+#### **High-Performing Customers (Deeper Engagement/Upselling)**
+*   **GB: Customer -1 and 17450** are colossal accounts, responsible for hundreds of thousands in sales. They must be managed with white-glove service.
+*   **AU: Customer 12415** is single-handedly driving the country's phenomenal growth, contributing **123,725** of the 124,054 total increase. This customer is critically important.
+*   **DE: Customers 12590, 12626, 12477** show strong, consistent growth. They are ideal candidates for cross-selling and upselling initiatives.
+*   **FR: Multiple customers (12731, 12700, 12567)** show robust growth, indicating a healthy sales team performance.
+
+#### **Underperforming Customers (Reactivation/Support)**
+*   **EI: Customer 14156** is a catastrophic outlier, single-handedly responsible for a **-69,797** sales development. This one customer explains most of Ireland's terrible performance and requires immediate executive attention.
+*   **DK: Customer 13902** caused a **-30,411** swing, accounting for the vast majority of the country's decline.
+*   **DE: Customers 12709 and 12647** are significant detractors, each causing over **-10,000** in sales loss. Despite overall growth in Germany, these accounts represent a major opportunity if recovered.
+*   **GB: Several large flops (18102, 13694, 16754)** indicate that while the market is stable overall, there are serious customer retention issues that need to be addressed.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+Based on the above analysis, I recommend the following actions:
+
+#### **A. Immediate Actions (Next 30-60 Days)**
+
+1.  **Launch a 'Turnaround Task Force' for Ireland (EI) and Denmark (DK):**
+    *   **Justification:** These are the most severe cases of revenue erosion. The loss in EI is too large to ignore.
+    *   **Action:** Assign your most senior sales leader to directly investigate the root cause. This must include a deep-dive analysis of customer `14156` in EI and `13902` in DK. Was it a product issue, competitive loss, or failure in account management? Develop a recovery plan immediately.
+
+2.  **Recognize and Reward the Australian (AU) Team:**
+    *   **Justification:** Exceptional performance must be celebrated to reinforce successful behaviors.
+    *   **Action:** Publicly recognize the AU team and the account manager for customer `12415`. Consider bonuses or awards. Document their best practices to share across other regions.
+
+#### **B. Medium-Term Strategic Shifts (Next 6 Months)**
+
+3.  **Reallocate Resources to Fuel Growth:**
+    *   **Justification:** To reduce dependency on GB and capitalize on momentum.
+    *   **Action:** Increase the marketing and sales development budget for high-growth regions like **AU, JP, FR, and NO**. Consider temporarily reallocating a underperforming account manager from a stagnant region to support the pipeline in AU.
+
+4.  **Implement a Tiered Customer Management Program:**
+    *   **Justification:** The data shows a classic 80/20 pattern. Resources must be aligned with opportunity and risk.
+    *   **Action:**
+        *   **Tier 1 (Strategic Accounts):** Assign dedicated key account managers to top 10 customers in GB, DE, FR, and AU. Focus on relationship depth and strategic partnerships.
+        *   **Tier 2 (Growth Accounts):** Target the 'top' customers in growing regions for focused upselling campaigns.
+        *   **Tier 3 (At-Risk Accounts):** Create a 'get-well' plan for the top 5 'flop' customers in each major region, especially DE and GB. This involves understanding their dissatisfaction and presenting a value roadmap.
+
+5.  **Initiate Coaching and Performance Management:**
+    *   **Justification:** Regions with multiple 'flop' customers (e.g., DE, GB, FR) indicate potential skill gaps or misalignment.
+    *   **Action:** The regional sales directors for DE and GB should be tasked with creating performance improvement plans for the representatives managing the worst-performing accounts (`12709`, `12647` in DE; `18102`, `13694` in GB). Provide targeted coaching on negotiation, value selling, and customer retention.
+
+#### **C. Long-Term Foundation (Next 12 Months)**
+
+6.  **Develop a Formal Sales Playbook for New Market Expansion:**
+    *   **Justification:** The success in AU and JP can be replicated.
+    *   **Action:** Document the entire sales process, value proposition, and customer onboarding that led to success in AU. Use this as a blueprint for entering or scaling in other APAC and North American markets.
+
+7.  **Invest in Sales Enablement Technology:**
+    *   **Justification:** To proactively identify at-risk customers before they appear on the 'flop' list.
+    *   **Action:** Evaluate CRM and predictive analytics tools that can flag customers with declining engagement, allowing for early intervention.
+
+By executing on these recommendations, you can systematically address the critical risks, double down on what's working, and build a more diversified and resilient sales organization for the future."
+deepseek-v3.1:671b-cloud,3,7,"Of course. Here is a strategic analysis and set of actionable recommendations for the Head of Sales, based on the provided data.
+
+### Executive Summary
+
+The analysis reveals a tale of two realities. **Global sales are essentially flat**, with a marginal decrease from Year 1 to Year 2, primarily driven by a significant downturn in a few key markets. However, this aggregate figure masks extreme volatility at the country and customer level. The core strategy must be one of **aggressive growth in expanding markets** while implementing **urgent turnaround and stabilization plans** in declining regions. Customer performance data highlights that a small number of key accounts are driving the vast majority of growth (or loss), necessitating a highly targeted account management approach.
+
+---
+
+### 1. Regional Performance Evaluation
+
+The sales landscape is highly polarized. We can categorize countries into three groups:
+
+**A. Star Performers (Significant Growth)**
+These regions show explosive growth and represent the company's biggest opportunities.
+*   **Australia (AU):** **+954% growth** (13,023 to 137,077). This is the standout success story.
+*   **Japan (JP):** **+319% growth** (8,436 to 35,341).
+*   **France (FR):** **+51% growth** (130,770 to 197,422).
+*   **Finland (FI):** **+211% growth** (7,188 to 22,327).
+*   **Norway (NO):** **+762% growth** (4,080 to 35,163).
+
+**B. Critical Concerns (Significant Decline)**
+These regions have experienced severe setbacks and require immediate attention.
+*   **EI (likely Ireland):** **-25% decline** (352,243 to 263,277). This is the most damaging loss due to its high starting volume.
+*   **Denmark (DK):** **-60% decline** (46,973 to 18,768).
+*   **Greece (GR):** **-67% decline** (14,285 to 4,711).
+*   **USA:** **-62% decline** (4,556 to 1,731).
+*   **Sweden (SE):** **-29% decline** (51,214 to 36,596).
+
+**C. Stable/Mature Markets**
+*   **United Kingdom (GB):** Sales remained virtually identical (~8.19M). This is our largest market, and maintaining stability is crucial.
+*   **Germany (DE):** **+13% growth** (196,290 to 221,698). Steady, reliable growth.
+*   **Netherlands (NL):** **+8% growth** (263,863 to 284,662). Solid performance.
+
+---
+
+### 2. Customer Performance Assessment
+
+The customer data reveals that performance is heavily concentrated in a few accounts. The 'top' and 'flop' lists often include the same customers, indicating these are large accounts with significant YoY changes.
+
+**A. High-Performing Customers (Growth Opportunities)**
+*   **In Growth Regions:** Customers driving the boom should be prioritized for deeper engagement.
+    *   **Australia:** Customer `12415` (+123,725) is single-handedly responsible for the country's success. This account demands a strategic partnership and dedicated key account management to secure and expand the relationship.
+    *   **Japan:** Customer `12753` (+21,024) is the primary growth engine. Similar strategic focus is required.
+    *   **France & Germany:** Multiple customers show strong, consistent growth (e.g., `12731` in FR, `12590` in DE). These are prime for upselling and cross-selling initiatives.
+
+**B. Underperforming Customers (Retention & Reactivation Focus)**
+*   **Catastrophic Losses:** Some customer losses are so large they have dragged down entire countries.
+    *   **EI (Ireland):** Customer `14156` (-69,797) represents a massive loss. An urgent review is needed to understand the reasons (e.g., competitive loss, contract termination) and if recovery is possible.
+    *   **Denmark:** Customer `13902` (-30,411) is the main cause of the country's decline.
+    *   **United Kingdom:** Despite stable overall sales, customer `18102` (-85,339) and `13694` (-65,519) suffered huge losses. This was offset by gains from other accounts (e.g., `-1` +263,705, `17450` +141,385), but the loss of these major accounts is a significant risk. **Investigation is critical.**
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### Recommendation 1: Recognize and Invest in Growth
+*   **Action:** Publicly recognize and reward the sales teams in **Australia, Japan, France, Finland, and Norway**. Analyze their successful strategies to create best-practice case studies.
+*   **Justification:** These regions are outperforming dramatically. Reinforcing success will motivate teams and provide a replicable playbook for other regions. Allocate additional marketing and support resources to these areas to fuel further expansion.
+
+#### Recommendation 2: Launch 'Turnaround Task Forces' for Critical Regions
+*   **Action:** Immediately form dedicated task forces for **EI (Ireland), Denmark, and the UK (specifically for the lost accounts)**. These teams, involving senior sales leadership, should conduct deep-dive analyses to diagnose the root causes of the major account losses.
+*   **Justification:** The declines here are not gradual; they are cliff-edges caused by a handful of customers. Standard coaching is insufficient. We need a strategic, interventionist approach to stop the bleeding and develop recovery plans.
+
+#### Recommendation 3: Implement a Tiered Customer Management Strategy
+*   **Action:** Segment customers based on their current value and growth trajectory as shown in Table 2.
+    *   **Tier 1 (Strategic Growth):** Customers with large positive growth (e.g., `12415` in AU, `12753` in JP). Assign your most experienced Key Account Managers. Focus on strategic partnerships and growth roadmaps.
+    *   **Tier 2 (At-Risk Recovery):** Customers with large negative growth (e.g., `14156` in EI, `18102` in GB). Senior leadership must be involved in outreach to understand their concerns and negotiate retention.
+    *   **Tier 3 (Stable Core):** Customers with stable, positive contributions. Focus on maintaining satisfaction and identifying incremental upsell opportunities.
+*   **Justification:** Resources are finite. This ensures effort is focused where it can have the greatest impact, both in driving growth and mitigating risk.
+
+#### Recommendation 4: Coaching and Training Focused on Major Account Management
+*   **Action:** Develop targeted training modules on strategic account management, negotiation, and churn prevention. Roll this out initially to teams in the underperforming regions.
+*   **Justification:** The pattern of massive single-account losses suggests potential vulnerabilities in managing our largest and most critical customer relationships. Strengthening these skills across the sales force is essential for long-term stability.
+
+### Conclusion
+
+The overall flat sales are a warning sign. The company is simultaneously experiencing its greatest growth and its most significant losses. The strategy cannot be one-size-fits-all. The Head of Sales must lead a dual-pronged approach: **aggressively scaling what works** in thriving markets while taking **decisive, urgent action to stabilize** the bleeding in critical regions. The focus must shift from general sales management to proactive, strategic key account management."
+deepseek-v3.1:671b-cloud,3,8,"Of course. Here is a strategic sales analysis and set of actionable recommendations for the Head of Sales, based on the provided data.
+
+### Executive Summary
+
+The analysis reveals a tale of two realities. While the global sales figure appears stable (driven overwhelmingly by the UK), a deep dive into country and customer performance shows significant volatility. Key markets like **EI (Ireland)** and **DK (Denmark)** have experienced dramatic declines, largely due to a small number of major account losses. Conversely, markets like **AU (Australia), FR (France), and NO (Norway)** have shown explosive growth, driven by specific high-performing customers and representatives. The primary strategic imperative is to **mitigate concentration risk in the UK, replicate success in growth markets, and implement a proactive key account management strategy to prevent future catastrophic losses.**
+
+---
+
+### 1. Regional & Country Performance Analysis
+
+The sales landscape is highly fragmented, with performance varying drastically by country.
+
+#### Top Performing Regions (Strategic Growth Engines)
+*   **AU (Australia):** **Outstanding Growth.** Sales increased from ~13k to ~137k (+940%). This is the company's most remarkable success story, primarily driven by customer `12415` (+123,725).
+*   **FR (France):** **Strong Growth.** Sales increased from ~131k to ~197k (+51%). Growth is broad-based, with multiple customers showing significant positive development (e.g., `12731` +11,913).
+*   **NO (Norway):** **Exceptional Growth.** Sales skyrocketed from ~4k to ~35k (+762%). Like Australia, this growth is concentrated in a few top-performing customers (e.g., `12433` +6,323, `15760` +5,796).
+*   **JP (Japan):** **Significant Growth.** Sales grew from ~8k to ~35k (+319%), largely due to the phenomenal performance of customer `12753` (+21,024).
+
+#### Underperforming & High-Risk Regions (Requiring Immediate Attention)
+*   **EI (Ireland):** **Critical Situation.** Sales dropped from ~352k to ~263k (-25%). This represents the largest absolute loss. The decline is almost entirely due to the catastrophic performance of customer `14156` (-69,797). This is a major red flag for account management.
+*   **DK (Denmark):** **Severe Decline.** Sales collapsed from ~47k to ~19k (-60%). Similar to Ireland, one customer (`13902`: -30,411) is responsible for the vast majority of the loss.
+*   **GB (United Kingdom):** **Stagnant & Concentrated.** While sales are virtually flat (~8.19M to ~8.18M), this masks a high-risk concentration. The 'top' performer is an unspecified account (`-1`: +263,705), but this is offset by significant losses from other large accounts (e.g., `18102`: -85,339). The UK is too big to fail, but its stability is fragile.
+*   **SE (Sweden):** **Significant Decline.** Sales fell from ~51k to ~37k (-29%), driven by a major loss from customer `12482` (-21,894).
+
+#### Emerging Markets & Mixed Signals
+*   **DE (Germany) and NL (Netherlands):** **Stable Growth.** Both show steady, single-digit growth. Germany's growth is well-distributed among many customers, which is a healthy sign.
+*   **US (USA):** **Concerning Decline.** Sales fell from ~4.5k to ~1.7k (-62%). The market appears fragmented with no strong positive momentum.
+
+---
+
+### 2. Customer Performance Assessment
+
+The data clearly shows that a small number of customers have an outsized impact on overall performance.
+
+#### High-Performing Customers (Potential for Upselling & Recognition)
+*   **The 'Growth Drivers':** Customers like `12415` (AU), `12753` (JP), `12433` (NO), and `15760` (NO) have delivered extraordinary growth. These relationships are incredibly valuable.
+*   **The 'Consistent Contributors':** In markets like DE, FR, and CH, we see a pattern of multiple customers (`12590`, `12731`, `12451`) delivering solid, significant growth. This indicates effective broad-based sales execution.
+
+#### Underperforming Customers (Requiring Reactivation or Support)
+*   **The 'Critical Accounts':** Customers `14156` (EI), `13902` (DK), `18102` (GB), and `12482` (SE) have single-handedly caused massive regional declines. These accounts require **immediate, senior-level intervention** to understand the root cause (e.g., service failure, competitive pressure, change in customer strategy).
+*   **The 'Struggling Accounts':** Many countries have a long tail of customers with minor negative developments. These may benefit from targeted support, refreshed value propositions, or closer attention from their field representatives.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### Recommendation 1: Mitigate Concentration Risk in the UK
+The UK's stability is an illusion built on offsetting huge gains and losses. This is unsustainable.
+*   **Action:** Launch a dedicated 'UK Key Account Stability Initiative.' Assign senior account managers to the top 10 accounts (both top and flop). The goal for flop accounts is not just to stop the bleeding but to understand the strategic reasons behind their decline. For the large, unspecified account (`-1`), ensure the relationship is deeply institutionalized and not dependent on a single contact.
+
+#### Recommendation 2: Replicate and Invest in High-Growth Markets
+The success in Australia, Norway, and Japan provides a blueprint for growth.
+*   **Action:** **Recognize and reward** the field sales representatives responsible for the top-performing customers in these regions (e.g., the rep for `12415` in AU). Fund a 'Growth Playbook' project where these top performers document their strategies for onboarding and growing key accounts. Roll out these best practices to other regions with similar potential.
+
+#### Recommendation 3: Implement a Proactive Key Account Management Framework
+The catastrophic losses in Ireland and Denmark highlight a reactive account management approach.
+*   **Action:** **Immediately mandate** a deep-dive review for every account that shows a sales decline greater than 20% or a value over 10,000. Create an 'At-Risk Account' dashboard visible to sales leadership. Develop 'win-back' strategies for the largest lost accounts, involving product, marketing, and leadership teams.
+
+#### Recommendation 4: Coach and Support Regions with Broad-Based Challenges
+Regions like the US and several smaller countries show a pattern of flat or negative performance without a single catastrophic event, suggesting a broader sales execution issue.
+*   **Action:** Initiate a **sales effectiveness review** in these regions. This should include analysis of sales activities, pipeline health, and local competitive landscape. Provide targeted training and potentially reassign territories or accounts to reinvigorate growth. Consider pairing struggling representatives with mentors from top-performing regions like Germany or France.
+
+#### Recommendation 5: Address Data and Process Gaps
+The high number of 'UNSP' (unspecified) and '-1' customer IDs indicates a data quality issue.
+*   **Action:** **Clean the customer data.** Work with IT and Sales Operations to enforce proper customer ID tagging in the CRM. This is critical for accurate performance tracking and management. Without clean data, strategic analysis is compromised.
+
+By focusing on these five strategic pillars, you can shift from reactive firefighting to proactive, data-driven sales leadership, leveraging your successes to drive sustainable global growth."
+deepseek-v3.1:671b-cloud,3,9,"Of course. Here is a strategic sales analysis and set of actionable recommendations for the Head of Sales, based on the provided data.
+
+### Executive Summary
+
+The analysis reveals a tale of two realities. While the global sales picture is stable with a slight decline (driven almost entirely by a single region), there are significant underlying volatility and polarization at the country and customer level. Key findings include:
+
+1.  **Global Stability masks Regional Volatility:** Overall sales are relatively flat, but this is due to the massive dominance of Great Britain (GB), which saw a slight decline. Many other countries experienced dramatic growth or contraction.
+2.  **Extreme Customer Polarization:** In nearly every country, a small number of customers are driving immense growth, while a similarly small group is responsible for catastrophic losses. This indicates issues with customer health, account management focus, and potentially a high-risk customer concentration.
+3.  **Clear Opportunities for Growth and Mitigation:** The data clearly identifies 'growth engine' countries and customers, as well as 'red alert' accounts and regions that require immediate intervention.
+
+---
+
+### 1. Regional Performance Evaluation
+
+The sales regions (countries) can be categorized into three groups:
+
+**A. High-Growth Regions (Priority for Investment & Support)**
+*   **Key Examples:** **AU** (+951%), **FR** (+51%), **JP** (+319%), **NO** (+762%), **FI** (+211%), **ES** (+48%), **CH** (+30%).
+*   **Justification:** These countries show strong, positive year-over-year growth. The growth in Australia (AU) is particularly staggering, moving from ~13k to ~137k. France (FR) and Japan (JP) also show substantial absolute growth.
+*   **Implication:** These regions are successfully executing their strategy. Their field teams are likely effective and should be studied for best practices.
+
+**B. Significant Decline Regions (Priority for Analysis & Intervention)**
+*   **Key Examples:** **GB** (-0.08%), **EI** (-25%), **DK** (-60%), **GR** (-67%), **USA** (-62%), **LT** (-66%).
+*   **Justification:** While GB's decline is minor in percentage terms, its sheer size (~£8.1M) makes this a critical issue for overall company performance. The declines in Denmark (DK) and the USA are severe in both percentage and absolute terms.
+*   **Implication:** The sales teams in these regions are struggling. The decline in GB, our largest market, is a major strategic concern that demands immediate and deep investigation.
+
+**C. Emerging/Volatile Markets**
+*   **Key Examples:** **BR, CA, EC, NG** (from a very low base).
+*   **Justification:** These markets have small sales volumes but show significant percentage changes (e.g., BR +327%). They represent potential future growth but currently carry little weight in the global total.
+*   **Implication:** These require a tailored strategy—either nurtured for growth or assessed for viability.
+
+---
+
+### 2. Customer Performance Assessment
+
+The Table 2 data reveals a critical pattern: **extreme customer concentration and polarization.**
+
+**A. High-Performing Customers (Deeper Engagement & Upselling)**
+*   **Identification:** These are the customers listed as 'top' for each country, particularly those with the largest positive 'sales development' figures.
+*   **Star Performers:**
+    *   **GB: Customer -1 (£263,705 growth) and Customer 17450 (£141,385 growth).** These are colossal contributors and must be treated as strategic partners.
+    *   **AU: Customer 12415 (£123,725 growth).** This single customer is almost entirely responsible for Australia's explosive growth.
+    *   **DE: Customers 12590, 12626 (approx. £9.8k, £6.3k growth).** Key pillars in a stable, large market.
+    *   **FR: Customer 12731 (£11,913 growth).** A major driver in a growing region.
+    *   **SE: Customer 17404 (£14,595 growth).** A bright spot offsetting other losses in Sweden.
+*   **Action:** These customers represent the lowest-hanging fruit for **upselling, cross-selling, and deepened strategic partnerships.** They should be assigned to your most senior and capable account managers.
+
+**B. Underperforming Customers (Reactivation & Support)**
+*   **Identification:** These are the customers listed as 'flop,' with the largest negative 'sales development' figures. These are not just low performers; they are actively eroding revenue.
+*   **Critical Red Alerts:**
+    *   **GB: Customer 18102 (-£85,339), 13694 (-£65,519).** The loss from these two accounts alone explains most of GB's overall decline. This is a five-alarm fire.
+    *   **DE: Customers 12709 (-£11,725), 12647 (-£10,343).** Significant losses in a key market.
+    *   **DK: Customer 13902 (-£30,411).** This single customer loss explains the entire country's decline.
+    *   **EI: Customer 14156 (-£69,797).** A massive loss that heavily impacted EI's performance.
+*   **Action:** These accounts require an immediate **'At-Risk Customer' protocol.** This involves senior leadership outreach to diagnose the root cause (e.g., service failure, competitive pressure, budget cuts) and create a personalized recovery plan.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### **Immediate Actions (Next 30-60 Days)**
+
+1.  **Launch a 'GB Turnaround Task Force':** Immediately assemble a cross-functional team (Sales, Customer Success, Marketing) to focus exclusively on the UK market. The primary goal is to understand and stem the bleeding from the top 5 'flop' customers while securing the growth from the top performers.
+2.  **Conduct Executive-Level Account Reviews:** You or a VP should personally contact the top 3 'red alert' customers in GB, DE, DK, and EI. The objective is not to sell, but to listen and understand why their business has declined so precipitously.
+3.  **Recognize and Replicate Success in AU and FR:** Publicly recognize the sales teams in Australia and France. Commission a case study from the Australian team, specifically on how they managed the phenomenal growth with customer 12415. Use this as a best-practice template for other regions.
+
+#### **Medium-Term Strategic Shifts (Next 6 Months)**
+
+4.  **Implement a Tiered Customer Management Program:**
+    *   **Tier 1 (Strategic Growth):** Assign your best account managers to the top 10 global growth customers. Develop joint business plans with them.
+    *   **Tier 2 (At-Risk Recovery):** Create a dedicated 'save team' with the mandate and resources to win back the top 10 global 'flop' customers.
+    *   **Tier 3 (Stable Core):** Manage the broad base of stable customers efficiently with a focus on retention and satisfaction.
+5.  **Invest in Regional Coaching:** The data suggests inconsistent performance management across regions.
+    *   **For declining regions (GB, DK, USA):** Mandate sales coaching focused on value-selling, negotiation, and churn prevention. Analyze their pipeline and deal strategies.
+    *   **For growth regions (AU, FR, JP):** Provide advanced coaching on strategic account management and complex deal structuring to help them scale further.
+6.  **Review Compensation and Incentives:** Ensure the sales compensation plan strongly incentivizes **net revenue growth** and **customer retention**, not just new logo acquisition. This will focus efforts on protecting the base while growing strategically.
+
+#### **Long-Term Strategic Considerations (Next 12 Months)**
+
+7.  **Diversify Customer Concentration Risk:** The heavy reliance on a few massive customers in key markets (like GB) is a significant business risk. Develop strategies to broaden the customer base within these markets to mitigate the impact of any single customer's departure.
+8.  **Formalize a Data-Driven Review Rhythm:** Use this type of analysis quarterly. Regularly review country and customer performance dashboards with regional heads to identify trends early and take proactive, rather than reactive, measures.
+
+By focusing on these actionable insights, you can stabilize critical markets, leverage your strengths, and build a more resilient and growth-oriented sales organization."
+deepseek-v3.1:671b-cloud,3,10,"Of course. Here is a strategic sales analysis and set of actionable recommendations for the Head of Sales, based on the provided data.
+
+### Executive Summary
+
+The analysis reveals a tale of two realities. While the global sales picture is stable with a slight decline (driven almost entirely by a single region), there are significant underlying volatility and polarization at the country and customer level. Key findings include:
+
+1.  **Global Stability masks Regional Volatility:** Overall sales are relatively flat, but this is due to the massive dominance of Great Britain (GB), which saw a slight decline. Many other countries experienced dramatic growth or contraction.
+2.  **Extreme Customer Polarization:** In nearly every country, a small number of customers are driving immense growth, while a similarly small group is responsible for catastrophic losses. This indicates issues with customer health, account management focus, and potentially a high-risk customer concentration.
+3.  **Clear Opportunities for Growth and Mitigation:** The data clearly identifies 'growth engine' countries and customers, as well as 'red alert' accounts and regions that require immediate intervention.
+
+---
+
+### 1. Regional Performance Evaluation
+
+The sales regions (countries) can be categorized into three groups:
+
+**A. High-Growth Regions (Priority for Investment & Support)**
+*   **Key Examples:** **AU** (+951%), **FR** (+51%), **JP** (+319%), **NO** (+762%), **FI** (+211%), **ES** (+48%), **CH** (+30%).
+*   **Justification:** These countries show strong, positive year-over-year growth. The growth in Australia (AU) is particularly staggering, moving from ~13k to ~137k. France (FR) and Japan (JP) also show substantial absolute growth.
+*   **Implication:** These regions are successfully executing their strategy. Their field teams are likely effective and should be studied for best practices.
+
+**B. Significant Decline Regions (Priority for Analysis & Intervention)**
+*   **Key Examples:** **GB** (-0.08%), **EI** (-25%), **DK** (-60%), **GR** (-67%), **USA** (-62%), **LT** (-66%).
+*   **Justification:** While GB's decline is minor in percentage terms, its sheer size (~£8.1M) makes this a critical issue for overall company performance. The declines in Denmark (DK) and the USA are severe in both percentage and absolute terms.
+*   **Implication:** The sales teams in these regions are struggling. The decline in GB, our largest market, is a major strategic concern that demands immediate and deep investigation.
+
+**C. Emerging/Volatile Markets**
+*   **Key Examples:** **BR, CA, EC, NG** (from a very low base).
+*   **Justification:** These markets have small sales volumes but show significant percentage changes (e.g., BR +327%). They represent potential future growth but currently carry little weight in the global total.
+*   **Implication:** These require a tailored strategy—either nurtured for growth or assessed for viability.
+
+---
+
+### 2. Customer Performance Assessment
+
+The Table 2 data reveals a critical pattern: **extreme customer concentration and polarization.**
+
+**A. High-Performing Customers (Deeper Engagement & Upselling)**
+*   **Identification:** These are the customers listed as 'top' for each country, particularly those with the largest positive 'sales development' figures.
+*   **Star Performers:**
+    *   **GB: Customer -1 (£263,705 growth) and Customer 17450 (£141,385 growth).** These are colossal contributors and must be treated as strategic partners.
+    *   **AU: Customer 12415 (£123,725 growth).** This single customer is almost entirely responsible for Australia's explosive growth.
+    *   **DE: Customers 12590, 12626 (approx. £9.8k, £6.3k growth).** Key pillars in a stable, large market.
+    *   **FR: Customer 12731 (£11,913 growth).** A major driver in a growing region.
+    *   **SE: Customer 17404 (£14,595 growth).** A bright spot offsetting other losses in Sweden.
+*   **Action:** These customers represent the lowest-hanging fruit for **upselling, cross-selling, and deepened strategic partnerships.** They should be assigned to your most senior and capable account managers.
+
+**B. Underperforming Customers (Reactivation & Support)**
+*   **Identification:** These are the customers listed as 'flop,' with the largest negative 'sales development' figures. These are not just low performers; they are actively eroding revenue.
+*   **Critical Red Alerts:**
+    *   **GB: Customer 18102 (-£85,339), 13694 (-£65,519).** The loss from these two accounts alone explains most of GB's overall decline. This is a five-alarm fire.
+    *   **DE: Customers 12709 (-£11,725), 12647 (-£10,343).** Significant losses in a key market.
+    *   **DK: Customer 13902 (-£30,411).** This single customer loss explains the entire country's decline.
+    *   **EI: Customer 14156 (-£69,797).** A massive loss that heavily impacted EI's performance.
+*   **Action:** These accounts require an immediate **'At-Risk Customer' protocol.** This involves senior leadership outreach to diagnose the root cause (e.g., service failure, competitive pressure, budget cuts) and create a personalized recovery plan.
+
+---
+
+### 3. Strategic Recommendations for the Head of Sales
+
+#### **Immediate Actions (Next 30-60 Days)**
+
+1.  **Launch a 'GB Turnaround Task Force':** Immediately assemble a cross-functional team (Sales, Customer Success, Marketing) to focus exclusively on the UK market. The primary goal is to understand and stem the bleeding from the top 5 'flop' customers while securing the growth from the top performers.
+2.  **Conduct Executive-Level Account Reviews:** You or a VP should personally contact the top 3 'red alert' customers in GB, DE, DK, and EI. The objective is not to sell, but to listen and understand why their business has declined so precipitously.
+3.  **Recognize and Replicate Success in AU and FR:** Publicly recognize the sales teams in Australia and France. Commission a case study from the Australian team, specifically on how they managed the phenomenal growth with customer 12415. Use this as a best-practice template for other regions.
+
+#### **Medium-Term Strategic Shifts (Next 6 Months)**
+
+4.  **Implement a Tiered Customer Management Program:**
+    *   **Tier 1 (Strategic Growth):** Assign your best account managers to the top 10 global growth customers. Develop joint business plans with them.
+    *   **Tier 2 (At-Risk Recovery):** Create a dedicated 'save team' with the mandate and resources to win back the top 10 global 'flop' customers.
+    *   **Tier 3 (Stable Core):** Manage the broad base of stable customers efficiently with a focus on retention and satisfaction.
+5.  **Invest in Regional Coaching:** The data suggests inconsistent performance management across regions.
+    *   **For declining regions (GB, DK, USA):** Mandate sales coaching focused on value-selling, negotiation, and churn prevention. Analyze their pipeline and deal strategies.
+    *   **For growth regions (AU, FR, JP):** Provide advanced coaching on strategic account management and complex deal structuring to help them scale further.
+6.  **Review Compensation and Incentives:** Ensure the sales compensation plan strongly incentivizes **net revenue growth** and **customer retention**, not just new logo acquisition. This will focus efforts on protecting the base while growing strategically.
+
+#### **Long-Term Strategic Considerations (Next 12 Months)**
+
+7.  **Diversify Customer Concentration Risk:** The heavy reliance on a few massive customers in key markets (like GB) is a significant business risk. Develop strategies to broaden the customer base within these markets to mitigate the impact of any single customer's departure.
+8.  **Formalize a Data-Driven Review Rhythm:** Use this type of analysis quarterly. Regularly review country and customer performance dashboards with regional heads to identify trends early and take proactive, rather than reactive, measures.
+
+By focusing on these actionable insights, you can stabilize critical markets, leverage your strengths, and build a more resilient and growth-oriented sales organization."

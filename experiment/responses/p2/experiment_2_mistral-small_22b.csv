@@ -1,0 +1,696 @@
+model-name,phase,attempt,response
+mistral-small:22b,2,1," ### Strategic Sales Analysis for Head of Sales
+
+#### Evaluation of Sales Regions and Field Sales Representatives
+
+- **Top Performing Countries:**
+  - **GB**: Fiscal Year 1 (FY1) = 8,194,778, FY2 = 8,187,806
+  - **NL**: FY1 = 263,863, FY2 = 284,662
+  - **DE**: FY1 = 1,962,900, FY2 = 2,216,98
+  - **FR**: FY1 = 130,770, FY2 = 197,422
+  - **CH**: FY1 = 43,343, FY2 = 56,385
+
+- **Underperforming Countries:**
+  - **NG**: FY1 = -7 (negative sales)
+  - **BH**: FY1 = 2,313, FY2 = 548 (significant drop in sales)
+  - **CY**: FY1 = 1,1216, FY2 = 1,2946 (minimal growth)
+  - **SA**: FY2 = 131 (only data for one fiscal year)
+  - **AE**: FY1 = 8,046, FY2 = 1,902 (significant drop in sales)
+
+- **Top Performing Field Sales Representatives:**
+  - **GB**: Multiple representatives with high sales figures.
+  - **NL**: Consistent performance across fiscal years.
+  - **DE**: High sales figures with significant growth from FY1 to FY2.
+  - **FR**: Steady growth and high sales figures.
+  - **CH**: Significant sales growth from FY1 to FY2.
+
+- **Underperforming Field Sales Representatives:**
+  - **NG**: Negative sales in FY1, indicating potential issues with the representative or market conditions.
+  - **BH**: Steep decline in sales from FY1 to FY2, suggesting a need for coaching or market analysis.
+  - **CY**: Minimal growth between fiscal years, requiring attention.
+  - **SA**: Limited data available for performance evaluation.
+  - **AE**: Significant drop in sales from FY1 to FY2, indicating potential problems that need addressing.
+
+#### Customer Performance Analysis
+
+- **High-Performing Customers (Potential for Deeper Engagement or Upselling):**
+  - **GB**: Top customers with significant sales contributions.
+  - **NL**: Consistent high performance across multiple customers.
+  - **DE**: Multiple top customers driving growth.
+  - **FR**: Steady performance from key customers.
+  - **CH**: Significant sales growth driven by top customers.
+
+- **Underperforming Customers (Potential for Reactivation or Support):**
+  - **NG**: Negative sales indicate a need to reevaluate the customer relationship.
+  - **BH**: Steep decline in sales suggests potential issues that require attention.
+  - **CY**: Minimal growth between fiscal years, indicating a need for support strategies.
+  - **SA**: Limited data available for performance evaluation.
+  - **AE**: Significant drop in sales from FY1 to FY2, requiring reactivation or support strategies.
+
+#### Recommendations for Strategic Actions
+
+- **Recognizing Top-Performing Regions or Employees:**
+  - Implement a rewards program for top-performing regions and employees (e.g., GB, NL, DE, FR, CH).
+  - Highlight success stories in company communications to motivate other teams.
+
+- **Coaching or Training for Underperforming Areas:**
+  - Provide targeted training for underperforming sales representatives in NG, BH, CY, SA, and AE.
+  - Conduct market analysis to understand the reasons behind poor performance and develop tailored strategies.
+
+- **Customer Retention or Growth Strategies:**
+  - Develop a customer engagement plan for high-performing customers to deepen relationships and explore upselling opportunities.
+  - Implement reactivation campaigns for underperforming customers in NG, BH, CY, SA, and AE to understand their needs better and provide support.
+
+By implementing these strategic actions, the Head of Sales can effectively address performance gaps, recognize high achievers, and develop targeted strategies to improve overall sales performance."
+mistral-small:22b,2,2," ### Strategic Sales Analysis for Head of Sales
+
+#### Evaluation of Sales Regions and Field Sales Representatives
+
+- **Top Performing Countries:**
+  - **GB, NL, DE, CH, FR** consistently show high sales figures across both fiscal years.
+  - **AE, AT, AU, BE, CZ, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** show significant variations in sales performance between fiscal years.
+
+- **Underperforming Countries:**
+  - **BM, BH, CY, GR, KR, NG, RSA, SA, TH** have very low or negative sales figures.
+
+#### Recommendations for Sales Regions and Representatives:
+
+1. **Recognize Top-Performing Regions:**
+   - **GB, NL, DE, CH, FR**: Recognize these regions for their consistent high performance. Consider providing additional resources or incentives to maintain this momentum.
+
+2. **Coaching/Training for Underperforming Areas:**
+   - **BM, BH, CY, GR, KR, NG, RSA, SA, TH**: Implement targeted training programs and coaching sessions for the sales representatives in these regions to improve their performance.
+
+#### Assessment of Customer Performance
+
+- **High-Performing Customers:**
+  - **GB, NL, DE, CH, FR** have high-performing customers with significant sales development.
+  - **AE, AT, AU, BE, CZ, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** show varying performance with some high-performing customers.
+
+- **Underperforming Customers:**
+  - **BM, BH, CY, GR, KR, NG, RSA, SA, TH**: These countries have underperforming customers that require attention.
+
+#### Recommendations for Customer Performance:
+
+1. **Potential for Deeper Engagement or Upselling:**
+   - **GB, NL, DE, CH, FR**: Identify high-performing customers in these regions and develop strategies for deeper engagement and upselling opportunities.
+
+2. **Customer Reactivation or Support Strategies:**
+   - **BM, BH, CY, GR, KR, NG, RSA, SA, TH**: Implement reactivation campaigns and provide additional support to underperforming customers in these regions to improve their sales performance.
+
+#### Summary of Recommendations:
+
+1. **Recognize Top-Performing Regions/Employees:**
+   - Focus on GB, NL, DE, CH, FR for recognition programs and additional resources.
+
+2. **Coaching/Training for Underperforming Areas:**
+   - Implement targeted training and coaching for BM, BH, CY, GR, KR, NG, RSA, SA, TH to improve performance.
+
+3. **Customer Retention or Growth Strategies:**
+   - Develop deeper engagement strategies for high-performing customers in GB, NL, DE, CH, FR.
+   - Implement reactivation campaigns and support programs for underperforming customers in BM, BH, CY, GR, KR, NG, RSA, SA, TH.
+
+By following these strategic recommendations, the Head of Sales can effectively manage sales regions and representatives while also addressing customer performance to drive overall business growth."
+mistral-small:22b,2,3," ### Strategic Sales Analysis for Head of Sales
+
+#### Evaluation of Sales Regions and Field Sales Representatives
+
+- **Top Performing Regions:**
+  - **GB, NL, DE, CH, FR, USA** consistently show high sales figures across both fiscal years.
+  - **AE, AT, AU, BE, CA, CZ, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, WI** show significant sales growth or stability.
+  - **BR, BM, BH, CY, GR, HK, IL, IS, IT, JP, KR, LB, MT, NG, RSA, SA, TH, UNSP, WI** have shown improvement in sales performance from Fiscal Year 1 to Fiscal Year 2.
+
+- **Underperforming Regions:**
+  - **AE, AT, AU, BE, BH, BM, BR, CA, CH, CY, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** show a decline or stagnation in sales performance.
+  - **AE, AT, AU, BE, BH, BM, BR, CA, CH, CY, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** have significant sales drops or minimal growth.
+
+- **Field Sales Representatives:**
+  - **Top Performing Representatives:**
+    - **AE**: Customer IDs 12979, 12739, 12742, 17829, 12607 (top)
+    - **AT**: Customer IDs 12360, 12370, 12372, 12373, 12374, 12414, 12453, 12429 (top)
+    - **AU**: Customer IDs 12369, 12865, 12360, 12370, 12374, 12414, 12817, 12440 (flop)
+    - **BE**: Customer IDs 12362, 12449, 12397, 12383, 12407, 12408, 12423, 12364 (top)
+    - **BH**: Customer IDs 12355, 12353, -1 (flop)
+    - **BM**: Customer IDs -1 (flop)
+    - **BR**: Customer IDs 12769, 12751 (top)
+    - **CA**: Customer IDs 17444, 17443, 15388, 17844, 15390 (top)
+    - **CH**: Customer IDs 12451, 13505, 12456, 12378, 12398, 13492, 12457, 12461 (top)
+    - **CI**: Customer IDs 14936, 14937, 14934, 14931, 14939, 14935, 14932 (top)
+    - **CY**: Customer IDs 12359, 12370, 12420, 12365, 12457, 12366, 12368, 12439 (top)
+    - **CZ**: Customer IDs 12781 (top)
+    - **DE**: Customer IDs 12590, 12626, 12477, 12627, 12569, 12720, 12619, 12473 (top)
+    - **DK**: Customer IDs 12435, 12372, 12394, 12406, 12367, 12412, 12403, 12423 (top)
+    - **EC**: Customer IDs 15108 (top)
+    - **EI**: Customer IDs 16047, 12745, 14016, 14911, -1 (flop)
+    - **ES**: Customer IDs 12557, 12540, 12502, 12597, 12484, 12546, 12462, 12354 (top)
+    - **FI**: Customer IDs 12428, 12664, 12704, 12405, 12348, 12630, 12667, 12375 (top)
+    - **FR**: Customer IDs 12731, 12700, 12567, 12536, 12683, 12637, 14277, 12685 (top)
+    - **GB**: Customer IDs -1, 17450, 14096, 14088, 13098, 16333, 17399, 17857, 15749, 15769 (top)
+    - **GR**: Customer IDs 12717, 12478, 12511, 17508, 14439 (flop)
+    - **HK**: Customer IDs -1 (top)
+    - **IL**: Customer IDs 12688, -1, 12653, 12512, 12666 (flop)
+    - **IS**: Customer IDs 12347 (top)
+    - **IT**: Customer IDs 12610, 12584, 12594, 12611, 14912, 12578, 12514, 12552, 12515 (top)
+    - **JP**: Customer IDs 12753, 12798, 12754, 12812, 12763, 12756, 12799, 12770 (top)
+    - **KR**: Customer IDs 12768, 12767 (flop)
+    - **LB**: Customer IDs 12764, -1 (flop)
+    - **LT**: Customer IDs 15332 (flop)
+    - **MT**: Customer IDs 17828, 15480 (top)
+    - **NG**: Customer IDs -1, 15702 (flop)
+    - **NL**: Customer IDs 14646, 12775, 12790, 12787, 12382, 12789, 12774, 12778 (top)
+    - **NO**: Customer IDs 12433, 15760, 12432, 12444, 12752, 12438, 12381, 12352 (top)
+    - **PL**: Customer IDs 12779, 12815, 12816, 12576, 12750, 12814 (top)
+    - **PT**: Customer IDs 12757, 12766, 12762, 12783, 12772, 12794, 12795, 12793 (top)
+    - **RSA**: Customer IDs 12446, 12396, -1 (flop)
+    - **SA**: Customer IDs 12565 (flop)
+    - **SE**: Customer IDs 17404, 12697, 12638, 12715, 12641, 12676, 12661, 12483 (top)
+    - **SG**: Customer IDs 12744 (top)
+    - **TH**: Customer IDs 12469 (flop)
+    - **UNSP**: Customer IDs -1, 12363, 12743, 15357 (top)
+    - **USA**: Customer IDs 12646, 12467, 12558, 12607, 12636, 12741, 12634, 12733 (top)
+    - **WI**: Customer IDs 18140 (flop)
+
+- **Underperforming Representatives:**
+  - **AE**: Customer IDs 17829, 12607 (flop)
+  - **AT**: Customer IDs 12358, 12431, 12424, 12389, 12422, 12388, 12393, 12411, 12434, 12386 (flop)
+  - **AU**: Customer IDs 12358, 12374, 12369, 12865, 12360, 12370, 12440, 12373, 12817, 12414 (flop)
+  - **BE**: Customer IDs 12380, 12385, 12874, 12402, 12431, 12460, 12361, 12866, 13022 (flop)
+  - **BH**: Customer IDs 12355, 12353, -1 (top)
+  - **BM**: Customer IDs -1 (top)
+  - **BR**: Customer IDs 12769, 12751 (flop)
+  - **CA**: Customer IDs 15390, 17844, 15388, 17443, 17444 (flop)
+  - **CH**: Customer IDs 12357, 12422, 12409, 12418, 12376, 12371, 13501, 12377 (flop)
+  - **CI**: Customer IDs 14564, 14938, 14442, 14566, 14568, 14933, 14930, 14932 (flop)
+  - **CY**: Customer IDs 12391, 12455, 12439, 12368, 12366, 13809, 12457, 12365, 12420 (flop)
+  - **CZ**: Customer IDs 12781 (flop)
+  - **DE**: Customer IDs 12709, 12647, 12472, 12497, 12668, 12623, 12671, 12524, 12531 (flop)
+  - **DK**: Customer IDs 13902, 12449, 13919, 12429, 12423, 12403, 12412, 12367, 12406, 12394 (flop)
+  - **EC**: Customer IDs 15108 (flop)
+  - **EI**: Customer IDs 16047, 12745, 14016, 14911, -1 (top)
+  - **ES**: Customer IDs 12454, 12503, 12539, 12510, 12543, 12419, 12554, 12459, 12450 (flop)
+  - **FI**: Customer IDs 12631, 12582, 12696, 12588, 12404, 12706, 12587, 12375 (flop)
+  - **FR**: Customer IDs 12714, 12737, 12681, 12437, 12589, 12643, 12615, 12525, 12523, 12575 (flop)
+  - **GB**: Customer IDs 18102, 13694, 16754, 17850, 13093, 15061, 17940, 17448, 13802, 18251 (flop)
+  - **GR**: Customer IDs 12717, 12478, 12511, 17508, 14439 (top)
+  - **HK**: Customer IDs -1 (flop)
+  - **IL**: Customer IDs 12666, 12512, 12653, 12512, 12688 (top)
+  - **IS**: Customer IDs 12347 (flop)
+  - **IT**: Customer IDs 12725, 12586, 12675, 12505, 12349, 12591, 12563, 12618 (flop)
+  - **JP**: Customer IDs 12755, 12810, 12770, 12799, 12756, 12763, 12812, 12754 (flop)
+  - **KR**: Customer IDs 12767, 12768 (top)
+  - **LB**: Customer IDs 12764, -1 (top)
+  - **LT**: Customer IDs 15332 (top)
+  - **MT**: Customer IDs 15480, 17828 (flop)
+  - **NG**: Customer IDs 15702, -1 (top)
+  - **NL**: Customer IDs 12806, 12759, 12813, 12802, 12805, 12765, 12803, 12761, 12786, 12788 (flop)
+  - **NO**: Customer IDs 15481, 12443, 12430, 12350, 12436, 12352, 12381, 12438, 12752, 12444 (flop)
+  - **PL**: Customer IDs 12814, 12750, 12576, 12816, 12815, 12779 (top)
+  - **PT**: Customer IDs 12758, 12356, 12809, 12784, 12800, 12785, 12797, 12771, 16291 (flop)
+  - **RSA**: Customer IDs 12396, 12446, -1 (top)
+  - **SA**: Customer IDs 12565 (top)
+  - **SE**: Customer IDs 12482, 12687, 12629, 12486, 12801, 12537, 12485, 12639, 12495 (flop)
+  - **SG**: Customer IDs 12744 (flop)
+  - **TH**: Customer IDs 12469 (top)
+  - **UNSP**: Customer IDs 16320, 14265, 12351, 12470, 15357 (flop)
+  - **USA**: Customer IDs 12549, 12733, 12634, 12741, 12636, 12607, 12467, 12558 (flop)
+  - **WI**: Customer IDs 18140 (top)
+
+#### Assessment of Customer Performance
+
+- **High-Performing Customers:**
+  - **AE**: Customer IDs 12979, 12739, 12742, 17829, 12607 (top)
+  - **AT**: Customer IDs 12360, 12370, 12372, 12373, 12374, 12414, 12453, 12429 (top)
+  - **AU**: Customer IDs 12369, 12865, 12360, 12370, 12414, 12817, 12440, 12373, 12817, 12414 (flop)
+  - **BE**: Customer IDs 12362, 12449, 12397, 12383, 12407, 12408, 12423, 12364 (top)
+  - **BH**: Customer IDs 12355, 12353, -1 (flop)
+  - **BM**: Customer IDs -1 (flop)
+  - **BR**: Customer IDs 12769, 12751 (top)
+  - **CA**: Customer IDs 17444, 17443, 15388, 17844, 15390 (top)
+  - **CH**: Customer IDs 12451, 13505, 12456, 12378, 12398, 13492, 12457, 12461 (top)
+  - **CI**: Customer IDs 14936, 14937, 14934, 14931, 14939, 14935, 14932 (top)
+  - **CY**: Customer IDs 12359, 12370, 12420, 12365, 12457, 12366, 12368, 12439 (top)
+  - **CZ**: Customer IDs 12781 (top)
+  - **DE**: Customer IDs 12590, 12626, 12477, 12627, 12569, 12720, 12619, 12473, 12621, 12520 (top)
+  - **DK**: Customer IDs 12435, 12372, 12394, 12406, 12367, 12412, 12403, 12423, 12429, 13919 (top)
+  - **EC**: Customer IDs 15108 (top)
+  - **EI**: Customer IDs 16047, 12745, 14016, 14911, -1 (flop)
+  - **ES**: Customer IDs 12557, 12540, 12502, 12597, 12484, 12546, 12462, 12354 (top)
+  - **FI**: Customer IDs 12428, 12664, 12704, 12405, 12348, 12630, 12667, 12375 (top)
+  - **FR**: Customer IDs 12731, 12700, 12567, 12536, 12683, 12637, 14277, 12685 (top)
+  - **GB**: Customer IDs -1, 17450, 14096, 14088, 13098, 16333, 17399, 17857, 15749, 15769 (top)
+  - **GR**: Customer IDs 12717, 12478, 12511, 17508, 14439 (flop)
+  - **HK**: Customer IDs -1 (top)
+  - **IL**: Customer IDs 12688, -1, 12653, 12512, 12666 (flop)
+  - **IS**: Customer IDs 12347 (top)
+  - **IT**: Customer IDs 12610, 12584, 12594, 12611, 14912, 12578, 12514, 12552, 12515 (top)
+  - **JP**: Customer IDs 12753, 12798, 12754, 12812, 12763, 12756, 12799, 12770 (top)
+  - **KR**: Customer IDs 12768, 12767 (flop)
+  - **LB**: Customer IDs 12764, -1 (flop)
+  - **LT**: Customer IDs 15332 (flop)
+  - **MT**: Customer IDs 17828, 15480 (top)
+  - **NG**: Customer IDs -1, 15702 (flop)
+  - **NL**: Customer IDs 14646, 12775, 12790, 12787, 12382, 12789, 12774, 12778 (top)
+  - **NO**: Customer IDs 12433, 15760, 12432, 12444, 12752, 12438, 12381, 12352, 12436, 12350 (top)
+  - **PL**: Customer IDs 12779, 12815, 12816, 12576, 12750, 12814 (top)
+  - **PT**: Customer IDs 12757, 12766, 12762, 12783, 12772, 12794, 12795, 12793 (top)
+  - **RSA**: Customer IDs 12446, 12396, -1 (flop)
+  - **SA**: Customer IDs 12565 (flop)
+  - **SE**: Customer IDs 17404, 12697, 12638, 12715, 12641, 12676, 12661, 12483 (top)
+  - **SG**: Customer IDs 12744 (top)
+  - **TH**: Customer IDs 12469 (flop)
+  - **UNSP**: Customer IDs -1, 12363, 12743, 15357 (top)
+  - **USA**: Customer IDs 12646, 12467, 12558, 12607, 12636, 12741, 12634, 12733 (top)
+  - **WI**: Customer IDs 18140 (flop)
+
+- **Underperforming Customers:**
+  - **AE**: Customer IDs 17829, 12607 (flop)
+  - **AT**: Customer IDs 12358, 12431, 12424, 12389, 12422, 12388, 12393, 12411, 12434, 12386 (flop)
+  - **AU**: Customer IDs 12358, 12374, 12369, 12865, 12360, 12370, 12440, 12373, 12817, 12414 (top)
+  - **BE**: Customer IDs 12380, 12385, 12874, 12402, 12431, 12460, 12361, 12866, 13022 (flop)
+  - **BH**: Customer IDs 12355, 12353, -1 (top)
+  - **BM**: Customer IDs -1 (top)
+  - **BR**: Customer IDs 12769, 12751 (flop)
+  - **CA**: Customer IDs 15390, 17844, 15388, 17443, 17444 (flop)
+  - **CH**: Customer IDs 12357, 12422, 12409, 12418, 12376, 12371, 13501, 12377 (flop)
+  - **CI**: Customer IDs 14564, 14938, 14442, 14566, 14568, 14933, 14930, 14932 (flop)
+  - **CY**: Customer IDs 12391, 12455, 12439, 12368, 12366, 13809, 12457, 12365, 12420 (flop)
+  - **CZ**: Customer IDs 12781 (flop)
+  - **DE**: Customer IDs 12709, 12647, 12472, 12497, 12668, 12623, 12671, 12524, 12531 (flop)
+  - **DK**: Customer IDs 13902, 12449, 13919, 12429, 12423, 12403, 12412, 12367, 12406, 12394 (flop)
+  - **EC**: Customer IDs 15108 (flop)
+  - **EI**: Customer IDs 16047, 12745, 14016, 14911, -1 (top)
+  - **ES**: Customer IDs 12454, 12503, 12539, 12510, 12543, 12419, 12554, 12459, 12450 (flop)
+  - **FI**: Customer IDs 12631, 12582, 12696, 12588, 12404, 12706, 12587, 12375 (flop)
+  - **FR**: Customer IDs 12714, 12737, 12681, 12437, 12589, 12643, 12615, 12525, 12523, 12575 (flop)
+  - **GB**: Customer IDs 18102, 13694, 16754, 17850, 13093, 15061, 17940, 17448, 13802, 18251 (flop)
+  - **GR**: Customer IDs 12717, 12478, 12511, 17508, 14439 (top)
+  - **HK**: Customer IDs -1 (flop)
+  - **IL**: Customer IDs 12666, 12512, 12653, 12512, 12688 (top)
+  - **IS**: Customer IDs 12347 (flop)
+  - **IT**: Customer IDs 12725, 12586, 12675, 12505, 12349, 12591, 12563, 12618 (flop)
+  - **JP**: Customer IDs 12755, 12810, 12770, 12799, 12756, 12763, 12812, 12754 (flop)
+  - **KR**: Customer IDs 12767, 12768 (top)
+  - **LB**: Customer IDs 12764, -1 (top)
+  - **LT**: Customer IDs 15332 (flop)
+  - **MT**: Customer IDs 15480, 17828 (flop)
+  - **NG**: Customer IDs 15702, -1 (top)
+  - **NL**: Customer IDs 12806, 12759, 12813, 12802, 12805, 12765, 12803, 12761, 12786, 12788 (flop)
+  - **NO**: Customer IDs 15481, 12443, 12430, 12350, 12436, 12352, 12381, 12438, 12752, 12444 (flop)
+  - **PL**: Customer IDs 12814, 12750, 12576, 12816, 12815, 12779 (top)
+  - **PT**: Customer IDs 12758, 12356, 12809, 12784, 12800, 12785, 12797, 12771, 16291 (flop)
+  - **RSA**: Customer IDs 12396, 12446, -1 (top)
+  - **SA**: Customer IDs 12565 (top)
+  - **SE**: Customer IDs 12482, 12687, 12629, 12486, 12801, 12537, 12485, 12639, 12495 (flop)
+  - **SG**: Customer IDs 12744 (top)
+  - **TH**: Customer IDs 12469 (flop)
+  - **UNSP**: Customer IDs 16320, 14265, 12351, 12470, 15357 (top)
+  - **USA**: Customer IDs 12549, 12733, 12634, 12741, 12636, 12607, 12467, 12558 (flop)
+  - **WI**: Customer IDs 18140 (top)
+
+#### Recommendations for Strategic Actions
+
+- **Recognizing Top-Performing Regions or Employees:**
+  - **Regions:** Recognize and reward the top-performing regions such as GB, NL, DE, CH, FR, USA. Consider expanding operations in these regions if feasible.
+  - **Employees:** Recognize and reward the top-performing field sales representatives in AE, AT, AU, BE, CA, CZ, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NL, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, WI.
+
+- **Coaching or Training for Underperforming Areas:**
+  - **Regions:** Provide additional training and support to underperforming regions such as AE, AT, AU, BE, BH, BM, BR, CA, CH, CY, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI.
+  - **Employees:** Offer coaching and training to underperforming field sales representatives in AE, AT, AU, BE, BH, BM, BR, CA, CH, CY, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI.
+
+- **Customer Retention or Growth Strategies:**
+  - **High-Performing Customers:** Develop deeper engagement strategies for high-performing customers in regions such as GB, NL, DE, CH, FR, USA. Consider upselling premium products or services to these customers.
+  - **Underperforming Customers:** Implement reactivation and support strategies for underperforming customers in regions such as AE, AT, AU, BE, BH, BM, BR, CA, CH, CY, DK, EC, EI, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI. Consider offering discounts or promotions to re-engage these customers.
+
+By implementing these strategic actions, the Head of Sales can effectively manage and improve sales performance across different regions and customer segments."
+mistral-small:22b,2,4," ### Analysis and Recommendations for the Head of Sales
+
+#### Evaluation of Regional Performance
+- **Top Performing Regions:**
+  - **GB, NL, DE, CH, USA** consistently show high sales figures.
+  - **PT, NO, SE, PL, FR, ES, IT, JP** also demonstrate strong performance in both fiscal years.
+
+- **Underperforming Regions:**
+  - **AE, BH, BM, BR, CA, CZ, EC, EI, GR, HK, IL, IS, KR, LB, MT, NG, RSA, SA, TH, UNSP, WI** show significant drops or minimal sales.
+
+#### Customer Performance Analysis
+- **High-Performing Customers:**
+  - **GB, NL, DE, CH, USA** have several high-performing customers with substantial sales development.
+  - **PT, NO, SE, PL, FR, ES, IT, JP** also show strong customer performance.
+
+- **Underperforming Customers:**
+  - **AE, BH, BM, BR, CA, CZ, EC, EI, GR, HK, IL, IS, KR, LB, MT, NG, RSA, SA, TH, UNSP, WI** have customers with significant negative sales development.
+
+#### Strategic Recommendations
+
+1. **Recognize Top-Performing Regions and Employees:**
+   - **GB, NL, DE, CH, USA**: Recognize the field sales representatives in these regions for their outstanding performance. Consider rewarding them with bonuses or promotions to maintain high morale and productivity.
+   - **PT, NO, SE, PL, FR, ES, IT, JP**: Acknowledge the strong performance of these regions and consider implementing similar strategies used by top-performing regions to further boost sales.
+
+2. **Coaching or Training for Underperforming Areas:**
+   - **AE, BH, BM, BR, CA, CZ, EC, EI, GR, HK, IL, IS, KR, LB, MT, NG, RSA, SA, TH, UNSP, WI**: Provide targeted training and coaching for field sales representatives in these regions. Focus on improving sales techniques, customer engagement strategies, and market understanding.
+   - **AE, BH, BM, BR, CA, CZ, EC, EI, GR, HK, IL, IS, KR, LB, MT, NG, RSA, SA, TH, UNSP, WI**: Consider assigning mentors from top-performing regions to help underperformers improve their sales skills and strategies.
+
+3. **Customer Retention or Growth Strategies:**
+   - **GB, NL, DE, CH, USA**: Implement upselling and cross-selling strategies for high-performing customers to increase revenue further. Consider offering loyalty programs to retain these valuable customers.
+   - **AE, BH, BM, BR, CA, CZ, EC, EI, GR, HK, IL, IS, KR, LB, MT, NG, RSA, SA, TH, UNSP, WI**: Develop reactivation strategies for underperforming customers. This could include personalized offers, discounts, or improved customer service to win back their business.
+   - **AE, BH, BM, BR, CA, CZ, EC, EI, GR, HK, IL, IS, KR, LB, MT, NG, RSA, SA, TH, UNSP, WI**: Implement support programs to help underperforming customers improve their sales. This could include providing additional resources, training, or dedicated account managers.
+
+By implementing these strategic actions, the Head of Sales can effectively address both regional and customer performance issues, leading to overall improved sales and growth for the retail company."
+mistral-small:22b,2,5," ### Analysis and Recommendations for the Head of Sales
+
+#### Evaluation of Sales Regions and Field Sales Representatives
+
+1. **Top-Performing Regions:**
+   - **GB**: Fiscal Year 1 (FY1) sales: 8,194,778; Fiscal Year 2 (FY2) sales: 8,187,806.
+   - **NL**: FY1 sales: 263,863; FY2 sales: 284,662.
+   - **DE**: FY1 sales: 196,290; FY2 sales: 221,698.
+   - **CH**: FY1 sales: 43,343; FY2 sales: 56,385.
+   - **FR**: FY1 sales: 130,770; FY2 sales: 197,422.
+
+   These regions have shown consistent and high sales performance across both fiscal years.
+
+2. **Underperforming Regions:**
+   - **AE**, **BM**, **BH**: Negative or very low sales figures in either FY1 or FY2.
+   - **NG**: FY1 sales: -7; FY2 sales: 147 (indicating a significant turnaround but still relatively low).
+
+3. **Field Sales Representatives:**
+   - **Top-Performing Regions**:
+     - **GB**, **NL**, **DE**, **CH**, and **FR** have shown consistent high performance, indicating effective field sales strategies in these regions.
+   - **Underperforming Regions**:
+     - **AE**, **BM**, **BH**, and **NG** require closer examination of the field sales strategies and potential coaching or training for the representatives in these areas.
+
+#### Customer Performance Analysis
+
+1. **High-Performing Customers (Potential for Deeper Engagement or Upselling):**
+   - **GB**: Top customers with significant sales development.
+   - **NL**: Consistent high performance across multiple customer IDs.
+   - **DE**, **CH**, and **FR**: Multiple top-performing customers indicating potential for deeper engagement.
+
+2. **Underperforming Customers (Potential for Reactivation or Support):**
+   - **AE**, **BM**, **BH**, **NG**: Negative sales figures indicate a need for reactivation strategies.
+   - **CY**, **CZ**, **GR**, **KR**, **LB**, **LT**, **MT**, **RSA**, **SA**, **TH**, and **UNSP**: Some customer IDs show negative or very low sales, suggesting the need for support and potential reactivation strategies.
+
+#### Strategic Recommendations
+
+1. **Recognizing Top-Performing Regions or Employees:**
+   - **GB**, **NL**, **DE**, **CH**, and **FR**: Recognize the field sales representatives in these regions for their consistent high performance. Consider rewarding them with bonuses, promotions, or other incentives to maintain their motivation.
+
+2. **Coaching or Training for Underperforming Areas:**
+   - **AE**, **BM**, **BH**, and **NG**: Provide targeted coaching and training programs for the field sales representatives in these regions. This could include workshops on effective sales strategies, market analysis, and customer relationship management.
+
+3. **Customer Retention or Growth Strategies:**
+   - **High-Performing Customers**: Implement upselling strategies by offering premium products or services tailored to their needs. Consider loyalty programs to deepen engagement with these customers.
+   - **Underperforming Customers**: Develop reactivation campaigns, such as personalized offers, discounts, or special promotions to win back their business. Provide dedicated customer support to address any issues they might have experienced.
+
+4. **Regional Market Analysis:**
+   - Conduct a thorough analysis of the market conditions in underperforming regions (e.g., AE, BM, BH, NG) to understand the root causes of low sales performance. This could involve examining economic factors, competition, and customer preferences.
+
+5. **Investment in Technology and Tools:**
+   - Enhance the sales tools and technologies available to field sales representatives, especially in underperforming regions. This could include CRM systems, market intelligence platforms, or mobile apps that facilitate better customer interactions and data collection.
+
+By implementing these strategic actions, the Head of Sales can effectively address the performance gaps and drive overall sales growth for the retail company."
+mistral-small:22b,2,6," ### Strategic Sales Analysis for Head of Sales
+
+#### Evaluation of Sales Regions and Field Sales Representatives
+
+1. **Top-Performing Regions:**
+   - **GB**: Fiscal Year 1 (FY1) sales: 8,194,778, FY2 sales: 8,187,806
+   - **NL**: FY1 sales: 263,863, FY2 sales: 284,662
+   - **DE**: FY1 sales: 196,290, FY2 sales: 221,698
+   - **FR**: FY1 sales: 130,770, FY2 sales: 197,422
+   - **CH**: FY1 sales: 43,343, FY2 sales: 56,385
+
+2. **Underperforming Regions:**
+   - **AE**: FY1 sales: 8,046, FY2 sales: 1,902 (significant drop)
+   - **BM**: FY1 sales: 1,253 (no data for FY2)
+   - **BH**: FY1 sales: 2,313, FY2 sales: 548 (significant drop)
+   - **BR**: FY1 sales: 268, FY2 sales: 1,144 (increase but still low)
+   - **CA**: FY1 sales: 1,217, FY2 sales: 3,666 (increase but still low)
+   - **CY**: FY1 sales: 11,216, FY2 sales: 12,946 (low overall)
+   - **CZ**: FY1 sales: 708, FY2 sales: 708 (stagnant)
+   - **EC**: FY1 sales: 1,292 (no data for FY2)
+   - **EI**: FY1 sales: 352,243, FY2 sales: 263,277 (significant drop)
+   - **ES**: FY1 sales: 37,085, FY2 sales: 54,775 (low overall)
+   - **FI**: FY1 sales: 7,188, FY2 sales: 22,327 (increase but still low)
+   - **GR**: FY1 sales: 14,285, FY2 sales: 4,711 (significant drop)
+   - **HK**: FY1 sales: 3,922, FY2 sales: 10,117 (increase but still low)
+   - **IL**: FY1 sales: 3,199, FY2 sales: 7,908 (low overall)
+   - **IS**: FY1 sales: 1,323, FY2 sales: 4,310 (increase but still low)
+   - **IT**: FY1 sales: 13,789, FY2 sales: 16,891 (low overall)
+   - **JP**: FY1 sales: 8,436, FY2 sales: 35,341 (increase but still low)
+   - **KR**: FY1 sales: 950 (no data for FY2)
+   - **LT**: FY1 sales: 4,893, FY2 sales: 16,61 (significant drop)
+   - **MT**: FY1 sales: 2,687, FY2 sales: 2,505 (low overall)
+   - **NG**: FY1 sales: -7 (negative growth)
+   - **PL**: FY1 sales: 3,315, FY2 sales: 7,213 (increase but still low)
+   - **PT**: FY1 sales: 23,770, FY2 sales: 29,367 (low overall)
+   - **RSA**: FY1 sales: 2,367, FY2 sales: 1,002 (significant drop)
+   - **SE**: FY1 sales: 51,214, FY2 sales: 36,596 (significant drop)
+   - **SG**: FY1 sales: 4,038, FY2 sales: 9,120 (increase but still low)
+   - **TH**: FY1 sales: 3,071 (no data for FY2)
+   - **UNSP**: FY1 sales: 4,938, FY2 sales: 4,750 (stagnant)
+   - **USA**: FY1 sales: 4,556, FY2 sales: 1,731 (significant drop)
+   - **WI**: FY1 sales: 536 (no data for FY2)
+
+**Recommendations:**
+- **Recognize Top-Performing Regions/Employees:**
+  - Reward and recognize the top regions and their respective field sales representatives.
+  - Analyze best practices from these regions to replicate success in underperforming areas.
+
+- **Coaching or Training for Underperforming Areas:**
+  - Provide targeted training and coaching for underperforming regions, focusing on improving sales strategies and techniques.
+  - Consider assigning high-performing field sales representatives to mentor those in underperforming regions.
+
+#### Assessment of Customer Performance
+
+1. **High-Performing Customers:**
+   - **GB**: Top customer IDs with significant sales development (e.g., 14096, 13098)
+   - **NL**: Top customer IDs with significant sales development (e.g., 12775, 12790)
+   - **DE**: Top customer IDs with significant sales development (e.g., 12590, 12626)
+   - **FR**: Top customer IDs with significant sales development (e.g., 12731, 12700)
+   - **CH**: Top customer IDs with significant sales development (e.g., 12451, 13505)
+
+2. **Underperforming Customers:**
+   - **AE**: Flop customers with significant negative sales development (e.g., 17829, 12742)
+   - **AT**: Flop customers with significant negative sales development (e.g., 12415, 12431)
+   - **AU**: Flop customers with significant negative sales development (e.g., 12358, 12374)
+   - **BE**: Flop customers with significant negative sales development (e.g., 12380, 12385)
+   - **BH**: Flop customers with significant negative sales development (e.g., 12355, 12353)
+   - **BM**: Flop customer with significant negative sales development (-1)
+   - **BR**: Flop customers with significant negative sales development (e.g., 12769, 12751)
+   - **CA**: Flop customers with significant negative sales development (e.g., 15388, 17444)
+   - **CY**: Flop customers with significant negative sales development (e.g., 12391, 12455)
+   - **CZ**: Flop customer with significant negative sales development (12781)
+   - **EC**: Flop customer with significant negative sales development (15108)
+   - **EI**: Flop customers with significant negative sales development (e.g., 14156, 14911)
+   - **ES**: Flop customers with significant negative sales development (e.g., 12454, 12503)
+   - **FI**: Flop customers with significant negative sales development (e.g., 12631, 12582)
+   - **GR**: Flop customers with significant negative sales development (e.g., 14439, 17508)
+   - **HK**: Flop customer with significant negative sales development (-1)
+   - **IL**: Flop customers with significant negative sales development (e.g., 12666, 12512)
+   - **IS**: Flop customer with significant negative sales development (12347)
+   - **IT**: Flop customers with significant negative sales development (e.g., 12725, 12586)
+   - **JP**: Flop customers with significant negative sales development (e.g., 12755, 12810)
+   - **KR**: Flop customer with significant negative sales development (12767)
+   - **LT**: Flop customer with significant negative sales development (15332)
+   - **MT**: Flop customers with significant negative sales development (e.g., 15480, 17828)
+   - **NG**: Flop customer with significant negative sales development (-1)
+   - **NL**: Flop customers with significant negative sales development (e.g., 12806, 12759)
+   - **NO**: Flop customers with significant negative sales development (e.g., 15481, 12443)
+   - **PL**: Flop customer with significant negative sales development (12814)
+   - **PT**: Flop customers with significant negative sales development (e.g., 12758, 12356)
+   - **RSA**: Flop customers with significant negative sales development (e.g., 12396, 12446)
+   - **SE**: Flop customers with significant negative sales development (e.g., 12482, 12687)
+   - **SG**: Flop customer with significant negative sales development (12744)
+   - **TH**: Flop customer with significant negative sales development (12469)
+   - **UNSP**: Flop customers with significant negative sales development (e.g., 16320, 14265)
+   - **USA**: Flop customers with significant negative sales development (e.g., 12733, 12549)
+   - **WI**: Flop customer with significant negative sales development (18140)
+
+**Recommendations:**
+- **Customer Retention Strategies:**
+  - Implement targeted retention strategies for high-performing customers to deepen engagement and encourage upselling.
+  - Offer personalized discounts, loyalty programs, or exclusive promotions to these customers.
+
+- **Customer Growth Strategies:**
+  - Develop reactivation campaigns for underperforming customers to bring them back into the fold.
+  - Provide additional support, such as dedicated account managers or specialized training, to help these customers improve their performance.
+
+By focusing on these strategic actions, the Head of Sales can effectively address both regional and customer-specific challenges, ultimately driving overall sales growth and improvement."
+mistral-small:22b,2,7," ### Strategic Sales Analysis for Head of Sales
+
+#### Evaluation of Regional Performance
+
+- **Top Performing Regions:**
+  - **GB**: Fiscal Year 1 (FY1) sales were £8,194,778 and FY2 sales were £8,187,806.
+  - **NL**: FY1 sales were €263,863 and FY2 sales were €284,662.
+  - **DE**: FY1 sales were €196,290 and FY2 sales were €221,698.
+  - **FR**: FY1 sales were €130,770 and FY2 sales were €197,422.
+  - **CH**: FY1 sales were CHF 43,343 and FY2 sales were CHF 56,385.
+  - **USA**: FY1 sales were $4,556 and FY2 sales were $1,731 (Note: The significant drop in FY2 sales might indicate a strategic shift or market changes).
+
+- **Underperforming Regions:**
+  - **AE**: FY1 sales were AED 8,046 and FY2 sales were AED 1,902.
+  - **BM**: FY1 sales were BMD 1,253 (No FY2 data).
+  - **NG**: FY1 sales were NGN -7 (indicating a loss).
+  - **RSA**: FY1 sales were ZAR 2,367 and FY2 sales were ZAR 1,002.
+  - **TH**: FY1 sales were THB 3,071 (No FY2 data).
+
+#### Customer Performance Analysis
+
+- **High-Performing Customers:**
+  - **GB**: Customer IDs with significant sales development in both top and flop categories indicate high potential for deeper engagement or upselling.
+  - **NL**: Similar to GB, the customer IDs show substantial growth, indicating strong performance.
+  - **DE**: The top-performing customers have shown consistent growth over both fiscal years.
+  - **FR**: High sales development in both top and flop categories suggest potential for deeper engagement or upselling.
+  - **CH**: Top-performing customer IDs show significant sales growth, indicating strong performance.
+
+- **Underperforming Customers:**
+  - **AE**: Customer IDs with negative sales development indicate underperformance and potential need for reactivation or support.
+  - **BM**: The single customer ID shows a loss, indicating critical issues that need immediate attention.
+  - **NG**: Negative sales in FY1 suggest significant problems requiring strategic intervention.
+  - **RSA**: Customer IDs show a decline in sales from FY1 to FY2, indicating underperformance and potential need for support.
+  - **TH**: The single customer ID shows no data for FY2, suggesting a critical issue or loss of business.
+
+#### Recommendations for Strategic Actions
+
+- **Recognizing Top-Performing Regions/Employees:**
+  - **GB**, **NL**, **DE**, **FR**, and **CH** should be recognized for their consistent performance.
+  - **USA**: Despite the significant drop in FY2 sales, recognizing the top performers can help maintain morale and encourage them to continue their efforts.
+
+- **Coaching or Training for Underperforming Areas:**
+  - **AE**, **BM**, **NG**, **RSA**, and **TH** should receive targeted coaching or training to improve performance.
+  - **USA**: Investigate the reasons behind the significant drop in FY2 sales and provide necessary support or training.
+
+- **Customer Retention/Growth Strategies:**
+  - **GB**, **NL**, **DE**, **FR**, and **CH**: Implement upselling strategies for high-performing customers to increase revenue.
+  - **AE**, **BM**, **NG**, **RSA**, and **TH**: Develop reactivation or support programs for underperforming customers to prevent further losses.
+
+By implementing these strategic actions, the Head of Sales can effectively address both regional and customer performance issues, leading to improved overall sales outcomes."
+mistral-small:22b,2,8," ### Sales Performance Analysis and Strategic Recommendations
+
+#### Evaluation of Sales Regions and Field Sales Representatives
+
+- **Top Performing Countries:**
+  - **GB, NL, DE, CH, FR** consistently show high sales figures across both fiscal years.
+  - **AE, AT, AU, BE, CA, CZ, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** show significant sales growth or stability.
+  - **BM, BH** have very low sales figures and may require special attention.
+
+- **Top Performing Field Sales Representatives:**
+  - In countries like **AT, BE, CA, CH, CZ, DE, DK, ES, FI, FR, GB, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI**, the sales representatives have managed to maintain or increase sales performance.
+  - **AE, BM, BH** may need additional training or support due to low sales figures.
+
+#### Customer Performance Analysis
+
+- **High-Performing Customers:**
+  - **GB, NL, DE, CH, FR** have the highest performing customers with significant sales growth.
+  - **AT, BE, CA, CZ, DK, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** show stable or increasing customer performance.
+  - **AE, BM, BH** have underperforming customers that need attention.
+
+- **Underperforming Customers:**
+  - **BM, BH** have consistently low sales figures indicating potential issues with customer engagement or support.
+  - **AE** shows a mix of high and low performing customers, suggesting variability in customer satisfaction or service quality.
+
+#### Strategic Recommendations
+
+1. **Recognizing Top-Performing Regions/Employees:**
+   - **GB, NL, DE, CH, FR**: Recognize the outstanding performance of these regions and their sales representatives with awards or bonuses.
+   - **AT, BE, CA, CZ, DK, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI**: Acknowledge the consistent performance and stability in these regions.
+
+2. **Coaching or Training for Underperforming Areas:**
+   - **AE, BM, BH**: Provide additional training and support to sales representatives in these regions to improve customer engagement and sales techniques.
+   - **BM, BH**: Consider restructuring the sales approach or providing more resources to these regions to boost performance.
+
+3. **Customer Retention/Growth Strategies:**
+   - **GB, NL, DE, CH, FR**: Implement upselling strategies for high-performing customers to increase revenue further.
+   - **AE, BM, BH**: Develop reactivation campaigns or provide additional support to underperforming customers to improve their engagement and sales figures.
+
+4. **General Improvements:**
+   - **Regular Training Sessions**: Organize regular training sessions for all regions to keep sales representatives updated on best practices and new strategies.
+   - **Customer Feedback Loop**: Establish a feedback loop with customers to understand their needs better and address any issues promptly.
+
+By implementing these strategic actions, the Head of Sales can enhance overall sales performance, improve customer satisfaction, and drive sustainable growth for the retail company."
+mistral-small:22b,2,9," ### Analysis and Recommendations for the Head of Sales
+
+#### Performance Evaluation of Sales Regions
+
+- **Top Performing Countries:**
+  - **GB, NL, DE, CH, FR** showed significant sales growth from Fiscal Year 1 to Fiscal Year 2.
+  - **AE, AT, AU, BE, CI, CY, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** showed mixed performance with some regions improving and others declining.
+  - **BM, BH** had minimal or no sales activity.
+
+- **Underperforming Countries:**
+  - **AE, AT, AU, BE, CI, CY, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** showed significant declines or minimal growth.
+  - **BM, BH** had no sales activity.
+
+#### Customer Performance Analysis
+
+- **High-Performing Customers:**
+  - **GB, NL, DE, CH, FR** have several high-performing customers who contributed significantly to the overall sales growth.
+  - **AE, AT, AU, BE, CI, CY, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** have some high-performing customers but also significant underperformers.
+  - **BM, BH** had no notable customer performance data.
+
+- **Underperforming Customers:**
+  - **AE, AT, AU, BE, CI, CY, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI** have several underperforming customers who need attention.
+  - **BM, BH** had no notable customer performance data.
+
+#### Strategic Recommendations
+
+1. **Recognize Top-Performing Regions or Employees:**
+   - **GB, NL, DE, CH, FR**: Recognize and reward the sales teams in these regions for their outstanding performance. Consider sharing best practices from these regions with other teams.
+
+2. **Coaching or Training for Underperforming Areas:**
+   - **AE, AT, AU, BE, CI, CY, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI**: Provide additional training and coaching to the sales teams in these regions. Consider assigning mentors from top-performing regions to help improve performance.
+
+3. **Customer Retention or Growth Strategies:**
+   - **High-Performing Customers (GB, NL, DE, CH, FR)**: Develop strategies for deeper engagement and upselling opportunities. Consider offering loyalty programs or personalized discounts.
+   - **Underperforming Customers (AE, AT, AU, BE, CI, CY, DK, EC, EI, ES, FI, GR, HK, IL, IS, IT, JP, KR, LB, LT, MT, NG, NO, PL, PT, RSA, SA, SE, SG, TH, UNSP, USA, WI)**: Implement reactivation strategies such as targeted marketing campaigns, personalized offers, or dedicated customer support to bring these customers back on track.
+
+4. **Special Focus Areas:**
+   - **BM, BH**: Investigate the reasons for no sales activity and develop a strategy to enter these markets or improve performance. Consider partnerships or new market entry strategies.
+
+By implementing these recommendations, the Head of Sales can effectively address the performance gaps and drive overall sales growth across all regions."
+mistral-small:22b,2,10," ### Strategic Sales Analysis for Head of Sales
+
+#### Evaluation of Sales Regions and Field Sales Representatives
+
+1. **Top Performing Regions:**
+   - **GB**: Fiscal Year 1 (FY1) sales were 8,194,778 and FY2 sales were 8,187,806. This region has shown consistent high performance across both fiscal years.
+   - **NL**: FY1 sales were 2,638,63 and FY2 sales were 2,846,62. This region also showed significant growth from FY1 to FY2.
+   - **DE**: FY1 sales were 1,962,90 and FY2 sales were 2,216,98. This region has shown steady performance with a notable increase in sales between fiscal years.
+
+2. **Underperforming Regions:**
+   - **AE**: FY1 sales were 8,046 and FY2 sales were 1,902. There is a significant drop in sales from FY1 to FY2.
+   - **BH**: FY1 sales were 2,313 and FY2 sales were 548. This region also shows a substantial decrease in sales between fiscal years.
+   - **NG**: FY1 sales are negative (-7), indicating significant issues that need immediate attention.
+
+#### Assessment of Customer Performance
+
+1. **High-Performing Customers:**
+   - **GB**: Customer IDs with high sales development indicate potential for deeper engagement or upselling opportunities.
+   - **NL**: Similarly, the top customers in this region show strong performance and could benefit from targeted upselling strategies.
+   - **DE**: The top customers here also demonstrate consistent growth, suggesting they are receptive to additional products or services.
+
+2. **Underperforming Customers:**
+   - **AE**: Customer IDs with significant drops in sales development need reactivation or support strategies.
+   - **BH**: Similar to AE, customers here show a substantial decrease in performance and require immediate attention.
+   - **NG**: The negative sales figures indicate critical issues that need urgent resolution.
+
+#### Recommendations for Strategic Actions
+
+1. **Recognizing Top-Performing Regions or Employees:**
+   - **GB, NL, DE**: Recognize and reward the field sales representatives in these regions for their consistent high performance. Consider implementing incentive programs to maintain this momentum.
+
+2. **Coaching or Training for Underperforming Areas:**
+   - **AE, BH, NG**: Conduct a thorough analysis of the issues affecting these regions. Implement targeted training and coaching programs for field sales representatives in these areas to improve their performance. Consider assigning high-performing representatives from other regions to mentor underperformers.
+
+3. **Customer Retention or Growth Strategies:**
+   - **High-Performing Customers (GB, NL, DE)**: Develop targeted upselling and cross-selling strategies for these customers. Personalized marketing campaigns and loyalty programs can help deepen engagement and increase sales.
+   - **Underperforming Customers (AE, BH, NG)**: Implement reactivation campaigns and provide additional support to these customers. Offer discounts or promotions to win back their business and improve their performance.
+
+4. **Additional Strategies:**
+   - **Regular Performance Reviews**: Schedule regular reviews of sales data to identify trends early and make timely adjustments to strategies.
+   - **Customer Feedback Loops**: Establish feedback loops with customers to understand their needs better and address any issues promptly.
+   - **Market Research**: Conduct market research in underperforming regions to understand local market dynamics and adapt sales strategies accordingly.
+
+By implementing these recommendations, the Head of Sales can effectively manage sales performance across different regions and customer segments, leading to improved overall sales growth and customer satisfaction."
